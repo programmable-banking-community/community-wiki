@@ -1,7 +1,7 @@
 # 🦓 Programmable Banking Community Wiki
 
 {% hint style="success" %}
-**Welcome to the Programmable Banking Wiki!** This notion acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.&#x20;
+**Welcome to the Programmable Banking Wiki - it's awesome that you are here!** This notion acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
