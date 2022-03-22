@@ -13,7 +13,9 @@ This tutorial is meant to help you achieve **2 things as quickly as possible** s
 
 ### Step 2: Open Investec Programmable Banking
 
-Log in to your online banking and select the programmable banking option
+Log in to your online banking and select the programmable banking option.
+
+![](.gitbook/assets/tut1)
 
 ### Step 3: Select the card you want to code
 
@@ -22,9 +24,13 @@ Log in to your online banking and select the programmable banking option
 * You can also use the mobile app to do that by tapping on your account, then on cards, and there you will see a toggle for programmable banking.
 * Often people forget they added code that blocks transactions and their card is declined at the shops and they call the call centre - so if your card declines at the shop, remember that you can disable your code from the mobile app.
 
+![](.gitbook/assets/tut2)
+
 ### Step 4: Setup your `main.js` file
 
 Replace all the code in your `main.js` file in the editor with that in the `[main.js](https://gitlab.com/offerzen-beta-community/investec-programmable-banking/programmable-card-starter-challenge/-/blob/master/main.js)` file in this repo. Make sure you _Deploy code to card_ when you're done.
+
+![](.gitbook/assets/tut3)
 
 > ProTip: Transaction log history
 
@@ -37,11 +43,23 @@ Replace all the code in your `main.js` file in the editor with that in the `[mai
 
 Get your Slack ID from OfferZen Community Slack:
 
-Now replace all the code in your `env.json` file in the editor with that in the `[env.json](https://gitlab.com/offerzen-beta-community/investec-programmable-banking/programmable-card-starter-challenge/-/blob/master/env.json)` file in this repo, and replace `YOUR_SLACK_ID_HERE` with your actual Slack ID. Deploy your code to card when you're done:
+![](.gitbook/assets/tut4)
+
+![](.gitbook/assets/tut5)
+
+Now replace all the code in your `env.json` file in
+
+&#x20;the editor with that in the `[env.json](https://gitlab.com/offerzen-beta-community/investec-programmable-banking/programmable-card-starter-challenge/-/blob/master/env.json)` file in this repo, and replace `YOUR_SLACK_ID_HERE` with your actual Slack ID. Deploy your code to card when you're done:
+
+![](.gitbook/assets/tut6)
 
 ### Step 6: Simulate a transaction in the programmable banking app!
 
+![](.gitbook/assets/tut7)
+
 ### Step 7: Celebrate when you see your notification on OfferZen Community Slack \o/
+
+![](.gitbook/assets/tut8)
 
 ### NB Step 8: Delete/edit your code
 

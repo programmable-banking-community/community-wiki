@@ -21,7 +21,7 @@ We want to make Programmable Banking a reality for South African developers and 
 3. Get the businesses where we work to build commercial value with [Programmable Business Banking](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000).
 
 {% tabs %}
-{% tab title="🎯  Do this First" %}
+{% tab title="🎯   Do this First" %}
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C02NLURKKRT) and say Howzit!/ gm. 😎
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for updates and community.
 * [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important.
@@ -29,14 +29,14 @@ We want to make Programmable Banking a reality for South African developers and 
 * [ ] Attend the next [meetup](https://lu.ma/ipb-community). 🙌
 {% endtab %}
 
-{% tab title="🦄   What" %}
+{% tab title="🦄    What" %}
 * 🤩 [Community Manifesto](community-manifesto.md)
 * 🛠 [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
 * 📚 [Blog posts](https://offerzen.com/blog)
 * 🦓 [New feature requests](https://programmable-banking-community.canny.io)
 {% endtab %}
 
-{% tab title="🛠  How" %}
+{% tab title="🛠   How" %}
 * 👨‍💻 [Developer Docs](https://developer.investec.com/programmable-banking/#programmable-banking)
 * 💳  [Card Tutorial](card-tutorial.md)
 * 🧳 [Use Cases ](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000)
@@ -45,7 +45,7 @@ We want to make Programmable Banking a reality for South African developers and 
 * **🙋‍♂️** [Submit issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
 {% endtab %}
 
-{% tab title="📍 Where" %}
+{% tab title="📍  Where" %}
 * 😁 [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
 * 🎉 [Events/ Meetups](https://lu.ma/ipb-community)
 * 🎥 [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
