@@ -5,7 +5,7 @@
 
 ### What
 * [Community Manifesto](community-manifesto.md)
-* * [Blog posts](blog-posts.md)
+* [Blog posts](blog-posts.md)
 
 ### How
 * [Card Tutorial](card-tutorial.md)
