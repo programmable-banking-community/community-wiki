@@ -1,7 +1,7 @@
-# 🦓 Programmable Banking Community Wiki
+# Programmable Banking Community Wiki
 
 {% hint style="success" %}
-**Welcome to the Programmable Banking Wiki - it's awesome that you are here!** This notion acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.&#x20;
+**Welcome to the Programmable Banking Wiki!** This notion acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.
 {% endhint %}
 
 {% hint style="info" %}
@@ -30,19 +30,19 @@ We want to make Programmable Banking a reality for South African developers and 
 {% endtab %}
 
 {% tab title="🦄   What" %}
-* 🤩 [Community Manifesto ](community-manifesto.md)
-* 🛠  [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
-* 📚 [Blog posts ](https://offerzen.com/blog)
-* 🦓  [New feature requests](https://programmable-banking-community.canny.io)
+* 🤩 [Community Manifesto](community-manifesto.md)
+* 🛠 [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
+* 📚 [Blog posts](https://offerzen.com/blog)
+* 🦓 [New feature requests](https://programmable-banking-community.canny.io)
 {% endtab %}
 
 {% tab title="🛠  How" %}
-* 👨‍💻  [Developer Docs](https://developer.investec.com/programmable-banking/#programmable-banking)****
-* **Card Tutorial**
-* Use Cases
-* Use Case Ideas
-* 🚀  [Hackthon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)****
-* **🙋‍♂️ Submit issues**
+* 👨‍💻 [Developer Docs](https://developer.investec.com/programmable-banking/#programmable-banking)
+* 💳  [Card Tutorial](card-tutorial.md)
+* 🧳 [Use Cases ](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000)
+* 🤯 [Use Case Ideas](use-cases.md)&#x20;
+* 🚀 [Hackthon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
+* **🙋‍♂️** [Submit issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
 {% endtab %}
 
 {% tab title="📍 Where" %}
