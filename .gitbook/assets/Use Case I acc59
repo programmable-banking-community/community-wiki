@@ -1,0 +1,22 @@
+﻿Name,Added By,Category,Created,How would a V0.1 look like?,Problem,Solution,Benefits
+Debit Order control,Nick Benson,Three-Legged-OAuth,"March 9, 2022 12:31 PM",TBD,Debit Order control,You can control payment outflows instead of external control.,All about returning control to the user
+Cyber fraud monitoring,Nick Benson,Three-Legged-OAuth,"March 9, 2022 12:30 PM","Web front front end for oauth to be granted.
+Configure parameters for distilling information or reporting
+Telegram messages for key transactions.
+Data to Keros to seek out patterns - deviations -> notification.",Cyber fraud is on the increase. People don't have the time to monitor their accounts for fraudulent activity.,Develop an application that monitors the bank account using machine learning to detect suspicious transactions and alert the user. 3 Legged OAuth is used to grant them access to their information. Include a parameters page that allows them to specify criteria.,Reduction of fraud risk for the client and increased awareness of the state of your account based on what is important to you.
+Pre-Auth Funds on Platform,Nick Benson,Three-Legged-OAuth,"March 9, 2022 11:58 AM","1) Create pre-auth platform for organisers & users to register on
+2) Create Guild Wars API
+3) User pre-auths that amount on your account
+4) App monitors your API (time trigged)
+5) Once completed - actions payment from the account to the charity.
+6) Report to the game master goals met.",Easy pre-auth of funds to a particular platform.,In game compt = depending on what goals are achieved then depends on how much money is paid over to the charity.,Gamify charity - fun on something that you do anyway
+Debt Awareness,Nick Benson,Transfer API,"March 9, 2022 11:56 AM","1) Google Form to capture debts
+2) Google Sheet to track debts
+3) Integrate Google with API
+4) Transfer sum of monthly amounts into bill payments account
+5) Assumption: Debit order comes off bill payments account",People don't have a good awareness of their debts,Set up a spreadsheet of your debt - automatically transfer money into bill payments account when your salary comes in,You ringfence your debt and pay it off. You know how much money you have left at the end of the month.
+,Nick Benson,,"March 9, 2022 11:54 AM",,,,
+Spreadsheet banking,Nick Benson,Transfer API,"December 20, 2021 12:19 PM","Create Google spreadsheet + template structure. Auth, too Investec. Pull Transactions. Populate Spreadsheet. Perform Transfer. Initiate Transfer from Spreadsheet",Most people/ businesses battle with effective and proactive money management,Create rules to ensure your money is always in the highest interest-bearing or saving account so either you transfer your money into your money market to make interest or your bond to save interest.,Proactive and smarter money management for personal or business accounts
+Frictionless Donations,Nick Benson,Transfer API,"December 20, 2021 12:07 PM",Auth to Account - Check last big payments. Cat. Transactions. Use that data to calculate deposable income. True/False in the formula. % of deposable income. Runs at the end of the month.,Donate to a cause. Variable donation %,Ring fence the donation amount.,Donating becomes frictionless
+Transfer credit to high-interest accounts,Nick Benson,Transfer API,"December 20, 2021 12:01 PM",Create a Cron based Lamba Function. Auth to Investec. Pull CC Balance. Move 50% into Hight Interest Account. Wait 44 Days. Transfer Original Amount Back,People don't always have money to save / they pay too much interest,Automatically save 50% of your credit in a high interest-bearing account - pay it automatically before you get charged interest,Mad Credit Score / Free Interest
+,Nick Benson,,"December 20, 2021 12:00 PM",,,,
