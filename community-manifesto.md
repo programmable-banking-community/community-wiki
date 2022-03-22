@@ -10,6 +10,8 @@ In early 2019, Investec approached the OfferZen team to talk about their mission
 
 In December 2019, Investec launched the programmable banking beta at OfferZen’s MERGE conference and we started to build the programmable banking community to get feedback and support from the tech community.
 
+![](.gitbook/assets/external)
+
 ## Purpose of the Community:
 
 Making programmable banking a reality for South African developers and businesses.
