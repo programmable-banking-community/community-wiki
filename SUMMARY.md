@@ -1,7 +1,7 @@
 # Table of contents
 
-### Welcome
-* [Programmable Banking Community Wiki](README.md)
+### Programmable Banking Community Wiki
+* [Start here](README.md)
 
 ### What
 * [Community Manifesto](community-manifesto.md)
