@@ -1,7 +1,7 @@
-# Programmable Banking Community Wiki
+# Start here
 
 {% hint style="success" %}
-**Welcome to the Programmable Banking Wiki!** This notion acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.
+**Welcome to the Programmable Banking Wiki!** This GitBook acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.
 {% endhint %}
 
 {% hint style="info" %}
@@ -32,7 +32,7 @@ We want to make Programmable Banking a reality for South African developers and 
 {% tab title="🦄    What" %}
 * 🤩 [Community Manifesto](community-manifesto.md)
 * 🛠 [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
-* 📚 [Blog posts](https://offerzen.com/blog)
+* 📚 [Blog posts](https://www.offerzen.com/blog#stq=Programmable%20Banking\&stp=1)
 * 🦓 [New feature requests](https://programmable-banking-community.canny.io)
 {% endtab %}
 
