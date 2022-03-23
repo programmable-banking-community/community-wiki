@@ -60,4 +60,8 @@ Contributing to existing projects, even in a small way e.g. feedback or ideas, f
 
 While we’re working on serious things, we should always have fun creating cool things together.
 
-***
+![](.gitbook/assets/p1)
+
+![](.gitbook/assets/p2)
+
+![](.gitbook/assets/p3)
