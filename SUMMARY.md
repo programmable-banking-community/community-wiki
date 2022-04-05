@@ -3,8 +3,12 @@
 ## Programmable Banking Community Wiki
 
 * [Start here](README.md)
-  * [Book a welcome call](https://calendly.com/nick-offerzen/community-welcome-chat)
-  * [Wave to your fans 👋](https://offerzen-community.slack.com/archives/C02NLURKKRT)
+  * [🙋‍♂️ Book a welcome call](https://calendly.com/nick-offerzen/community-welcome-chat)
+  * [👋 Wave to your fans](https://offerzen-community.slack.com/archives/C02NLURKKRT)
+  * [🤯 Stay informed & connected](https://offerzen-community.slack.com/archives/CUBJ511K8)
+  * [🎬 See where it all started](https://www.youtube.com/watch?v=PcU0aT5ckDM)
+  * [🛠 Build something simple](card-tutorial.md)
+  * [🚀 Join a Meetup](https://lu.ma/ipb-community)
 
 ## What
 
