@@ -2,7 +2,7 @@
 
 ## Programmable Banking Community Wiki V1
 
-* [Start here](README.md)
+* 🎯 [Start here](README.md)
   * [🙋‍♂️ Book a welcome call](https://calendly.com/nick-offerzen/community-welcome-chat)
   * [👋 Wave to your fans](https://offerzen-community.slack.com/archives/C02NLURKKRT)
   * [🤯 Stay informed](https://offerzen-community.slack.com/archives/CUBJ511K8)
@@ -10,14 +10,14 @@
   * [🛠 Build something simple](card-tutorial.md)
   * [🚀 Join a Meetup](https://lu.ma/ipb-community)
 
-## What
+## 🤩 What
 
 * [Community Manifesto](community-manifesto.md)
 * [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
 * [Blog posts](blog-posts.md)
 * [New Feature Requests](https://programmable-banking-community.canny.io)
 
-## How
+## 🧰 How
 
 * [Developer Docs](https://developer.investec.com/programmable-banking/#programmable-banking)
 * [Card Tutorial](card-tutorial.md)
@@ -26,7 +26,7 @@
 * [Hackathon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
 * [Submit Product Issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
 
-## Where
+## 📍 Where
 
 * [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
 * [Upcoming Events](https://lu.ma/ipb-community)
