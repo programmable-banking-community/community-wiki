@@ -29,3 +29,4 @@
   * [Events/ Meetups](https://lu.ma/ipb-community)
   * [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
   * [Contact Core Team](mailto:community-investec@offerzen.com)
+* [🧱 Q2 Hackathon 🦓](q2-hackathon.md)
