@@ -2,7 +2,7 @@
 description: Work in Progress - more content coming soon
 ---
 
-# Where
+# 📍 Where
 
 * 😁 [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
 * 🎉 [Events/ Meetups](https://lu.ma/ipb-community)

@@ -12,7 +12,7 @@
 
 ***
 
-* [🥲 What](what/README.md)
+* [🧭 What](what/README.md)
   * [Community Manifesto](community-manifesto.md)
   * [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
   * [Blog posts](blog-posts.md)
@@ -24,10 +24,8 @@
   * [Use Case Ideas](use-cases.md)
   * [Hackathon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
   * [Submit Product Issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
-* [Where](where/README.md)
+* [📍 Where](where/README.md)
   * [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
   * [Events/ Meetups](https://lu.ma/ipb-community)
   * [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
   * [Contact Core Team](mailto:community-investec@offerzen.com)
-
-## Where

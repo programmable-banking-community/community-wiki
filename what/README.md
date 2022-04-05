@@ -2,7 +2,7 @@
 description: Work in Progress - more content coming soon
 ---
 
-# 🥲 What
+# 🧭 What
 
 * 🤩 [Community Manifesto](../community-manifesto.md)
 * 🛠 [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
