@@ -1,6 +1,6 @@
 # Table of contents
 
-## Programmable Banking Community Wiki
+## Programmable Banking Community Wiki V1
 
 * [Start here](README.md)
   * [🙋‍♂️ Book a welcome call](https://calendly.com/nick-offerzen/community-welcome-chat)
