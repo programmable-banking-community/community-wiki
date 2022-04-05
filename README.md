@@ -20,20 +20,21 @@ We want to make Programmable Banking a reality for South African developers and 
 2. Give the Investec Product Team honest and critical feedback on what we want to improve.
 3. Get the businesses where we work to build commercial value with [Programmable Business Banking](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000).
 
-{% tabs %}
-{% tab title="🎯   Do this First" %}
-* [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C02NLURKKRT) and say Howzit!/ gm. 😎
-* [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for updates and community.
-* [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important.
-* [ ] Build your first Programmable Banking bot (5 min).
-* [ ] Attend the next [meetup](https://lu.ma/ipb-community). 🙌
-{% endtab %}
+## 🎯 Do this first
 
+* [ ] [Book an awesome Welcome call](https://calendly.com/nick-offerzen/community-welcome-chat) & get some swag! 👕
+* [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C02NLURKKRT) and say Howzit!/ gm. 😎
+* [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for NB updates and community. 🚀
+* [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important. 🦓
+* [ ] Build your [first Programmable Banking bot](card-tutorial.md) (5 min). 🛠
+* [ ] Attend the next [meetup](https://lu.ma/ipb-community). 🙌
+
+{% tabs %}
 {% tab title="🦄    What" %}
 * 🤩 [Community Manifesto](community-manifesto.md)
 * 🛠 [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
-* 📚 [Blog posts](https://www.offerzen.com/blog#stq=Programmable%20Banking\&stp=1)
-* 🦓 [New feature requests](https://programmable-banking-community.canny.io)
+* 📚 [Blog Posts](https://www.offerzen.com/blog#stq=Programmable%20Banking\&stp=1)
+* 🦓 [New Feature Requests](https://programmable-banking-community.canny.io)
 {% endtab %}
 
 {% tab title="🛠   How" %}
