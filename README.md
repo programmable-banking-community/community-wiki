@@ -59,4 +59,4 @@ We want to make Programmable Banking a reality for South African developers and 
 **Applications are now open to the public to join the community**. [Apply](https://8malmkzgvs8.typeform.com/to/VlKgTtaV).
 {% endhint %}
 
-✨ Programmable Banking Community Wiki _— 2022 Made by Badass unicorns_
+✨ Programmable Banking Community Wiki _— 2022 Made by Badass unicorns_ 🦄

@@ -8,4 +8,4 @@ A detailed list of all the blog posts created for & by the Programmable banking 
 \
 But **in the meantime**, you can take a look at community articles and transcripts posted on the [OfferZen blog](https://www.offerzen.com/blog#stq=Programmable%20Banking\&stp=1).
 
-![](.gitbook/assets/ziggy\_running.png)
+![](.gitbook/assets/ziggy\_running\_v1.png)
