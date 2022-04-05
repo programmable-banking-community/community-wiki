@@ -1,4 +1,4 @@
-# Card Tutorial
+# 🛠 Build something simple
 
 ## Purpose of this tutorial
 
@@ -49,7 +49,7 @@ Get your Slack ID from OfferZen Community Slack:
 
 Now replace all the code in your `env.json` file in
 
-&#x20;the editor with that in the `[env.json](https://gitlab.com/offerzen-beta-community/investec-programmable-banking/programmable-card-starter-challenge/-/blob/master/env.json)` file in this repo, and replace `YOUR_SLACK_ID_HERE` with your actual Slack ID. Deploy your code to card when you're done:
+the editor with that in the `[env.json](https://gitlab.com/offerzen-beta-community/investec-programmable-banking/programmable-card-starter-challenge/-/blob/master/env.json)` file in this repo, and replace `YOUR_SLACK_ID_HERE` with your actual Slack ID. Deploy your code to card when you're done:
 
 ![](.gitbook/assets/tut6)
 
