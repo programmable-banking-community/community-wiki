@@ -1,3 +1,3 @@
 # 💳 Q2 2022 Hackathon
 
-\[Copy coming soon]
+![\[Content coming soon\]](<../.gitbook/assets/Untitled design.png>)

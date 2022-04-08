@@ -2,6 +2,6 @@
 description: Work in Progress - more content coming soon
 ---
 
-# 🧱 Q2 Hackathon 🦓
+# 🧱 Build Events
 
-\[Copy coming soon]
+![\[When the content is ready, it will auto-magically appear here 🪄\]](../.gitbook/assets/shirt\_pandalf@2x.png)
