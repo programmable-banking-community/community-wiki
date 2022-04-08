@@ -4,7 +4,7 @@
 
 This tutorial is meant to help you achieve **2 things as quickly as possible** so that you can grasp the absolute basics of Investec’s Programmable Banking feature:
 
-1. Join OfferZen Community Slack so that you can send a message to an external system
+1. Join OfferZen Community [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) so that you can send a message to an external system
 2. Send a message to Slack from Investec Programmable Banking when you simulate a transaction to get a feel for how it works
 
 ## The challenge
