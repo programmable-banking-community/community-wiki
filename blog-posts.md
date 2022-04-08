@@ -4,8 +4,6 @@ description: Work in Progress - more content coming soon
 
 # Blog posts
 
-A detailed list of all the blog posts created for & by the Programmable Banking community will be listed here. (may take a little time..._there are a lot of them!_ 😅)
+📚 This is a list of all articles posted on the [OfferZen blog](https://www.offerzen.com/blog?tag=tech+insights), realating to the **Programmable Banking community**.&#x20;
 
-But **in the meantime**, you can take a look at community articles and transcripts posted on the [OfferZen blog](https://www.offerzen.com/blog#stq=Programmable%20Banking\&stp=1).
-
-![](<.gitbook/assets/Untitled design.png>)
+{% embed url="https://docs.google.com/spreadsheets/d/1OapzI-tGC4xaN4NfwymDFy7TYTLpfQ1HFbqrBC0wfNg/edit?usp=sharing" %}
