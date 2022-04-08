@@ -1,5 +1,5 @@
 ---
-description: Work in Progress - more content coming soon
+description: What is this community all about?
 ---
 
 # 🧭 What

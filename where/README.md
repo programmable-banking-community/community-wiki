@@ -1,5 +1,5 @@
 ---
-description: Work in Progress - more content coming soon
+description: Where can I go to learn and connect more with the community?
 ---
 
 # 📍 Where

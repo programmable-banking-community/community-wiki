@@ -1,12 +1,14 @@
 ---
-description: Work in Progress - more content coming soon
+description: >-
+  Be inspired by some cool and interesting ideas around Programmable Banking,
+  from the community
 ---
 
 # Use Case Ideas
 
-A list of possable use case ideas from community ideation sessions.&#x20;
+A collection of possible use case ideas from community-driven ideation sessions.
 
-### **Ideation Meetup 24 Februrary 2022:**
+### **Ideation Meetup 24 February 2022:**
 
 {% embed url="https://miro.com/app/board/uXjVOOhesVQ=?invite_link_id=76514178252" %}
 
