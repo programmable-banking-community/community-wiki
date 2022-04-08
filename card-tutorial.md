@@ -9,7 +9,7 @@ This tutorial is meant to help you achieve **2 things as quickly as possible** s
 
 ## The challenge
 
-### Step 1: Join `#rooty` on OfferZen Community Slack
+### Step 1: Join [`#rooty`](https://offerzen-community.slack.com/archives/CTZMZM2H1) on OfferZen Community Slack
 
 ### Step 2: Open Investec Programmable Banking
 
@@ -22,19 +22,19 @@ Log in to your online banking and select the programmable banking option.
 > ProTip: You can enable and disable the code on each card using the toggle below the cards.
 
 * You can also use the mobile app to do that by tapping on your account, then on cards, and there you will see a toggle for programmable banking.
-* Often people forget they added code that blocks transactions and their card is declined at the shops and they call the call centre - so if your card declines at the shop, remember that you can disable your code from the mobile app.
+* 💡 Often people forget they added code that blocks transactions and their card is declined at the shops and they call the call centre - so if your card declines at the shop, remember that you can disable your code from the mobile app.&#x20;
 
 ![](.gitbook/assets/tut2)
 
 ### Step 4: Setup your `main.js` file
 
-Replace all the code in your `main.js` file in the editor with that in the `[main.js](https://gitlab.com/offerzen-beta-community/investec-programmable-banking/programmable-card-starter-challenge/-/blob/master/main.js)` file in this repo. Make sure you _Deploy code to card_ when you're done.
+Replace all the code in your `main.js` file in the editor [with this code](https://gitlab.com/offerzen-community/investec-programmable-banking/programmable-card-starter-challenge/-/raw/master/main.js). Make sure you _Deploy code to card_ when you're done.
 
 ![](.gitbook/assets/tut3)
 
 > ProTip: Transaction log history
 
-* On the right hand side near the top of the screen you will see “Event logs”, you can click on that to get a history of transactions that you made with code enabled and the logs of those transactions - you can click on it to see this.
+* On the right-hand side near the top of the screen, you will see “Event logs”, you can click on that to get a history of transactions that you made with code enabled and the logs of those transactions - you can click on it to see this.
 * You will notice you have simulator logs and production logs.
 * Simulation transactions are fake transactions like the one we just ran which you can use for testing.
 * Production transactions are the real transactions you make when you use your card.
@@ -43,13 +43,9 @@ Replace all the code in your `main.js` file in the editor with that in the `[mai
 
 Get your Slack ID from OfferZen Community Slack:
 
-![](.gitbook/assets/tut4)
+![](.gitbook/assets/Slack\_\_ID\_Get.gif)
 
-![](.gitbook/assets/tut5)
-
-Now replace all the code in your `env.json` file in
-
-the editor with that in the `[env.json](https://gitlab.com/offerzen-beta-community/investec-programmable-banking/programmable-card-starter-challenge/-/blob/master/env.json)` file in this repo, and replace `YOUR_SLACK_ID_HERE` with your actual Slack ID. Deploy your code to card when you're done:
+Now replace all the code in your `env.json` file [with this code](https://gitlab.com/offerzen-community/investec-programmable-banking/programmable-card-starter-challenge/-/raw/master/env.json) in the editor, and replace `YOUR_SLACK_ID_HERE` with **your actual Slack ID**. Deploy your code to card when you're done:
 
 ![](.gitbook/assets/tut6)
 
@@ -59,8 +55,8 @@ the editor with that in the `[env.json](https://gitlab.com/offerzen-beta-communi
 
 ### Step 7: Celebrate when you see your notification on OfferZen Community Slack \o/
 
-![](.gitbook/assets/tut8)
+![](<.gitbook/assets/Screenshot 2022-04-08 at 09.43.37.png>)
 
-### NB Step 8: Delete/edit your code
+### <mark style="color:red;">**NB**</mark> Step 8: Delete/edit your code
 
 This code is now live on your card. Please make sure you clear it out or delete it to ensure that your live transactions aren't posted into `#rooty`
