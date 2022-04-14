@@ -24,4 +24,4 @@
   * [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
   * [Contact Core Team](mailto:community-investec@offerzen.com)
 * [🧱 Build Events](build-events/README.md)
-  * [💳 Q2 2022 Hackathon](build-events/q2-2022-hackathon.md)
+  * [💳 Q2 2022 Hackathon | low-code/no-code](build-events/q2-2022-hackathon-or-low-code-no-code.md)
