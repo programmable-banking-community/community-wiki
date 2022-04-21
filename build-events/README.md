@@ -20,7 +20,7 @@ This is a virtual community hackathon. The challenge is to create **useful solut
 \
 You and your team are the credited ‘owners’ of your ideas, code and content. In the [spirit of the community](../community-manifesto.md), you are however required to open source your code under the [MIT License](https://opensource.org/licenses/MIT); see Rules and FAQs for more info.\
 \
-You can chat to us any time in the dedicated [**Hackathon Slack channel**](https://offerzen-community.slack.com/archives/C03CC6RJHDG) or email us at [community-investec@offerzen.com](mailto:community-investec@offerzen.com).
+You can chat with us any time in the dedicated [**Hackathon Slack channel**](https://offerzen-community.slack.com/archives/C03CC6RJHDG) or email us at [community-investec@offerzen.com](mailto:community-investec@offerzen.com).
 
 ### **Who can participate?**&#x20;
 
@@ -35,7 +35,7 @@ Each submission must include:
 * [ ] A link to an app/system/solution that has been released under the [MIT Licence](https://opensource.org/licenses/MIT) and uses the Spreadsheet banking app \[you can also use the [Investec Programmable Card](https://developer.investec.com/programmable-banking/#features-included) and other features on [Investec Open API](https://developer.investec.com/programmable-banking/#open-api)].&#x20;
 * [ ] Open source code repo and documentation for setting up your solution.&#x20;
 * [ ] Two-minute video/ live demo of your solution showing how to use it and how it solves a business user's problem.&#x20;
-* [ ] A brief description of the problem your solution solves, how your solution works and how it makes use of Programmable Banking as well as the benefits of your solution (see [one-page pitch template](https://docs.google.com/presentation/d/1yk5F009f-4KPG9moysxEX40mmL1M45d0VCQj1zsOyHk/edit?usp=sharing) that should be used)&#x20;
+* [ ] A brief description of the problem your solution solves, how your solution works and how it makes use of Programmable Banking and Spreadsheet banking as well as the benefits of your solution (see [one-page pitch template](https://docs.google.com/presentation/d/1yk5F009f-4KPG9moysxEX40mmL1M45d0VCQj1zsOyHk/edit?usp=sharing) that should be used)&#x20;
 * [ ] Optional team photo 💜.
 
 #### More details to be shared shortly [here](q2-2022-hackathon-or-low-code-no-code.md) 🦄
