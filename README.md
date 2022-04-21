@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-We [meet once a month](https://lu.ma/ipb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎
+We [meet once a month](https://lu.ma/ipb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎&#x20;
 {% endhint %}
 
 ## ✨ About
@@ -53,9 +53,5 @@ We want to make Programmable Banking a reality for South African developers and 
 * 🤙 [Contact Core team](mailto:community-investec@offerzen.com)
 {% endtab %}
 {% endtabs %}
-
-{% hint style="warning" %}
-**Applications are now open to the public to join the community**. [Apply](https://8malmkzgvs8.typeform.com/to/VlKgTtaV).
-{% endhint %}
 
 ✨ Programmable Banking Community Wiki _— 2022 Made by Badass unicorns_ 🦄
