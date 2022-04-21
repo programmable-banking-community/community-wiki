@@ -8,7 +8,7 @@ Hey Peeps!!!&#x20;
 
 We were blown away by all the amazing projects you built and submitted for [our Q4 hackathon last year](https://docs.google.com/spreadsheets/d/1cWZQtru2zXkkVjEnbOZiCbwbTW1LcpgEsUalt1Vwlog/edit#gid=417688078) and hope that you are ready for the next one!&#x20;
 
-This quarter, our hackathon theme is **Low-code/ No-code** and it will be launching on 21 April. We are really looking forward to seeing what you guys come up with.&#x20;
+This quarter, our hackathon theme is **Low-code/ No-code**. We are really looking forward to seeing what you guys come up with.&#x20;
 
 The hackathon aims to promote the development of open-source software and collaboration between participants for the overall benefit of the community.&#x20;
 
