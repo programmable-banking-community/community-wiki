@@ -131,3 +131,64 @@ By submitting, you grant OfferZen & Investec permission to use screenshots, code
 * Disqualification - you may be disqualified and forfeit any prizes you may be eligible to receive if OfferZen or Investec reasonably believes that you have not complied with or attempted to undermine the legitimate operation of the Programmable Banking Hackathon.&#x20;
 * Sponsors scoring - Sponsors will assess submissions completely at their discretion and are not required to provide explanations for their decisions.
 
+## FAQs
+
+<details>
+
+<summary><strong>How many people can be on my team? Can I enter alone?</strong></summary>
+
+You may enter alone or in a team. Please try to keep team sizes (1-5).
+
+</details>
+
+<details>
+
+<summary><strong>Can I/ my team apply more than once?</strong></summary>
+
+You may apply as many times as you want - but each application needs to be accompanied by a unique submission. We reserve the right to reject any application and will probably ask you to rather focus on one submission and make it really good.
+
+</details>
+
+<details>
+
+<summary><strong>Can I be part of multiple teams?</strong></summary>
+
+You can, but given the short time frame, we find the best and most thought out solutions come from people/ teams who focus on solving one problem at a time. It also helps when it comes time to divide up the winnings - who contributed most to the winning solution? :)
+
+</details>
+
+<details>
+
+<summary><strong>I don't have Programmable Banking; can I participate?</strong></summary>
+
+* You will need to get access to an account either by opening one, getting permission to access one from an account holder, or working in a team with someone who does have access. You can find out more about opening an account and accessing Programmable Banking here: P[rogrammable banking for software developers](https://www.investec.com/en\_za/banking/programmable-banking.html).
+* An Investec Private Bank account holder will need to get Programmable Banking activated on their account by asking their Investec Private Banker.
+* If you prefer **access to a general community live test account**, please [register your intent to participate](https://8malmkzgvs8.typeform.com/to/edFvATSl) in the Hackathon before submissions open.
+
+</details>
+
+<details>
+
+<summary><strong>What happens after the hackathon?</strong></summary>
+
+* Teams will be asked to present technical demos of their solutions at future Programmable Banking Community Meetups.
+* OfferZen may reach out to you about publishing your solution pitch and demo on the [OfferZen Blog](https://www.offerzen.com/blog) to showcase it to the [companies](https://www.offerzen.com/companies/public\_list) and [developers](https://www.offerzen.com/nl/community) that use OfferZen.
+
+</details>
+
+<details>
+
+<summary><strong>Can you help me get started or answer my questions?</strong></summary>
+
+You can reach out to us at [community-investec@offerzen.com](mailto:community-investec@offerzen.com), and we will do our best to help you get started or answer your questions.
+
+</details>
+
+<details>
+
+<summary><strong>Who owns the legal rights to my idea or solution/ can anyone 'steal' my idea?</strong></summary>
+
+* You own your ideas, code, and other content you create; however, it is required to open source your submission under the [MIT License](https://opensource.org/licenses/MIT).
+* **Your submission is subject to the** [**OfferZen Terms and Conditions**](https://www.offerzen.com/terms/)**.**
+
+</details>
