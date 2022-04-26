@@ -6,6 +6,8 @@
 If you are looking to test an API solution locally and quickly, check out this [community shared API simulator](https://github.com/devinpearson/programmable-banking-sim).&#x20;
 {% endhint %}
 
+#### [Timelines](q2-2022-hackathon-or-low-code-no-code.md#when-does-everything-happen-or-timelines) | [Prize Categories](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-prize-categories) | [Submissions](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build) | [Judging Criteria](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) | [Support](q2-2022-hackathon-or-low-code-no-code.md#where-can-i-find-help-from-the-community) | [FAQs](q2-2022-hackathon-or-low-code-no-code.md#faqs)&#x20;
+
 ## Build event details
 
 Please reach out to [community-investec@offerzen.com](mailto:community-investec@offerzen.com) with any questions.&#x20;
@@ -40,7 +42,7 @@ You must use the Spreadsheeting banking app in some way in your solution.
 * Community Votes & Sponsor **deliberation between Mon 20 - Fri 24 June**&#x20;
 * Winners Demos: **Thur 30 June**
 
-#### **What are the prize categories:**
+#### **What are the prize categories?:**
 
 * Two end-user sponsors will have Ziggy bags filled with R45k of hard grazed cash each to invest in submitted projects and the amounts they see fit.&#x20;
 * Each Zebra will bid and offer cash to as many submissions as they want to invest in, and each submission chosen will be granted a good faith agreement.&#x20;
@@ -57,6 +59,8 @@ All team members who submitted a complete application will receive Programmable 
 **Please see "Winners and Live Demos on 30 June 2022" below, "Prizes for winning teams", and "Forfeit of winning teams" under Rules below for more info.**
 {% endhint %}
 
+#### [Timelines](q2-2022-hackathon-or-low-code-no-code.md#when-does-everything-happen-or-timelines) | [Prize Categories](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-prize-categories) | [Submissions](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build) | [Judging Criteria](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) | [Support](q2-2022-hackathon-or-low-code-no-code.md#where-can-i-find-help-from-the-community) | [FAQs](q2-2022-hackathon-or-low-code-no-code.md#faqs)&#x20;
+
 ### **What do I need to know to submit my build?:**
 
 You will be asked to provide the following when submitting your build:
@@ -72,6 +76,8 @@ You will be asked to provide the following when submitting your build:
 **Note:** A majority (80%+) of your design elements, code, etc., for your project/feature, must be created for the event - i.e. it can't be something that you have already built. \
 **Your solution can use any language or framework.**
 {% endhint %}
+
+#### [Timelines](q2-2022-hackathon-or-low-code-no-code.md#when-does-everything-happen-or-timelines) | [Prize Categories](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-prize-categories) | [Submissions](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build) | [Judging Criteria](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) | [Support](q2-2022-hackathon-or-low-code-no-code.md#where-can-i-find-help-from-the-community) | [FAQs](q2-2022-hackathon-or-low-code-no-code.md#faqs)&#x20;
 
 ### What are the criteria for Sponsors looking at submissions?
 
@@ -99,11 +105,13 @@ We'll be contacting and announcing winners throughout the week after submission 
 **If no one from a winning team attends the meetup and demos their solution, that team will forfeit, and the runner up will be awarded their winnings - please carefully read “Forfeit of teams” in the Rules section.**
 {% endhint %}
 
+#### [Timelines](q2-2022-hackathon-or-low-code-no-code.md#when-does-everything-happen-or-timelines) | [Prize Categories](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-prize-categories) | [Submissions](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build) | [Judging Criteria](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) | [Support](q2-2022-hackathon-or-low-code-no-code.md#where-can-i-find-help-from-the-community) | [FAQs](q2-2022-hackathon-or-low-code-no-code.md#faqs)&#x20;
+
 ### Where can I find help from the community?
 
 Hang out with participating teams and the [community on Slack](https://offerzen-community.slack.com/archives/C03CC6RJHDG) if you need help/ advice when building or find other people to join your team. Join us even if you just want to chill and watch other people build!
 
-**Join our Slack channel:** [**here**](https://offerzen-community.slack.com/archives/C03CC6RJHDG)**.**&#x20;
+> **Join the Hackathon Slack channel:** [**here**](https://offerzen-community.slack.com/archives/C03CC6RJHDG)**.**&#x20;
 
 ### **Resources & guides:**
 
@@ -130,6 +138,8 @@ By submitting, you grant OfferZen & Investec permission to use screenshots, code
 * Forfeit of teams - if a winning team does not present their solution at the Winners and Demos Meetup on 30 June 2022, winnings (both position and prize) will be forfeited and given to a runner up. Exceptions may be made under extenuating circumstances and at the discretion of the OfferZen Community Management team.&#x20;
 * Disqualification - you may be disqualified and forfeit any prizes you may be eligible to receive if OfferZen or Investec reasonably believes that you have not complied with or attempted to undermine the legitimate operation of the Programmable Banking Hackathon.&#x20;
 * Sponsors scoring - Sponsors will assess submissions completely at their discretion and are not required to provide explanations for their decisions.
+
+#### [Timelines](q2-2022-hackathon-or-low-code-no-code.md#when-does-everything-happen-or-timelines) | [Prize Categories](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-prize-categories) | [Submissions](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build) | [Judging Criteria](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) | [Support](q2-2022-hackathon-or-low-code-no-code.md#where-can-i-find-help-from-the-community) | [FAQs](q2-2022-hackathon-or-low-code-no-code.md#faqs)&#x20;
 
 ## FAQs
 
