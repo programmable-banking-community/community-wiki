@@ -1,6 +1,6 @@
 # 💳 Q2 2022 Hackathon | low-code/no-code
 
-> [**Register here to join the Hackathon**](https://8malmkzgvs8.typeform.com/to/edFvATSl) and let us know if you also require access to a live demo/ community account - rather than using your own Investec account.
+> [**Register here to join the Hackathon**](https://8malmkzgvs8.typeform.com/to/edFvATSl) and let us know in the entry form if you also require access to a live demo/ community account - rather than using your own Investec accoun?.
 
 {% hint style="info" %}
 If you are looking to test an API solution locally and quickly, check out this [community shared API simulator](https://github.com/devinpearson/programmable-banking-sim).&#x20;
