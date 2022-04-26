@@ -119,6 +119,8 @@ Here's a collection of resources that will help you start building with Investec
 
 * [Programmable Banking – Programmable Banking API Reference ](https://developer.investec.com/programmable-banking/#programmable-banking)
 * [Previous Community Builds for some inspiration](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
+* [Blog post on what Spreadsheet banking is](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets)
+* [YouTube video on Spreadsheet banking using Excel](https://www.youtube.com/watch?v=6IFS4NbZiLE\&t=1289s)
 
 ### **Additional Info:**
 
