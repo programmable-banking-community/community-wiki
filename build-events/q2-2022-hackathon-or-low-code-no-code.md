@@ -1,4 +1,4 @@
-# 💳 Q2 2022 Hackathon | low-code/no-code
+# 💳 2022 Hackathon | low-code/no-code
 
 > [**Register here to join the Hackathon**](https://8malmkzgvs8.typeform.com/to/edFvATSl) and let us know in the entry form if you also require access to a live demo/ community account - rather than using your own Investec accoun?.
 
@@ -36,11 +36,12 @@ You must use the Spreadsheeting banking app in some way in your solution.
 #### **When does everything happen? | Timelines:**
 
 * ✅ Hackathon teaser at the Meetup: Thur 21, April 222&#x20;
-* Ideation meetup: **Thur 26 May @ 18h30** - Meet your two end-users&#x20;
-* Submissions Open: **Friday 27 May** ( ** **_<mark style="color:green;">**<-- START CODING**</mark>_)&#x20;
-* Submission Close: **Fri 17 June**&#x20;
-* Community Votes & Sponsor **deliberation between Mon 20 - Fri 24 June**&#x20;
-* Winners Demos: **Thur 30 June**
+* Ideation meetup: **Thur 26 May @ 18h30** - Play around with an alpha version
+* Launch meetup: **Thur 30 June @ 18h30** - All the deets and how to get started
+* [Submissions Open](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build): **Thur 30 June** ( ** **_<mark style="color:green;">**<-- START CODING**</mark>_)&#x20;
+* [Submission Close](q2-2022-hackathon-or-low-code-no-code.md#nitty-gritty-rules): **Fri 22 July 23h59 SAST** ( <mark style="color:red;">****</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**<-- STOP CODING**</mark>_)&#x20;
+* [Community Votes & Sponsor](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) **deliberation between Mon 25 - Wed 27 July**&#x20;
+* Winners Demos: **Thur 28 July**
 
 #### **What are the prize categories?:**
 
@@ -56,12 +57,12 @@ All team members who submitted a complete application will receive Programmable 
 {% endhint %}
 
 {% hint style="info" %}
-**Please see "Winners and Live Demos on 30 June 2022" below, "Prizes for winning teams", and "Forfeit of winning teams" under Rules below for more info.**
+**Please see "Winners and Live Demos on 28 July 2022" below, "Prizes for winning teams", and "Forfeit of winning teams" under Rules below for more info.**
 {% endhint %}
 
 #### [Timelines](q2-2022-hackathon-or-low-code-no-code.md#when-does-everything-happen-or-timelines) | [Prize Categories](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-prize-categories) | [Submissions](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build) | [Judging Criteria](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) | [Support](q2-2022-hackathon-or-low-code-no-code.md#where-can-i-find-help-from-the-community) | [FAQs](q2-2022-hackathon-or-low-code-no-code.md#faqs)&#x20;
 
-### **What do I need to know to submit my build?:**
+### **What do I need to submit my build?:**
 
 You will be asked to provide the following when submitting your build:
 
@@ -99,7 +100,7 @@ The End-User Sponsors will be looking for a few things when considering how they
 
 We'll be contacting and announcing winners throughout the week after submission closes.&#x20;
 
-<mark style="color:red;">**NB**</mark>! To qualify as a winner, each team must perform a live demo of how their solution works and answer questions from the audience in a **10-minute slot at the Programmable Banking Meetup at 6:30 pm on 30 June 2022**. We will let winners know by 29 June that they have won to prepare for the demo.
+<mark style="color:red;">**NB**</mark>! To qualify as a winner, each team must perform a live demo of how their solution works and answer questions from the audience in a **10-minute slot at the Programmable Banking Meetup at 6:30 pm on 28 July 2022**. We will let winners know by 29 June that they have won to prepare for the demo.
 
 {% hint style="danger" %}
 **If no one from a winning team attends the meetup and demos their solution, that team will forfeit, and the runner up will be awarded their winnings - please carefully read “Forfeit of teams” in the Rules section.**
@@ -137,7 +138,7 @@ By submitting, you grant OfferZen & Investec permission to use screenshots, code
 ### **Nitty-gritty rules:**
 
 * Prizes for teams - the full prize amount will be deposited into the selected bank account supplied by the winning team's Team Lead. Teams are responsible for dividing prizes amongst themselves.&#x20;
-* Forfeit of teams - if a winning team does not present their solution at the Winners and Demos Meetup on 30 June 2022, winnings (both position and prize) will be forfeited and given to a runner up. Exceptions may be made under extenuating circumstances and at the discretion of the OfferZen Community Management team.&#x20;
+* Forfeit of teams - if a winning team does not present their solution at the Winners and Demos Meetup on 28 July 2022, winnings (both position and prize) will be forfeited and given to a runner up. Exceptions may be made under extenuating circumstances and at the discretion of the OfferZen Community Management team.&#x20;
 * Disqualification - you may be disqualified and forfeit any prizes you may be eligible to receive if OfferZen or Investec reasonably believes that you have not complied with or attempted to undermine the legitimate operation of the Programmable Banking Hackathon.&#x20;
 * Sponsors scoring - Sponsors will assess submissions completely at their discretion and are not required to provide explanations for their decisions.
 
