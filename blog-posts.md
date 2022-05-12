@@ -11,3 +11,5 @@ description: Work in Progress - more content coming soon
 {% endhint %}
 
 {% embed url="https://docs.google.com/spreadsheets/d/1OapzI-tGC4xaN4NfwymDFy7TYTLpfQ1HFbqrBC0wfNg/edit?usp=sharing" %}
+View the [Google sheet list here](https://docs.google.com/spreadsheets/d/1OapzI-tGC4xaN4NfwymDFy7TYTLpfQ1HFbqrBC0wfNg/edit?usp=sharing)
+{% endembed %}
