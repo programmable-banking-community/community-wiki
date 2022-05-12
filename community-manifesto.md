@@ -10,6 +10,11 @@ In early 2019, Investec approached the OfferZen team to talk about their mission
 
 In December 2019, Investec launched the programmable banking beta at OfferZen’s MERGE conference and we started to build the programmable banking community to get feedback and support from the tech community.
 
+{% hint style="info" %}
+Investec's Programmable Banking went public into the market on 15 March 2022. \
+You can [read more about that public launch here](https://www.investec.com/en\_za/welcome-to-investec/press/investec-launch-programmable-banking.html).
+{% endhint %}
+
 ![](.gitbook/assets/external)
 
 ## Purpose of the Community:
@@ -60,8 +65,6 @@ Contributing to existing projects, even in a small way e.g. feedback or ideas, f
 
 While we’re working on serious things, we should always have fun creating cool things together.
 
-![](.gitbook/assets/p1)
-
-![](.gitbook/assets/p2)
-
-![](.gitbook/assets/p3)
+{% embed url="https://docs.google.com/presentation/d/1KLX02NB-dK6qAObzn4daicRFlRt6JiZTcqTDPBwzvxo/edit?usp=sharing" %}
+View the [Google slides here](https://docs.google.com/presentation/d/1KLX02NB-dK6qAObzn4daicRFlRt6JiZTcqTDPBwzvxo/edit?usp=sharing).
+{% endembed %}
