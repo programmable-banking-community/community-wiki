@@ -11,8 +11,8 @@ In early 2019, Investec approached the OfferZen team to talk about their mission
 In December 2019, Investec launched the programmable banking beta at OfferZen’s MERGE conference and we started to build the programmable banking community to get feedback and support from the tech community.
 
 {% hint style="info" %}
-Investec's Programmable Banking went public into the market on 15 March 2022. \
-You can [read more about that public launch here](https://www.investec.com/en\_za/welcome-to-investec/press/investec-launch-programmable-banking.html).
+Investec's Programmable Banking went public in the market on **15 March 2022**. \
+Read the [press release here](https://www.investec.com/en\_za/welcome-to-investec/press/investec-launch-programmable-banking.html).
 {% endhint %}
 
 ![](.gitbook/assets/external)
