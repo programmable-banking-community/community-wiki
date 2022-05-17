@@ -2,7 +2,7 @@
 
 ### How do I participate in the community?
 
-There are plenty of ways to be active in the community; here are just a few examples;
+There are plenty of ways to be active in the community. Here are just a few examples;
 
 ![Examples of how to be active in the community](<../.gitbook/assets/\[External] Programmable Banking Meetup 27 Jan 2022.png>)
 
