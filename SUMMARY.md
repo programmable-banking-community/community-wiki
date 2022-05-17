@@ -18,6 +18,7 @@
   * [Use Case Ideas](use-cases.md)
   * [Hackathon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
   * [Submit Product Issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
+* [Get involved & earn swag](get-involved-and-earn-swag.md)
 * [📍 Where](where/README.md)
   * [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
   * [Events/ Meetups](https://lu.ma/ipb-community)

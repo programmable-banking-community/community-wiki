@@ -167,7 +167,7 @@ It is a requirement to open source your submission under the [MIT License](https
 By submitting, you grant OfferZen & Investec permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels. OfferZen and Investec do not make any claims over your IP.
 
 {% hint style="warning" %}
-**Things we didn’t think of - **<mark style="color:red;">**SPOILER ALERT**</mark>**! We are humans. The OfferZen Community Management Team will try to be fair and inclusive. We reserve the right to have the final say in unforeseen circumstances. Please email us regarding any issues: c**[**ommunity-investec@offerzen.com**](http://ommunity-investec@offerzen.com)**.**
+**Things we didn’t think of - **<mark style="color:red;">**SPOILER ALERT**</mark>**! We are humans. The OfferZen Community Management Team will try to be fair and inclusive. We reserve the right to have the final say in unforeseen circumstances. Please email us regarding any issues: c**[**ommunity-investec@offerzen.com**](http://ommunity-investec@offerzen.com/)**.**
 {% endhint %}
 
 ### **Nitty-gritty rules:**

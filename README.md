@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-We [meet once a month](https://lu.ma/ipb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎&#x20;
+We [meet once a month](https://lu.ma/ipb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎
 {% endhint %}
 
 ## ✨ About
@@ -45,6 +45,7 @@ You are going to encounter new ideas, inspiration and a treasure trove of helpfu
 * 🤯 [Use Case Ideas](use-cases.md)
 * 🚀 [Passed Hackathon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
 * **🙋‍♂️** [Submit issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
+* Get involved & grab some swag
 {% endtab %}
 
 {% tab title="📍  Where" %}
