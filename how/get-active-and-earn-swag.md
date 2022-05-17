@@ -8,7 +8,7 @@ There are plenty of ways to be active in the community; here are just a few exam
 
 ### What's the swag like?
 
-I presume you would like to know the most crucial question; 'Cool, but _how do I get my hands on some sweet swag?'_
+I presume you would like to know the most crucial question; 'Cool, but what's the swag like_?'_
 
 Check out a few things we give to awesome community members who live [our core principles and values](../community-manifesto.md#core-principles-and-values). 👇
 
@@ -16,7 +16,7 @@ Check out a few things we give to awesome community members who live [our core p
 
 ### How do I get some swag?
 
-There are several ways, and again, here are just a few examples we have given swag out for.&#x20;
+There are several ways to earn yourself some s_weet, sweet swag_. This list below is by no means the only way, but they are the most common ways. So take a look and let us know if there is something we missed.
 
 {% hint style="info" %}
 **Pro Tip:** We generally give out swag for just being cool peeps in the community who give back and live our [core principles and values](../community-manifesto.md#core-principles-and-values).
