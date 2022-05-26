@@ -6,6 +6,12 @@ The [Spreadsheet Banking project](https://www.offerzen.com/blog/programmable-ban
 [Register here](https://8malmkzgvs8.typeform.com/to/BLrc8k7X) if you're keen to go after one of these bounties!
 {% endhint %}
 
+as
+
+{% embed url="https://docs.google.com/spreadsheets/d/1o4dsfhrO2euaA0D-UszE9lbhL8usXtPkyDTkJx2sXqg/edit?usp=sharing" %}
+
+as
+
 |                   🎯 Thing                   |                                                                                                                                              🤩 Why it's valuable                                                                                                                                              |                                                                                             🤔 How it might work                                                                                            | 💪 Difficulty bounty |
 | :------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------: |
 |     Use AI to categorize my transactions     |                                                           It's a bit laborious having to manage a lookup table, and it's not that smart at guessing my categories. I think AI could make this much more flexible and less effort for me to maintain.                                                           |                                         Let me choose which transactions to include as "sample data" for GPT3, and then get GPT3 to categorize each new transaction                                         |    Epic swag pack    |
