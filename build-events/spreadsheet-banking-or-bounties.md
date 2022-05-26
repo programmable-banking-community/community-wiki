@@ -1,6 +1,7 @@
 # 💰 Spreadsheet Banking | Bounties
 
-The [Spreadsheet Banking project](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets) is offering up bounties for a few brave souls up for the challenge. Take a look below and let us know if you're up for the challenge!&#x20;
+The [Spreadsheet Banking project](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets) team are offering up bounties 💰 for a few brave souls. \
+So if you are up for the challenge, add your name to the wall of heroes today!
 
 {% hint style="success" %}
 [Register here](https://8malmkzgvs8.typeform.com/to/BLrc8k7X) if you're keen to go after one of these bounties!
