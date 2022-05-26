@@ -4,7 +4,7 @@ The [Spreadsheet Banking project](https://www.offerzen.com/blog/programmable-ban
 So if you are up for the challenge, add your name to the wall of heroes today!
 
 {% hint style="success" %}
-[Register here](https://8malmkzgvs8.typeform.com/to/BLrc8k7X) if you're keen to go after one of these bounties!
+[Register here](https://8malmkzgvs8.typeform.com/to/BLrc8k7X) if you're keen to go after and claim one of these bounties!
 {% endhint %}
 
 {% hint style="info" %}
