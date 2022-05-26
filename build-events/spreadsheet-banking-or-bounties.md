@@ -1,6 +1,6 @@
 # 💰 Spreadsheet Banking | Bounties
 
-The bounties you can claim for helping to build more functionality for the S[preadsheet Banking project](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets) are listed below - take your pick!&#x20;
+The [Spreadsheet Banking project](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets) is offering up bounties for a few brave souls up for the challenge. Take a look below and let us know if you're up for the challenge!&#x20;
 
 {% hint style="warning" %}
 [Register here](https://8malmkzgvs8.typeform.com/to/BLrc8k7X) if you're keen to go after one of these bounties!
