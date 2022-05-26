@@ -6,11 +6,11 @@ The [Spreadsheet Banking project](https://www.offerzen.com/blog/programmable-ban
 [Register here](https://8malmkzgvs8.typeform.com/to/BLrc8k7X) if you're keen to go after one of these bounties!
 {% endhint %}
 
-as
+Embedded Version:
 
 {% embed url="https://docs.google.com/spreadsheets/d/1o4dsfhrO2euaA0D-UszE9lbhL8usXtPkyDTkJx2sXqg/edit?usp=sharing" %}
 
-as
+Copy and paste version:
 
 |                   🎯 Thing                   |                                                                                                                                              🤩 Why it's valuable                                                                                                                                              |                                                                                             🤔 How it might work                                                                                            | 💪 Difficulty bounty |
 | :------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------: |
