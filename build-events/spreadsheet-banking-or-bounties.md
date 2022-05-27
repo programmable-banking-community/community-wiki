@@ -3,6 +3,8 @@
 The [Spreadsheet Banking project](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets) team are offering up bounties 💰 for a few brave souls. \
 So if you are up for the challenge, add your name to the wall of heroes today!
 
+> 👀 A sample template of [what can be done with Spreadsheets using Google Sheets](https://docs.google.com/spreadsheets/d/13E10a4klvcbgFT362fKtoUWEm2ecUKfos8eiLYJGPfM/copy).
+
 {% hint style="success" %}
 [Register here](https://8malmkzgvs8.typeform.com/to/BLrc8k7X) if you're keen to go after and claim one of these bounties!
 {% endhint %}
