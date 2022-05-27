@@ -1,7 +1,11 @@
 # 🎯 Start here
 
 {% hint style="success" %}
-**Welcome to the Programmable Banking Wiki!** This GitBook acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources.
+**Welcome to the Programmable Banking Wiki!** This GitBook acts as a public repository and source of truth for the [Programmable Banking](https://www.offerzen.com/community/investec/) community resources :tada:
+{% endhint %}
+
+{% hint style="warning" %}
+If you're not a member yet - feel free to [sign-up here to get access](https://8malmkzgvs8.typeform.com/to/VlKgTtaV) to all the resources and cool events :magic\_wand:
 {% endhint %}
 
 {% hint style="info" %}
