@@ -59,7 +59,7 @@ You are going to encounter new ideas, inspiration and a treasure trove of helpfu
 * 🤙 [Contact Core team](mailto:community-investec@offerzen.com)
 {% endtab %}
 
-{% tab title="🧱 Build Challenges" %}
+{% tab title="🧱 Build" %}
 * 💳 [Hackathon Challenges](build-events/)
 * 💰 [Spreadsheet Banking Bounties](build-events/spreadsheet-banking-or-bounties.md)
 {% endtab %}
