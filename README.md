@@ -58,6 +58,11 @@ You are going to encounter new ideas, inspiration and a treasure trove of helpfu
 * 🎥 [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
 * 🤙 [Contact Core team](mailto:community-investec@offerzen.com)
 {% endtab %}
+
+{% tab title="🧱 Build Challenges" %}
+* 💳 [Hackathon Challenges](build-events/)
+* 💰 [Spreadsheet Banking Bounties](build-events/spreadsheet-banking-or-bounties.md)
+{% endtab %}
 {% endtabs %}
 
 ✨ Programmable Banking Community Wiki _— 2022 Made by Badass unicorns_ 🦄
