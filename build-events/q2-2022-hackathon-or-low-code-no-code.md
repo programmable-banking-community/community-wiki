@@ -12,7 +12,7 @@ Our goal for this Hackathon is to **show the power of programmable banking and h
 
 ### **What is this hackathon about?**
 
-This is a virtual community hackathon. The challenge is to create **useful solutions for non-technical peeps** using [Investec Programmable Banking](https://www.offerzen.com/community/investec/) with [Spreadsheet banking.](https://www.youtube.com/watch?v=6IFS4NbZiLE\&t=1289s)
+This is a virtual community hackathon. The challenge is to create **useful solutions for non-technical peeps** using [Investec Programmable Banking](https://www.investec.com/en\_za/banking/programmable-banking.html) with [Spreadsheet banking.](https://www.youtube.com/watch?v=6IFS4NbZiLE\&t=1289s)
 
 {% hint style="success" %}
 Stay updated with the Spreadsheet Banking build [here](https://loom.com/share/folder/faed2f32b3c740a6b67e96015df77bcc) and in our [Slack channel](https://offerzen-community.slack.com/archives/CUBJ511K8).&#x20;
@@ -26,13 +26,15 @@ You can chat with us in the dedicated [**Hackathon Slack channel**](https://offe
 
 You may participate alone, but we highly recommend working in a team.
 
-Please note that at least one person on your team must have access to an [Investec Private Bank Account](https://www.investec.com/en\_za.html) and have Programmable Banking activated on their account ([developer docs here](https://developer.investec.com/programmable-banking/#programmable-banking)) - as you need to build a solution that is integrated with it.
+{% hint style="warning" %}
+Please note that at least one person on your team must have access to an [Investec Private Bank Account](https://www.investec.com/en\_za/banking/programmable-banking.html) and have Programmable Banking activated on their account ([developer docs here](https://developer.investec.com/programmable-banking/#programmable-banking)) - as you need to build a solution that is integrated with it.
+{% endhint %}
 
 **The closing date for your final solution is Friday 22 July, 23:59 SAST.**
 
 Each submission must include:
 
-* [ ] A link to an app/system/solution that has been released under the [MIT Licence](https://opensource.org/licenses/MIT) and uses the Spreadsheet banking app \[you can also use the [Investec Programmable Card](https://developer.investec.com/programmable-banking/#features-included) and other features on [Investec Open API](https://developer.investec.com/programmable-banking/#open-api)].
+* [ ] A link to an app/system/solution that has been released under the [MIT Licence](https://opensource.org/licenses/MIT) and uses the Spreadsheet Banking app \[you can also use the [Investec Programmable Card](https://developer.investec.com/programmable-banking/#features-included) and other features on [Investec Open API](https://developer.investec.com/programmable-banking/#open-api)].
 * [ ] Open source code repo and documentation for setting up your solution.
 * [ ] Two-minute video/ live demo of your solution showing how to use it and how it solves a business user's problem.
 * [ ] A brief description of the problem your solution solves, how your solution works and how it makes use of Programmable Banking and Spreadsheet banking, as well as the benefits of your solution (see [one-page pitch template](https://docs.google.com/presentation/d/1yk5F009f-4KPG9moysxEX40mmL1M45d0VCQj1zsOyHk/edit?usp=sharing) that should be used)
@@ -71,7 +73,7 @@ You must use the [Spreadsheeting banking app](https://www.offerzen.com/blog/prog
 
 * ✅ Hackathon teaser at the Meetup: Thur 21, April 222&#x20;
 * ✅ Ideation meetup: **Thur 26 May @ 18h30** - Play around with an alpha version
-* Launch meetup: **Thur 30 June @ 18h30** - All the deets and how to get started
+* [Launch meetup](https://lu.ma/44zlgydp): **Thur 30 June @ 18h30** - All the deets and how to get started
 * [Submissions Open](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build): **Thur 30 June** ( ** **_<mark style="color:green;">**<-- START CODING**</mark>_)&#x20;
 * [Submission Close](q2-2022-hackathon-or-low-code-no-code.md#nitty-gritty-rules): **Fri 22 July 23h59 SAST** ( <mark style="color:red;">****</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**<-- STOP CODING**</mark>_)&#x20;
 * [Community Votes & Sponsor](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) **deliberation between Mon 25 - Wed 27 July**&#x20;
@@ -79,7 +81,7 @@ You must use the [Spreadsheeting banking app](https://www.offerzen.com/blog/prog
 
 #### **What are the prize categories?:**
 
-* Two end-user sponsors will have Ziggy bags filled with R45k of hard grazed cash each to invest in submitted projects and the amounts they see fit.&#x20;
+* Two end-user sponsors will have Ziggy bags filled with R45k of hard-grazed cash each to invest in submitted projects and the amounts they see fit.&#x20;
 * Each Zebra will bid and offer cash to as many submissions as they want to invest in, and each submission chosen will be granted a good faith agreement.&#x20;
   * The participants can **choose to get half the cash for just sharing the idea/ POC build with the community OR can choose to build their project out further for the other half - it’s up to them**. 🤑
   * **If the team decides to carry on building on their solution and take the full offered amount, they will have a 1:1 with the Sponsor** to discuss the next steps as needed for the project.&#x20;
@@ -137,7 +139,7 @@ We'll be contacting and announcing winners throughout the week after submission 
 <mark style="color:red;">**NB**</mark>! To qualify as a winner, each team must perform a live demo of how their solution works and answer questions from the audience in a **10-minute slot at the Programmable Banking Meetup at 6:30 pm on 28 July 2022**. We will let winners know by 29 June that they have won to prepare for the demo.
 
 {% hint style="danger" %}
-**If no one from a winning team attends the meetup and demos their solution, that team will forfeit, and the runner up will be awarded their winnings - please carefully read “Forfeit of teams” in the Rules section.**
+**If no one from a winning team attends the meetup and demos their solution, that team will forfeit and will not be awarded their winnings - please carefully read “Forfeit of teams” in the Rules section.**
 {% endhint %}
 
 #### [Timelines](q2-2022-hackathon-or-low-code-no-code.md#when-does-everything-happen-or-timelines) | [Prize Categories](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-prize-categories) | [Submissions](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build) | [Judging Criteria](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) | [Support](q2-2022-hackathon-or-low-code-no-code.md#where-can-i-find-help-from-the-community) | [FAQs](q2-2022-hackathon-or-low-code-no-code.md#faqs)&#x20;
