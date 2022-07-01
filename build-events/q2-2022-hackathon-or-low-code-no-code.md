@@ -4,7 +4,7 @@ Hey Peeps!!!
 
 We were blown away by all the amazing projects you built and submitted for [our Q4 hackathon last year](https://docs.google.com/spreadsheets/d/1cWZQtru2zXkkVjEnbOZiCbwbTW1LcpgEsUalt1Vwlog/edit#gid=417688078) and hope you are ready for the next one!
 
-Starting in quarter two this year, our hackathon theme is _Low-code/ No-code with_ [_Spreadsheet Banking_](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets)**.**
+Starting in quarter two this year, our hackathon theme is _Low-code/ No-code with_ [_Spreadsheet Banking_](https://www.spreadsheetbanking.dev/) _(Read the origin_ [_blog post here_](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets)_)._
 
 Our goal for this Hackathon is to **show the power of programmable banking and how it can be made more accessible for non-tech users**.&#x20;
 
@@ -12,7 +12,7 @@ Our goal for this Hackathon is to **show the power of programmable banking and h
 
 ### **What is this hackathon about?**
 
-This is a virtual community hackathon. The challenge is to create **useful solutions for non-technical peeps** using [Investec Programmable Banking](https://www.investec.com/en\_za/banking/programmable-banking.html) with [Spreadsheet banking.](https://www.youtube.com/watch?v=6IFS4NbZiLE\&t=1289s)
+This is a virtual community hackathon. The challenge is to create **useful solutions for non-technical peeps** using [Investec Programmable Banking](https://www.investec.com/en\_za/banking/programmable-banking.html) with [Spreadsheet Banking](https://www.spreadsheetbanking.dev/).
 
 {% hint style="success" %}
 Stay updated with the Spreadsheet Banking build [here](https://loom.com/share/folder/faed2f32b3c740a6b67e96015df77bcc) and in our [Slack channel](https://offerzen-community.slack.com/archives/CUBJ511K8).&#x20;
@@ -35,9 +35,9 @@ Please note that at least one person on your team must have access to an [Invest
 Each submission must include:
 
 * [ ] A link to an app/system/solution that has been released under the [MIT Licence](https://opensource.org/licenses/MIT) and uses the Spreadsheet Banking app \[you can also use the [Investec Programmable Card](https://developer.investec.com/programmable-banking/#features-included) and other features on [Investec Open API](https://developer.investec.com/programmable-banking/#open-api)].
-* [ ] Open source code repo and documentation for setting up your solution.
+* [ ] Clear and shareable documentation for setting up your solution.
 * [ ] Two-minute video/ live demo of your solution showing how to use it and how it solves a business user's problem.
-* [ ] A brief description of the problem your solution solves, how your solution works and how it makes use of Programmable Banking and Spreadsheet banking, as well as the benefits of your solution (see [one-page pitch template](https://docs.google.com/presentation/d/1yk5F009f-4KPG9moysxEX40mmL1M45d0VCQj1zsOyHk/edit?usp=sharing) that should be used)
+* [ ] A brief description of the problem your solution solves, how your solution works and how it makes use of Programmable Banking and [Spreadsheet banking](https://www.spreadsheetbanking.dev/), as well as the benefits of your solution (see [one-page pitch template](https://docs.google.com/presentation/d/1yk5F009f-4KPG9moysxEX40mmL1M45d0VCQj1zsOyHk/edit?usp=sharing) that should be used)
 * [ ] **Optional team photo 💜.**
 
 > [**Register here to join the Hackathon**](https://8malmkzgvs8.typeform.com/to/edFvATSl) and let us know in the entry form if you also require access to a live demo/ community account - rather than using your own Investec account.
@@ -158,6 +158,7 @@ Here's a collection of resources that will help you start building with Investec
 * [Previous Community Builds for some inspiration](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions) \[Snippets]
 * [Blog post on what Spreadsheet banking is](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets) \[Blog]
 * [YouTube video on Spreadsheet banking using Excel](https://www.youtube.com/watch?v=6IFS4NbZiLE\&t=1289s) \[Video]
+* [Miro board walkthrough of Spreadsheet banking for the Hackathon](https://miro.com/app/board/uXjVOpxCli0=/) \[Miro board]
 * [Principles for No-Code/Low-Code Solution Builds](https://www.offerzen.com/blog/principles-for-no-code-low-code-solution-builds) \[Blog]
 
 ### **Additional Info:**
@@ -175,7 +176,7 @@ By submitting, you grant OfferZen & Investec permission to use screenshots, code
 ### **Nitty-gritty rules:**
 
 * Prizes for teams - the full prize amount will be deposited into the selected bank account supplied by the winning team's Team Lead. Teams are responsible for dividing prizes amongst themselves.&#x20;
-* Forfeit of teams - if a winning team does not present their solution at the Winners and Demos Meetup on 28 July 2022, winnings (both position and prize) will be forfeited and given to a runner up. Exceptions may be made under extenuating circumstances and at the discretion of the OfferZen Community Management team.&#x20;
+* Forfeit of teams - if a winning team does not present their solution at the Winners and Demos Meetup on 28 July 2022, winnings (both position and prize) will be forfeited and given to a runner-up. Exceptions may be made under extenuating circumstances and at the discretion of the OfferZen Community Management team.&#x20;
 * Disqualification - you may be disqualified and forfeit any prizes you may be eligible to receive if OfferZen or Investec reasonably believes that you have not complied with or attempted to undermine the legitimate operation of the Programmable Banking Hackathon.&#x20;
 * Sponsors scoring - Sponsors will assess submissions completely at their discretion and are not required to provide explanations for their decisions.
 
