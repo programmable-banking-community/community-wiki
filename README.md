@@ -62,7 +62,7 @@ You are going to encounter new ideas, inspiration and a treasure trove of helpfu
 
 {% tab title="🧱 Build" %}
 * 💳 [Hackathon Challenges](build-events/)
-* 💰 [Spreadsheet Banking Bounties](build-events/spreadsheet-banking-or-bounties.md)
+* 💰 [Spreadsheet Banking Bounties](build-events/spreadsheet-banking-or-bounties/)
 {% endtab %}
 {% endtabs %}
 

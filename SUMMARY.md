@@ -26,4 +26,5 @@
   * [Contact Core Team](mailto:community-investec@offerzen.com)
 * [🧱 Build Events](build-events/README.md)
   * [💳 2022 Hackathon | low-code/no-code](build-events/q2-2022-hackathon-or-low-code-no-code.md)
-  * [💰 Spreadsheet Banking | Bounties](build-events/spreadsheet-banking-or-bounties.md)
+  * [💰 Spreadsheet Banking | Bounties](build-events/spreadsheet-banking-or-bounties/README.md)
+    * [👩💻 Spreadsheet Banking | Basic Functions](build-events/spreadsheet-banking-or-bounties/spreadsheet-banking-or-basic-functions.md)
