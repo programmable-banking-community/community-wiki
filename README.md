@@ -28,6 +28,7 @@ We want to make Programmable Banking a reality for South African developers and 
 
 You are going to encounter new ideas, inspiration and a treasure trove of helpful tools you never knew you had available. Stick with us, trust the process and start with;
 
+* [ ] [Apply to join the community](https://8malmkzgvs8.typeform.com/to/VlKgTtaV), if you haven't already 🦄
 * [ ] [Book an awesome Welcome call](https://calendly.com/nick-offerzen/community-welcome-chat) & get some swag! 👕
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C02NLURKKRT) and say Howzit!/ gm. 😎
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for NB updates and community. 🚀
