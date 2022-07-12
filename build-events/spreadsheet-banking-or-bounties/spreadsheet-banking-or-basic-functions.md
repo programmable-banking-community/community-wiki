@@ -12,7 +12,7 @@ description: Working with Spreadsheet Banking in Excel
 * [Do complex filtering with tables and live-sync](spreadsheet-banking-or-basic-functions.md#complex-filtering-with-tables-and-live-sync)
 
 {% hint style="success" %}
-**If there are other functions that you use and would like to share, please feel free to** [**contribute to the page here**](spreadsheet-banking-or-basic-functions.md) **or pop us a mail at** [**community-investec@offerzen.com**](mailto:community-investec@offerzen.com) **** ❤️
+**If there are other functions that you use and would like to share, please feel free to** [**contribute to the page here**](spreadsheet-banking-or-basic-functions.md) **or** [**pop us a mail**](mailto:community-investec@offerzen.com)**, and we'll add it.** ❤️
 {% endhint %}
 
 {% embed url="https://www.loom.com/share/ec2e375d8f2e4a9ca68a0c14c680f4e4" %}
