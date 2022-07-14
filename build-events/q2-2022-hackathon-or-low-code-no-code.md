@@ -136,7 +136,7 @@ The End-User Sponsors will be looking for a few things when considering how they
 
 We'll be contacting and announcing winners throughout the week after submission closes.&#x20;
 
-<mark style="color:red;">**NB**</mark>! To qualify as a winner, each team must perform a live demo of how their solution works and answer questions from the audience in a **10-minute slot at the Programmable Banking Meetup at 6:30 pm on 28 July 2022**. We will let winners know by 29 June that they have won to prepare for the demo.
+<mark style="color:red;">**NB**</mark>! To qualify as a winner, each team must perform a live demo of how their solution works and answer questions from the audience in a **10-minute slot at the Programmable Banking Meetup at 6:30 pm on 28 July 2022**. We will let winners know by 27 July that they have won to prepare for the demo.
 
 {% hint style="danger" %}
 **If no one from a winning team attends the meetup and demos their solution, that team will forfeit and will not be awarded their winnings - please carefully read “Forfeit of teams” in the Rules section.**
