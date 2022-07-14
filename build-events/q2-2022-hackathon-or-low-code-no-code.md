@@ -105,7 +105,7 @@ You will be asked to provide the following when submitting your build:
 * [ ] A link to an app/system solution that has been released under the [MIT Licence](https://opensource.org/licenses/MIT) and uses the Spreadsheet Banking app in some way \[you can also use the [Investec Programmable Card](https://developer.investec.com/programmable-banking/#features-included) and other features on [Investec Open API](https://developer.investec.com/programmable-banking/#open-api)].&#x20;
 * [ ] Open source code repo and documentation for setting up your solution.&#x20;
 * [ ] Two-minute video/ live demo of your solution showing how to use it and how it solves a business user's problem.&#x20;
-* [ ] A brief description of how you used programmable banking and the transfer feature (see [one-page pitch template that should be used](https://docs.google.com/presentation/d/1yk5F009f-4KPG9moysxEX40mmL1M45d0VCQj1zsOyHk/edit?usp=sharing))&#x20;
+* [ ] A brief description of how you used Spreadsheet Banking and Programmable Banking (see [one-page pitch template that should be used](https://docs.google.com/presentation/d/1yk5F009f-4KPG9moysxEX40mmL1M45d0VCQj1zsOyHk/edit?usp=sharing))&#x20;
 * [ ] Any other info you want the judges to know (motivations/ideas/process)&#x20;
 * [ ] **Optional team photo 💜**
 
