@@ -50,7 +50,7 @@ Please reach out to [community-investec@offerzen.com](mailto:community-investec@
 
 Your team should build a solution that uses the Spreadsheet Banking app as part of your Investec's Programmable Banking solution to show how businesses can make life easier or create efficiencies for others.&#x20;
 
-You must use the [Spreadsheeting banking app](https://www.offerzen.com/blog/programmable-banking-community-banking-on-spreadsheets) in some way in your solution.
+You must use the [Spreadsheeting banking app](https://spreadsheetbanking.dev/) in some way in your solution.
 
 ### 💡 **Pro Tips:**&#x20;
 
