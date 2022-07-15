@@ -75,7 +75,7 @@ You must use the [Spreadsheeting banking app](https://spreadsheetbanking.dev/) i
 * ✅ Ideation meetup: **Thur 26 May @ 18h30** - Play around with an alpha version
 * ✅ [Launch meetup](https://lu.ma/44zlgydp): **Thur 30 June @ 18h30** - All the deets and how to get started
 * ✅ [Submissions Open](q2-2022-hackathon-or-low-code-no-code.md#what-do-i-need-to-know-to-submit-my-build): **Thur 30 June** ( ** **_<mark style="color:green;">**<-- START CODING**</mark>_)&#x20;
-* ⏰ [Submission Close](q2-2022-hackathon-or-low-code-no-code.md#nitty-gritty-rules): **Fri 22 July 23h59 SAST** ( <mark style="color:red;">****</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**<-- STOP CODING**</mark>_)&#x20;
+* ⏰ [Submit your builds here before](https://8malmkzgvs8.typeform.com/to/QDk9ODNc): **Fri 22 July 23h59 SAST** ( <mark style="color:red;">****</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**<-- STOP CODING**</mark>_)&#x20;
 * 🍔 [Community Votes & Sponsor](q2-2022-hackathon-or-low-code-no-code.md#what-are-the-criteria-for-sponsors-looking-at-submissions) **deliberation between Mon 25 - Wed 27 July**&#x20;
 * 🎉 Winners Demos: **Thur 28 July**
 
