@@ -1,7 +1,7 @@
 # 💳 2022 Hackathon | low-code/no-code
 
 {% hint style="success" %}
-**Closing date** `22 July 2022, 23h59 SAST`. [**Submit Your Final Build Here**](https://8malmkzgvs8.typeform.com/to/QDk9ODNc).
+⏰ **Closing date** `22 July 2022, 23h59 SAST` 👉 [**Submit Your Final Build Here**](https://8malmkzgvs8.typeform.com/to/QDk9ODNc).
 {% endhint %}
 
 Hey Peeps!!!
