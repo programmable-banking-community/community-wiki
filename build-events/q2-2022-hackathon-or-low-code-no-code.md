@@ -1,5 +1,9 @@
 # 💳 2022 Hackathon | low-code/no-code
 
+{% hint style="success" %}
+**Closing date** `22 July 2022, 23h59 SAST`. [**Submit Your Final Build Here**](https://8malmkzgvs8.typeform.com/to/QDk9ODNc).
+{% endhint %}
+
 Hey Peeps!!!
 
 We were blown away by all the amazing projects you built and submitted for [our Q4 hackathon last year](https://docs.google.com/spreadsheets/d/1cWZQtru2zXkkVjEnbOZiCbwbTW1LcpgEsUalt1Vwlog/edit#gid=417688078) and hope you are ready for the next one!
