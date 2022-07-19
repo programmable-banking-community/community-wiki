@@ -4,10 +4,6 @@ description: Common questions asked in the community.
 
 # General FAQs
 
-{% hint style="info" %}
-This page is for all general community FAQs we might come across. Feel free to add your own Questions/ Answers. **We'll grow this list with your support**. :clap:
-{% endhint %}
-
 > **Please, document the solution to your problems.**\
 > \
 > If you find the solution to an error, a bug, write it down. \
@@ -15,6 +11,10 @@ This page is for all general community FAQs we might come across. Feel free to a
 > Write a post in the Slack channek, record a quick video.\
 > \
 > Chances are other developers are having the same issue, and you might save them a lot of time. 💜
+
+{% hint style="info" %}
+This page is for all general community FAQs we might come across. Feel free to add your own Questions/ Answers. **We'll grow this list with your support**. :clap:
+{% endhint %}
 
 ### Investec APIs
 
