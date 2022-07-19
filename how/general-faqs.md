@@ -8,7 +8,7 @@ description: Common questions asked in the community.
 > \
 > If you find the solution to an error, a bug, write it down. \
 > \
-> Write a post in the Slack channek, record a quick video.\
+> Write a post in the [Slack channel](https://offerzen-community.slack.com/archives/CUBJ511K8), record a quick video.\
 > \
 > Chances are other developers are having the same issue, and you might save them a lot of time. 💜
 
