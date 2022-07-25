@@ -4,7 +4,9 @@
 ****[**Vote for your favourite build here**](https://8malmkzgvs8.typeform.com/to/mRPX4TQJ) - every vote counts 🦄 - Closes Wed 27 July 2022
 {% endhint %}
 
-### 👀 the awesome submissions:&#x20;
+### 👀 the awesome submissions:
+
+<mark style="color:orange;">**Please Note:**</mark> Submissions are listed in order of time of submission. They are not an indicator of ranking.&#x20;
 
 |   Project Name  | Short Description                              |                                             One Page Pitch                                            |                                              Demo Vid                                              |
 | :-------------: | ---------------------------------------------- | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |

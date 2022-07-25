@@ -12,4 +12,4 @@ The community-driven Hackathons are a great way to play with Programmable Bankin
 
 ### Upcoming Hackathons
 
-* [2022 Q2 Hackathon | Low-code/ No-Code Spreadsheet Banking](q2-2022-hackathon-or-low-code-no-code/)
+* [2022 Q2 Hackathon | Low-code/ No-Code Spreadsheet Banking](q2-2022-hackathon-or-low-code-no-code.md)
