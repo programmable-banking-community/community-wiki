@@ -1,10 +1,10 @@
 # 2022 Hackathon | low-code/no-code | Submissions
 
 {% hint style="success" %}
-****[**Vote for your favourite build here**](https://8malmkzgvs8.typeform.com/to/mRPX4TQJ) - every vote counts 🦄 - Closes Wed 27 July 2022
+**Check out the** [**live demos**](https://youtu.be/ByacBXl9Muk?t=1068) **and** [**who won here**](https://youtu.be/ByacBXl9Muk?t=5540) **** :unicorn:****
 {% endhint %}
 
-### 👀 the awesome submissions:
+### The kick-ass submissions:
 
 <mark style="color:orange;">**Please Note:**</mark> Submissions are listed in order of time of submission. They are not an indicator of ranking.&#x20;
 
@@ -19,5 +19,3 @@
 {% hint style="info" %}
 View [more on the builds here](https://docs.google.com/spreadsheets/d/1zhVFOl0QylRMF7pVjmClR\_Sg1XmBe7nSXvHd-\_7Wv54/edit?usp=sharing) | detailed documentation and submitted builds.
 {% endhint %}
-
-👉 [Join the Meetup on Thur. 28 July at 18h30](https://lu.ma/wuziga64) to see who won the community vote!
