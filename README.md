@@ -33,7 +33,7 @@ You are going to encounter new ideas, inspiration and a treasure trove of helpfu
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C02NLURKKRT) and say Howzit!/ gm. 😎
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for NB updates and community. 🚀
 * [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important. 🦓
-* [ ] Build your [first Programmable Banking bot](readme/card-tutorial.md) (5 min). 🛠
+* [ ] Build your [first Programmable Banking bot](readme/card-tutorial/) (5 min). 🛠
 * [ ] Attend the next [meetup](https://lu.ma/ipb-community). 🙌
 
 {% tabs %}
