@@ -6,11 +6,27 @@ description: A few interesting starter tuts and templates shared by the communit
 
 ## List of cool things to build on:
 
-Contribute to this growing list; [DM the community manager on Slack](https://offerzen-community.slack.com/team/U01QEQM8Q21) or edit this page directly on [GitHub.](../card-tutorial/)
+### How do I navigate this? 🧭
+
+For each section, we’ll let you know:
+
+✔️ Content-Type so you can work through it with that context in mind 🧠
+
+✔️ Level of Complexity
+
+* **Level 1** being a breeze-through,&#x20;
+* **Level 2** being one foot into the rabbit hole, and&#x20;
+* **Level 3** being a complex piece you have to sit on for a while.
+
+**Every selection we’ve included has been hand-picked by the community, so be assured we consider each worth inclusion.**
+
+{% hint style="success" %}
+As with all things, this resource list is a work in progress. If you see something missing, jump into[ ](https://discord.gg/gitcoin)[Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) and send us a message so we can add it to our growing public library, or edit this page directly on [GitHub.](../card-tutorial/)
+{% endhint %}
 
 ### Tutorials and Templates
 
-<table><thead><tr><th align="center">Title</th><th data-type="select" data-multiple>Level</th><th data-type="select" data-multiple>Tags</th><th>Blurb</th><th align="center">Contributor</th></tr></thead><tbody><tr><td align="center"><a href="card-or-slack-intergration.md">Slack Intergration with card transactions</a></td><td></td><td></td><td>Keep track of all card purcahses with a quick Slack intergration</td><td align="center">@offerZen </td></tr><tr><td align="center"><a href="https://drive.google.com/file/d/1rnbHtGYngtWP2S3M5TAcCec_GIp30U6j/view?usp=sharing">Telegram Messages for Card Transactions</a></td><td></td><td></td><td>The basics on setting up a simple Telegram Bot and how to link Telegram messaging to your credit card transactions</td><td align="center">@Russel_Knight</td></tr><tr><td align="center"><a href="https://docs.google.com/spreadsheets/d/1JwklVY729bUJtZMvxgD9xkGTF32Wb7dT7I5IpTIXuBI/copy#gid=348845501">Treasurary Managment  with Google Sheets</a></td><td></td><td></td><td>Using Programmble Banking's API and Google Sheets, you can create your own automated treasuray managment system. Watch the <a href="https://youtu.be/I0z083-dAmA">How To Setup Vid here</a>.</td><td align="center">@Malan</td></tr><tr><td align="center"><a href="https://www.youtube.com/watch?v=vgVtK239ojQ">How-to Get Live Investec Account Data in Google Sheets</a></td><td></td><td></td><td>A template for importing Investec Account info to Google Sheets</td><td align="center">@Ben_Blaine</td></tr></tbody></table>
+<table><thead><tr><th align="center">Title</th><th data-type="select" data-multiple>Level</th><th data-type="select" data-multiple>Content Type</th><th>Blurb</th><th align="center">Contributor</th></tr></thead><tbody><tr><td align="center"><a href="card-or-slack-intergration.md">Slack Intergration with card transactions</a></td><td></td><td></td><td>Keep track of all card purcahses with a quick Slack intergration</td><td align="center">@offerZen </td></tr><tr><td align="center"><a href="https://drive.google.com/file/d/1rnbHtGYngtWP2S3M5TAcCec_GIp30U6j/view?usp=sharing">Telegram Messages for Card Transactions</a></td><td></td><td></td><td>The basics on setting up a simple Telegram Bot and how to link Telegram messaging to your credit card transactions</td><td align="center">@Russel_Knight</td></tr><tr><td align="center"><a href="https://docs.google.com/spreadsheets/d/1JwklVY729bUJtZMvxgD9xkGTF32Wb7dT7I5IpTIXuBI/copy#gid=348845501">Treasurary Managment  with Google Sheets</a></td><td></td><td></td><td>Using Programmble Banking's API and Google Sheets, you can create your own automated treasuray managment system. Watch the <a href="https://youtu.be/I0z083-dAmA">How To Setup Vid here</a>.</td><td align="center">@Malan</td></tr><tr><td align="center"><a href="https://www.youtube.com/watch?v=vgVtK239ojQ">How-to Get Live Investec Account Data in Google Sheets</a></td><td></td><td></td><td>A template for importing Investec Account info to Google Sheets</td><td align="center">@Ben_Blaine</td></tr></tbody></table>
 
 ### Tools & Sites
 
