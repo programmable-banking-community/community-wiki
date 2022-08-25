@@ -6,6 +6,17 @@ There are plenty of ways to be active in the community. Here are just a few exam
 
 ![Examples of how to be active in the community](<../.gitbook/assets/\[External] Programmable Banking Meetup 27 Jan 2022.png>)
 
+### What roles are there in the community?
+
+We view the community like a ~~marketing funnel~~ orbits in a solar system 💫. The more Gravity X Love you have for the community, the closer to the core you get.&#x20;
+
+| Orbit Level |      Name     |         Characterised by         |
+| :---------: | :-----------: | :------------------------------: |
+|      4      |   Exploring   |  Newcomers and passive observers |
+|      3      | Participating |    Casually involved regulars    |
+|      2      |  Contributing | Active coordinators & Volunteers |
+|      1      |    Leading    |    Trusted leaders & advocates   |
+
 ### What's the swag like?
 
 Check out a few things we give to awesome community members who live [our core principles and values](../community-manifesto.md#core-principles-and-values). 👇
