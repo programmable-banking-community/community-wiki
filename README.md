@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-If you're not a member yet - feel free to [sign-up here to get access](https://8malmkzgvs8.typeform.com/to/VlKgTtaV) to all the resources and cool events :magic\_wand:
+**If you're not a community member yet** - feel free to [sign-up here to get access](https://8malmkzgvs8.typeform.com/to/VlKgTtaV) to all the resources and cool events :magic\_wand:
 {% endhint %}
 
 {% hint style="info" %}
@@ -28,12 +28,12 @@ We want to make Programmable Banking a reality for South African developers and 
 
 You are going to encounter new ideas, inspiration and a treasure trove of helpful tools you never knew you had available. Stick with us, trust the process and start with;
 
-* [ ] [Apply to join the community](https://8malmkzgvs8.typeform.com/to/VlKgTtaV), if you haven't already 🦄
-* [ ] [Book an awesome Welcome call](https://calendly.com/nick-offerzen/community-welcome-chat) & get some swag! 👕
+* [ ] [Apply to join the community](https://8malmkzgvs8.typeform.com/to/VlKgTtaV), if you haven't already joined 🦄
+* [ ] [Book an awesome Welcome call](https://calendly.com/nick-offerzen/community-welcome-chat), and we'll walk you through everything ❤️
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C02NLURKKRT) and say Howzit!/ gm. 😎
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for NB updates and community. 🚀
 * [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important. 🦓
-* [ ] Build your [first Programmable Banking bot](readme/build-something-simple/) (5 min). 🛠
+* [ ] [Build something simple](readme/build-something-simple/), and see the awesome things you can do (5 min). 🛠
 * [ ] Attend the next [meetup](https://lu.ma/ipb-community). 🙌
 
 {% tabs %}
@@ -62,6 +62,7 @@ You are going to encounter new ideas, inspiration and a treasure trove of helpfu
 {% endtab %}
 
 {% tab title="🧱 Build" %}
+* 🔨 [Build Something Simple](readme/build-something-simple/)
 * 💳 [Hackathon Challenges](build-events/)
 * 💰 [Spreadsheet Banking Bounties](build-events/spreadsheet-banking-or-bounties/)
 {% endtab %}
