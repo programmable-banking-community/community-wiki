@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # 🎯 Start here
 
 {% hint style="success" %}
