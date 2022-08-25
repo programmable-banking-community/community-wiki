@@ -8,7 +8,7 @@ There are plenty of ways to be active in the community. Here are just a few exam
 
 ### What roles are there in the community?
 
-We view the community like a ~~marketing funnel~~ orbits in a solar system 💫. The more Gravity X Love you have for the community, the closer to the core you get.&#x20;
+We view the community like ~~a marketing funnel~~ orbits in a solar system 💫. The more Gravity X Love you have for the community, the closer to the core you get. i.e. 4 = Pluto & 1 = the sun, if we are talking orbits of celestial bodies.
 
 | Orbit Level |      Name     |         Characterised by         |
 | :---------: | :-----------: | :------------------------------: |
