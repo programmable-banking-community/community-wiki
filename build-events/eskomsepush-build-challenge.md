@@ -1,7 +1,7 @@
 # ⚡ EskomSePush Build Challenge
 
 {% hint style="info" %}
-**New Build Challange pa**🗓 **Important Dates:**&#x20;
+🗓 **Important Dates:**&#x20;
 
 ⏰ **Registration closes** on Fri 14th October, 16h00 → [Register here](https://forms.gle/A3CWtRhQr6T7Bdrv6).
 
@@ -45,4 +45,27 @@ We have opened this to members of the OfferZen Programmable Banking community an
 
 ### **How will I get access to the EskomSePush API if I want to participate?**
 
-*
+* [ ] Once you register for the build challenge, you will receive an email with a token for the EskomSePush API.
+* [ ] The access token will provide you with 1000 credits, however, if you require more credits, you can request more by contacting [community-investec@offerzen.com](mailto:community-investec@offerzen.com).
+* [ ] Once the build challenge is over, the token will be revoked, and you will need to revert to a limited personal account that you can register for [**here**](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).
+
+### **Are there use cases that I can build against?**
+
+Absolutely**!**
+
+If you don’t have any idea’s about what to build, we’ve got you covered. While you aren’t limited to building solutions to these problems, looking at possible use cases to generate new ideas can be helpful.
+
+You can take a look at some interesting use cases [**here**](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).
+
+### What must my submission include, and where do I submit it?
+
+The closing date for your final solution is Monday, 17 October 2022, 23:59 SAST. You can **** [**submit your builds here**](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).
+
+Each submission must include:
+
+* [ ] A link to an app/system/solution released under the [MIT Licence](https://opensource.org/licenses/MIT) and uses the EskomSePush API.
+* [ ] Open source code repo and documentation for setting up your solution.
+* [ ] Two-minute video/ live demo of your solution showing how to use it and how it solves a problem.
+* [ ] A team photo
+
+**Your solution can use any language or framework.**
