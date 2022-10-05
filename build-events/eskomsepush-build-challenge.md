@@ -5,7 +5,7 @@
 
 🦄 **Registration closes** on Fri 14th October, 16h00 → [Register here](https://forms.gle/A3CWtRhQr6T7Bdrv6).
 
-&#x20;**** ⚡️ Join our open build hours on **Fri, 7 October, 12h00 - 13h00** and **Wed, 12 October, 12h00 - 13h00** → [Join here ](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/)
+&#x20;**** ⚡️ Join our open build hours on **Fri, 7 October, 12h00 - 13h00** and **Wed, 12 October, 12h00 - 13h00** → [Join here](https://lu.ma/4873rwol)&#x20;
 
 ⏰ **Submissions close** on Mon 17th October at 23:59 → [Submit your build here](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).&#x20;
 
@@ -81,16 +81,16 @@ Join us even if you just want to chill and watch other people build!
 We will be hosting 2 open sessions which you are welcome to attend if you would like to get help on getting started with the EskomSePush API, if you have any questions**,** you would like to ask.
 
 {% hint style="info" %}
-**Open office hour 1**: Friday, 7 October, 12h00 - 13h00 → [**Join here** ](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/)****
+**Open office hour 1**: Friday, 7 October, 12h00 - 13h00 → [Join here ](https://lu.ma/4873rwol)
 
-**Open office hour 2**: Wednesday, 12 October, 12h00 - 13h00 → [**Join here**](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/)****
+**Open office hour 2**: Wednesday, 12 October, 12h00 - 13h00 → [Join here](https://lu.ma/4873rwol)
 {% endhint %}
 
 ### **What are the important dates I should know about?**
 
 * **Build challenge launch & registration opens**: Thursday, 6 October, 12h00
-* **Open office hour**: Friday, 7 October, 12h00 - 13h00
-* **Open office hour**: Wednesday, 12 October, 12h00 - 13h00
+* ****[**Open office hour**](https://lu.ma/4873rwol): Friday, 7 October, 12h00 - 13h00
+* ****[**Open office hour**](https://lu.ma/4873rwol): Wednesday, 12 October, 12h00 - 13h00
 * **Registration closes**: Friday, 14th October, 16h00
 * **Submit your build here** before: Monday 17th October, 23:59 SAST.
 * ****[**Online demo event**](https://lu.ma/mau5syw1): Wednesday, 19 October, 18h30 - 20h00
