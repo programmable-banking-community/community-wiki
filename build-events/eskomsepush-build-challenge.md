@@ -5,7 +5,7 @@
 
 🦄 **Registration closes** on Fri 14th October, 16h00 → [Register here](https://forms.gle/A3CWtRhQr6T7Bdrv6).
 
-&#x20;**** ⚡️ Join our open build hours on **Fri, 7 October, 12h00 - 13h00** and **Wed, 12 October, 12h00 - 13h00** → [Join here](https://lu.ma/4873rwol)&#x20;
+&#x20;**** ⚡️ Join our open build hours on **Fri, 7 October, 12h00 - 13h00,** and **Wed, 12 October, 12h00 - 13h00** → [Join here](https://lu.ma/4873rwol)&#x20;
 
 ⏰ **Submissions close** on Mon 17th October at 23:59 → [Submit your build here](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).&#x20;
 
@@ -18,11 +18,13 @@ We are super excited to launch this build challenge with [EskomSePush](https://s
 
 If you’re interested in building solutions to relevant South African problems, are keen to explore a new API or have been waiting for a cool project to collaborate on with friends, you’re in the right place.
 
-> 👉 If you are sold already, you can [register to participate here](https://forms.gle/A3CWtRhQr6T7Bdrv6).&#x20;
+{% hint style="warning" %}
+#### **A message from Dan:**
 
-#### A message from Dan
+[![](https://cdn.loom.com/sessions/thumbnails/be94e6ce4d414273a6056dec7f0377e8-with-play.gif)](https://www.loom.com/share/be94e6ce4d414273a6056dec7f0377e8)
+{% endhint %}
 
-{% embed url="https://www.loom.com/share/be94e6ce4d414273a6056dec7f0377e8" %}
+> 👉 **If you are sold already, you can** [**register to participate here**](https://forms.gle/A3CWtRhQr6T7Bdrv6)**.**&#x20;
 
 ### What is the build challenge about?
 
@@ -72,7 +74,7 @@ Each submission must include:
 * [ ] A link to an app/system/solution released under the [MIT Licence](https://opensource.org/licenses/MIT) and uses the EskomSePush API.
 * [ ] Open source code repo and documentation for setting up your solution.
 * [ ] Two-minute video/ live demo of your solution showing how to use it and how it solves a problem.
-* [ ] A team photo
+* [ ] **A team photo** **💜**.
 
 **Your solution can use any language or framework.**
 
@@ -82,7 +84,7 @@ Hang out with participating teams and the community [on Slack](https://offerzen-
 
 Join us even if you just want to chill and watch other people build!
 
-We will be hosting 2 open sessions which you are welcome to attend if you would like to get help on getting started with the EskomSePush API, if you have any questions**,** you would like to ask.
+We will be hosting 2 open sessions, which you are welcome to attend if you would like to get help on getting started with the EskomSePush API; if you have any questions you would like to ask.
 
 {% hint style="info" %}
 **Open office hour 1**: Friday, 7 October, 12h00 - 13h00 → [Join here ](https://lu.ma/4873rwol)
