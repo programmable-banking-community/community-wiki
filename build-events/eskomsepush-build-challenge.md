@@ -9,7 +9,7 @@
 
 ⏰ **Submissions close** on Mon 17th October at 23:59 → [Submit your build here](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).&#x20;
 
-&#x20;🎉 Join us, with EskomSePush, for build demos on Wed 19th October at 6.30pm→ [Register to attend here](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).
+&#x20;🎉 Join us, with EskomSePush, for build demos on Wed 19th October at 6.30pm→ [Register to attend here](https://lu.ma/mau5syw1).
 {% endhint %}
 
 ### Welcome!
@@ -88,12 +88,12 @@ We will be hosting 2 open sessions which you are welcome to attend if you would 
 
 ### **What are the important dates I should know about?**
 
-* Build challenge launch & registration opens: Thursday, 6 October, 12h00
-* Open office hour: Friday, 7 October, 12h00 - 13h00
-* Open office hour: Wednesday, 12 October, 12h00 - 13h00
-* Registration closes: Friday, 14th October, 16h00
-* Submit your build here before: Monday 17th October, 23:59 SAST.
-* Online demo event: Wednesday, 19 October, 18h30 - 20h00
+* **Build challenge launch & registration opens**: Thursday, 6 October, 12h00
+* **Open office hour**: Friday, 7 October, 12h00 - 13h00
+* **Open office hour**: Wednesday, 12 October, 12h00 - 13h00
+* **Registration closes**: Friday, 14th October, 16h00
+* **Submit your build here** before: Monday 17th October, 23:59 SAST.
+* ****[**Online demo event**](https://lu.ma/mau5syw1): Wednesday, 19 October, 18h30 - 20h00
 
 ### What are the prizes?
 
