@@ -20,6 +20,10 @@ If you’re interested in building solutions to relevant South African problems,
 
 > 👉 If you are sold already, you can [register to participate here](https://forms.gle/A3CWtRhQr6T7Bdrv6).&#x20;
 
+#### A message from Dan
+
+{% embed url="https://www.loom.com/share/be94e6ce4d414273a6056dec7f0377e8" %}
+
 ### What is the build challenge about?
 
 Let’s face it, loadshedding sucks.
