@@ -27,6 +27,7 @@
   * [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
   * [Contact Core Team](mailto:community-investec@offerzen.com)
 * [🧱 Build Events](build-events/README.md)
+  * [⚡ EskomSePush Build Challenge](build-events/eskomsepush-build-challenge.md)
   * [💳 2022 Hackathon | low-code/no-code](build-events/q2-2022-hackathon-or-low-code-no-code.md)
     * [2022 Hackathon | low-code/no-code | Submissions](build-events/q2-2022-hackathon-or-low-code-no-code/2022-hackathon-or-low-code-no-code-or-submissions.md)
   * [💰 Spreadsheet Banking | Bounties](build-events/spreadsheet-banking-or-bounties/README.md)
