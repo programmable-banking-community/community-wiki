@@ -9,7 +9,7 @@ coverY: 0
 
 We are super excited to launch this build challenge with [EskomSePush](https://sepush.co.za/) and see what can be imagined and built in this space.&#x20;
 
-If you’re interested in building solutions to relevant South African problems, are keen to explore a new API or have been waiting for a cool project to collaborate on with friends, you’re in the right place.
+If you’re interested in building solutions to real South African problems, are keen to explore a new API or have been waiting for a cool project to collaborate on with friends, you’re in the right place.
 
 ### A message from Dan:
 
@@ -66,21 +66,21 @@ We have opened this to members of the **OfferZen Programmable Banking community*
 
 Absolutely!
 
-If you don’t have any idea’s about what to build, we’ve got you covered. While you aren’t limited to building solutions to these problems, looking at possible use cases to generate new ideas can be helpful.
+If you don’t have any idea’s about what to build, we’ve got you covered. You can use these ideas or bring your own.
 
 👉 **You can take a look at some interesting use cases** [**here**](https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb\_ZKBY/edit?usp=sharing).
 
 <div>
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (1).png" alt=""><figcaption><p>More use cases <a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/edit?usp=sharing">here</a>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (2).png" alt=""><figcaption><p>More use cases <a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/edit?usp=sharing">here</a>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (2).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022 .png" alt=""><figcaption><p>More use cases <a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/edit?usp=sharing">here</a>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022 .png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -95,7 +95,14 @@ Each submission must include:
 * [ ] Two-minute video/ live demo of your solution showing how to use it and how it solves a problem.
 * [ ] A team photo **💜**
 
-**Your solution can use any language or framework.**
+**Your solution can use any language or framewor**
+
+### **Can you give me any tips for my submission?**
+
+* **Keep it simple**. If your solution saves someone 5 minutes a week - that's a meaningful impact on a real person's life!
+* **Try to find smart workarounds if a platform limits you**. Your solution doesn't need to be rolled out at scale right now.
+* **Ensure it works in production**.
+* [Steal ideas](https://www.linkedin.com/pulse/great-entrepreneurs-steal-ideas-walker-deibel/).
 
 ### Where can I find help?
 
@@ -150,12 +157,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 By submitting, you grant OfferZen & EskomSePush permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels. OfferZen and EskomSePush do not make any claims over your IP.
 
-### **Can you give me any tips for my submission?**
-
-* **Keep it simple**. If your solution saves someone 5 minutes a week - that's a meaningful impact on a real person's life!
-* **Try to find smart workarounds if a platform limits you**. Your solution doesn't need to be rolled out at scale right now.
-* **Ensure it works in production**.
-* [Steal ideas](https://www.linkedin.com/pulse/great-entrepreneurs-steal-ideas-walker-deibel/).
+### ****
 
 ### Rules
 
