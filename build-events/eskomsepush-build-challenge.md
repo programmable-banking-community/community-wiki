@@ -68,19 +68,19 @@ Absolutely!
 
 If you don’t have any idea’s about what to build, we’ve got you covered. You can use these ideas or bring your own.
 
-👉 **You can take a look at some interesting use cases** [**here**](https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb\_ZKBY/edit?usp=sharing).
+👉 **You can take a look at some interesting use cases**[ **here**](https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb\_ZKBY/present?slide=id.p).
 
 <div>
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (1).png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (2).png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022 .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022 .png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
 
 </div>
 
