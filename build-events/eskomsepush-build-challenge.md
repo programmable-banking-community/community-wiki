@@ -68,7 +68,21 @@ Absolutely!
 
 If you don’t have any idea’s about what to build, we’ve got you covered. While you aren’t limited to building solutions to these problems, looking at possible use cases to generate new ideas can be helpful.
 
-You can take a look at some interesting use cases [here](https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb\_ZKBY/edit?usp=sharing).
+👉 **You can take a look at some interesting use cases** [**here**](https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb\_ZKBY/edit?usp=sharing).
+
+<div>
+
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (1).png" alt=""><figcaption><p>More use cases <a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/edit?usp=sharing">here</a>.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (2).png" alt=""><figcaption><p>More use cases <a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/edit?usp=sharing">here</a>.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022 .png" alt=""><figcaption><p>More use cases <a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/edit?usp=sharing">here</a>.</p></figcaption></figure>
+
+</div>
 
 ### What must my submission include and where do I submit it?
 
