@@ -31,11 +31,11 @@ If you’re interested in building solutions to relevant South African problems,
 **Join us & EskomSePush for build demos** on Wed 19th Oct at 18h30→ [Register to attend ](https://lu.ma/mau5syw1)
 {% endhint %}
 
-### What is the Build Challenge about?
+### What is the build challenge about?
 
 Let’s face it, loadshedding sucks.
 
-To make something good of a bad situation and have some fun in the process, we have teamed up with EskomSePush and **challenge you to build something with their API that knocks our socks off!**
+To make something good of a bad situation and have some fun in the process, we have teamed up with EskomSePush and we **challenge you to build something with their API that knocks our socks off!**
 
 EskomSePush will be giving those that participate exclusive access to their API for the duration of the challenge, and there will be some awesome EskomSePush and OfferZen socks up for grabs for those that submit a build.
 
@@ -51,35 +51,35 @@ Stay updated on the EskomSePush Build Challenge by joining our [Slack channel](h
 
 You can participate alone or as part of a team. You can be part of multiple teams if you want to.
 
-We have opened this to members of the OfferZen Programmable Banking community and those in the ZATech Slack community that are already interested in building with the EskomSePush API.
+We have opened this to members of the **OfferZen Programmable Banking community** and those in the ZATech Slack community that are already interested in building with the EskomSePush API.
 
 * You can [register to participate here](https://forms.gle/A3CWtRhQr6T7Bdrv6).&#x20;
-* Registration will close on Friday 14th October at 16h00.
+* Registration will close on **Friday 14th October at 16h00.**
 
 ### **How will I get access to the EskomSePush API if I want to participate?**
 
-* [ ] Once you register for the build challenge, you will receive an email with a token for the EskomSePush API.
-* [ ] The access token will provide you with 1000 credits. However, if you require more credits, you can request more by contacting [community-investec@offerzen.com](mailto:community-investec@offerzen.com).
-* [ ] Once the build challenge is over, the token will be revoked, and you will need to revert to a limited personal account that you can register for [here](https://docs.google.com/forms/d/e/1FAIpQLSeZhAkhDaQX\_mLT2xn41TkVjLkOH3Py3YWHi\_UqQP4niOY01g/viewform).
+* Once you register for the build challenge, you will receive an email with a token for the EskomSePush API.
+* The access token will provide you with 1000 credits. However, if you require more credits, you can request more by contacting [community-investec@offerzen.com](mailto:community-investec@offerzen.com).
+* Once the build challenge is over, the token will be revoked, and you will need to revert to a limited personal account that you can register for [here](https://docs.google.com/forms/d/e/1FAIpQLSeZhAkhDaQX\_mLT2xn41TkVjLkOH3Py3YWHi\_UqQP4niOY01g/viewform).
 
 ### **Are there use cases that I can build against?**
 
-Absolutely**!**
+Absolutely!
 
 If you don’t have any idea’s about what to build, we’ve got you covered. While you aren’t limited to building solutions to these problems, looking at possible use cases to generate new ideas can be helpful.
 
 You can take a look at some interesting use cases [here](https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb\_ZKBY/edit?usp=sharing).
 
-### What must my submission include, and where do I submit it?
+### What must my submission include and where do I submit it?
 
-The closing date for your final solution is Monday, 17 October 2022, 23:59 SAST. You can[ submit your builds here](https://8malmkzgvs8.typeform.com/to/vz9Ep6ba).
+The closing date for your final solution is **Monday, 17 October 2022, 23:59 SAST**. You can[ submit your builds here](https://8malmkzgvs8.typeform.com/to/vz9Ep6ba).
 
 Each submission must include:
 
 * [ ] A link to an app/system/solution released under the [MIT Licence](https://opensource.org/licenses/MIT) and uses the EskomSePush API.
-* [ ] Open source code repo and documentation for setting up your solution.
+* [ ] Clear documentation for setting up your solution.
 * [ ] Two-minute video/ live demo of your solution showing how to use it and how it solves a problem.
-* [ ] **A team photo** **💜**.
+* [ ] A team photo **💜**
 
 **Your solution can use any language or framework.**
 
@@ -89,7 +89,7 @@ Hang out with participating teams and the community [on Slack](https://offerzen-
 
 Join us even if you just want to chill and watch other people build!
 
-We will be hosting two open sessions, which you are welcome to attend if you want help getting started with the EskomSePush API; if you have any questions, you would like to ask.
+We will be hosting two open sessions, which you are welcome to attend if you want help getting started with the EskomSePush API or if you have any questions you would like to ask.
 
 {% hint style="info" %}
 **Open office hour 1**: Friday, 7 October, 12h00 - 13h00 → [Join here ](https://lu.ma/4873rwol)
@@ -109,6 +109,8 @@ We will be hosting two open sessions, which you are welcome to attend if you wan
 ### What are the prizes?
 
 Everyone that submits a build will receive a pair of EskomSePush or OfferZen socks!
+
+![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (2).png>)
 
 ### What happens after I submit my build?
 
@@ -132,7 +134,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <strong>
 </strong><strong>// End license text.</strong></code></pre>
 
-By submitting, you grant OfferZen & EskomSePush permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels. OfferZen and Investec do not make any claims over your IP.
+By submitting, you grant OfferZen & EskomSePush permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels. OfferZen and EskomSePush do not make any claims over your IP.
 
 ### **Can you give me any tips for my submission?**
 
