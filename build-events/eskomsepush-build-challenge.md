@@ -68,7 +68,7 @@ Absolutely**!**
 
 If you don’t have any idea’s about what to build, we’ve got you covered. While you aren’t limited to building solutions to these problems, looking at possible use cases to generate new ideas can be helpful.
 
-You can take a look at some interesting use cases [**here**](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).
+You can take a look at some interesting use cases [here](https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb\_ZKBY/edit?usp=sharing).
 
 ### What must my submission include, and where do I submit it?
 
