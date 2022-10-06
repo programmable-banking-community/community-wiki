@@ -1,16 +1,9 @@
-# 🔦 EskomSePush Build Challenge
+---
+cover: ../.gitbook/assets/Frame 1 (1).png
+coverY: 0
+---
 
-{% hint style="success" %}
-🗓 **Important Dates:**&#x20;
-
-🦄 **Registration closes** on Fri 14th October, 16h00 → [Register here](https://forms.gle/A3CWtRhQr6T7Bdrv6).
-
-&#x20;**** ⚡️ Join our open build hours on **Fri, 7 October, 12h00 - 13h00,** and **Wed, 12 October, 12h00 - 13h00** → [Join here](https://lu.ma/4873rwol)&#x20;
-
-⏰ **Submissions close** on Mon 17th October at 23:59 → [Submit your build here](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).&#x20;
-
-&#x20;🎉 Join us, with EskomSePush, for build demos on Wed 19th October at 6.30pm→ [Register to attend here](https://lu.ma/mau5syw1).
-{% endhint %}
+# ⚡ EskomSePush Build Challenge
 
 ### Welcome!
 
@@ -18,21 +11,33 @@ We are super excited to launch this build challenge with [EskomSePush](https://s
 
 If you’re interested in building solutions to relevant South African problems, are keen to explore a new API or have been waiting for a cool project to collaborate on with friends, you’re in the right place.
 
-{% hint style="warning" %}
-#### **A message from Dan:**
+### A message from Dan:
 
-[![](https://cdn.loom.com/sessions/thumbnails/be94e6ce4d414273a6056dec7f0377e8-with-play.gif)](https://www.loom.com/share/be94e6ce4d414273a6056dec7f0377e8)
-{% endhint %}
+{% embed url="https://www.loom.com/share/be94e6ce4d414273a6056dec7f0377e8" %}
 
 > 👉 **If you are sold already, you can** [**register to participate here**](https://forms.gle/A3CWtRhQr6T7Bdrv6)**.**&#x20;
 
-### What is the build challenge about?
+{% hint style="info" %}
+🗓 **Important Dates:**&#x20;
+
+****
+
+**Registration closes** on Fri 14th Oct, 16h00 SAST → [Register here](https://forms.gle/A3CWtRhQr6T7Bdrv6).
+
+**Join our open build hours** on Fri, 7 Oct & Wed, 12 Oct, 12h00-13h00 → [Join here](https://lu.ma/4873rwol)&#x20;
+
+**Submissions close** on Mon 17th Oct at 23h59 → [Submit your build here](https://8malmkzgvs8.typeform.com/to/vz9Ep6ba).&#x20;
+
+**Join us & EskomSePush for build demos** on Wed 19th Oct at 18h30→ [Register to attend ](https://lu.ma/mau5syw1)
+{% endhint %}
+
+### What is the Build Challenge about?
 
 Let’s face it, loadshedding sucks.
 
 To make something good of a bad situation and have some fun in the process, we have teamed up with EskomSePush and **challenge you to build something with their API that knocks our socks off!**
 
-EskomSePush will be giving those that participate exclusive access to their API for the duration of the challenge, and there will be some awesome EskomSePush and OfferZen up for grabs for those that submit a build.
+EskomSePush will be giving those that participate exclusive access to their API for the duration of the challenge, and there will be some awesome EskomSePush and OfferZen socks up for grabs for those that submit a build.
 
 You and your team are the credited ‘owners’ of your ideas, code and content. However, in the spirit of the community, you are required to open-source your code under the [MIT License](https://opensource.org/licenses/MIT); _see below for more info_.
 
