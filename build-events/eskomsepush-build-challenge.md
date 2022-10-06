@@ -59,8 +59,8 @@ We have opened this to members of the OfferZen Programmable Banking community an
 ### **How will I get access to the EskomSePush API if I want to participate?**
 
 * [ ] Once you register for the build challenge, you will receive an email with a token for the EskomSePush API.
-* [ ] The access token will provide you with 1000 credits, however, if you require more credits, you can request more by contacting [community-investec@offerzen.com](mailto:community-investec@offerzen.com).
-* [ ] Once the build challenge is over, the token will be revoked, and you will need to revert to a limited personal account that you can register for [**here**](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).
+* [ ] The access token will provide you with 1000 credits. However, if you require more credits, you can request more by contacting [community-investec@offerzen.com](mailto:community-investec@offerzen.com).
+* [ ] Once the build challenge is over, the token will be revoked, and you will need to revert to a limited personal account that you can register for [here](https://docs.google.com/forms/d/e/1FAIpQLSeZhAkhDaQX\_mLT2xn41TkVjLkOH3Py3YWHi\_UqQP4niOY01g/viewform).
 
 ### **Are there use cases that I can build against?**
 
@@ -72,7 +72,7 @@ You can take a look at some interesting use cases [**here**](https://app.gitbook
 
 ### What must my submission include, and where do I submit it?
 
-The closing date for your final solution is Monday, 17 October 2022, 23:59 SAST. You can **** [**submit your builds here**](https://app.gitbook.com/o/SzI4nneXpBl55e2JYQmJ/s/w5OSEAfe6Nb1dMzGZwig/).
+The closing date for your final solution is Monday, 17 October 2022, 23:59 SAST. You can[ submit your builds here](https://8malmkzgvs8.typeform.com/to/vz9Ep6ba).
 
 Each submission must include:
 
@@ -89,7 +89,7 @@ Hang out with participating teams and the community [on Slack](https://offerzen-
 
 Join us even if you just want to chill and watch other people build!
 
-We will be hosting 2 open sessions, which you are welcome to attend if you would like to get help on getting started with the EskomSePush API; if you have any questions you would like to ask.
+We will be hosting two open sessions, which you are welcome to attend if you want help getting started with the EskomSePush API; if you have any questions, you would like to ask.
 
 {% hint style="info" %}
 **Open office hour 1**: Friday, 7 October, 12h00 - 13h00 → [Join here ](https://lu.ma/4873rwol)
@@ -99,11 +99,11 @@ We will be hosting 2 open sessions, which you are welcome to attend if you would
 
 ### **What are the important dates I should know about?**
 
-* **Build challenge launch & registration opens**: Thursday, 6 October, 12h00
+* **Build challenge launch &** [**registration opens**](https://docs.google.com/forms/d/e/1FAIpQLScKnZ33wziwNFQHM9O31xo1O8fjDfcfgfBQD4J46rc00YZYPQ/viewform): Thursday, 6 October, 12h00
 * ****[**Open office hour**](https://lu.ma/4873rwol): Friday, 7 October, 12h00 - 13h00
 * ****[**Open office hour**](https://lu.ma/4873rwol): Wednesday, 12 October, 12h00 - 13h00
-* **Registration closes**: Friday, 14th October, 16h00
-* **Submit your build here** before: Monday 17th October, 23:59 SAST.
+* ****[**Registration closes**](https://docs.google.com/forms/d/e/1FAIpQLScKnZ33wziwNFQHM9O31xo1O8fjDfcfgfBQD4J46rc00YZYPQ/viewform): Friday, 14th October, 16h00
+* ****[**Submit your build here**](https://8malmkzgvs8.typeform.com/to/vz9Ep6ba) before: Monday 17th October, 23:59 SAST.
 * ****[**Online demo event**](https://lu.ma/mau5syw1): Wednesday, 19 October, 18h30 - 20h00
 
 ### What are the prizes?
