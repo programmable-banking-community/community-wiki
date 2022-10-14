@@ -11,6 +11,6 @@ The community-driven Hackathons are a great way to play with Programmable Bankin
 
 ****:unicorn: **See a** [**full list of all hackathon submissions here**](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)**.**
 
-### Upcoming Hackathons
+### Current Build Events
 
-* **EskomSePush Build Challenge ⚡**
+* ****[**EskomSePush Build Challenge**](eskomsepush-build-challenge.md) **⚡**
