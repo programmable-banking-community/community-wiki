@@ -63,8 +63,7 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 
 {% tab title="🧱 Build" %}
 * 🔨 [Build Something Simple](readme/build-something-simple/)
-* 🔦 [Community Build Challenges](build-events/eskomsepush-build-challenge.md)
-* 💳 [Hackathon Challenges](build-events/)
+* 💳 [Community Build & Hackathon Challenges](build-events/)
 * 💰 [Spreadsheet Banking Bounties](build-events/spreadsheet-banking-or-bounties/)
 {% endtab %}
 {% endtabs %}
