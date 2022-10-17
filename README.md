@@ -14,9 +14,9 @@ We [meet once a month](https://lu.ma/ipb-community) and [build interesting thing
 
 ## ✨ About
 
-**The Programmable Banking Community** is a community of 500+ software devs on a mission.
+**The Programmable Banking Community** is a community of 700+ software devs on a mission.
 
-We want to make Programmable Banking a reality for South African developers and businesses: by building open source tech with Investec Programmable Banking foundations. [Learn more](https://www.offerzen.com/community/investec/).
+We want to make Programmable Banking a reality for South African developers and businesses: by building open-source tech with Investec Programmable Banking foundations. [Learn more](https://www.offerzen.com/community/investec/).
 
 **The purpose of the community is threefold:**
 
