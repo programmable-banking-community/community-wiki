@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Frame 1 (1).png
+cover: ../../.gitbook/assets/Frame 1 (1).png
 coverY: 0
 ---
 
@@ -72,15 +72,15 @@ If you don’t have any idea’s about what to build, we’ve got you covered. Y
 
 <div>
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (1).png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (1).png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (2).png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022  (2).png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022 .png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[EXTERNAL] EskomSePush Build Challenge Use Cases - October 2022 .png" alt=""><figcaption><p><strong>More use cases</strong><a href="https://docs.google.com/presentation/d/1dalMqFwzcCCzY2jYyG5lMT7pYoMynh4Jgt9bgb_ZKBY/present?slide=id.p"> <strong>here</strong></a><strong>.</strong></p></figcaption></figure>
 
 </div>
 
@@ -131,7 +131,7 @@ We will be hosting two open sessions, which you are welcome to attend if you wan
 
 Everyone that submits a build will receive a pair of EskomSePush or OfferZen socks!
 
-![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (2).png>)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (2).png>)
 
 ### What happens after I submit my build?
 
