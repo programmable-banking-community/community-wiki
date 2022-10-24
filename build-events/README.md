@@ -13,4 +13,4 @@ The community-driven Hackathons are a great way to play with Programmable Bankin
 
 ### Current Build Events
 
-* ****[**EskomSePush Build Challenge**](eskomsepush-build-challenge/) **⚡**
+* ****[**EskomSePush Build Challenge**](closed-eskomsepush-build-challenge/) **⚡**
