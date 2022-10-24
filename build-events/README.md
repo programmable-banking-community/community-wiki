@@ -8,7 +8,7 @@ The community-driven Hackathons are a great way to play with Programmable Bankin
 * [2021 Q2 Hackathon submissions](https://docs.google.com/spreadsheets/d/1Rh7bjikdBxGVXoCIKS8XU3apjvCwUIxagt1Nziuz\_u0/edit?usp=sharing) | Open Programmable Banking
 * [2021 Q4 Hackathon submission](https://docs.google.com/spreadsheets/d/1cWZQtru2zXkkVjEnbOZiCbwbTW1LcpgEsUalt1Vwlog/edit?usp=sharing)s | Transfer APIs
 * [2022 Q2 Hackathon submissions](q2-2022-hackathon-or-low-code-no-code/2022-hackathon-or-low-code-no-code-or-submissions.md) | Low-code/ No-Code Spreadsheet Banking
-* [EskomSePush API Build Challenge](closed-eskomsepush-build-challenge/) ⚡
+* [EskomSePush submissions](closed-eskomsepush-build-challenge/eskomsepush-build-challenge-submissions.md) | API Build Challenge ⚡
 
 ****:unicorn: **See a** [**full list of all hackathon submissions here**](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)**.**
 
