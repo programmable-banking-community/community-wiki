@@ -3,7 +3,13 @@ cover: ../../.gitbook/assets/Frame 1 (1).png
 coverY: 0
 ---
 
-# ⚡ EskomSePush Build Challenge
+# ⚡ \[CLOSED] EskomSePush Build Challenge
+
+{% hint style="info" %}
+⏰ **Closed** Mon 17th Oct 2022 at 23h59&#x20;
+
+:trophy: **Check out the** [**live demos** ](https://www.youtube.com/watch?v=UR31R2l7UYc)****
+{% endhint %}
 
 ### Welcome!
 
