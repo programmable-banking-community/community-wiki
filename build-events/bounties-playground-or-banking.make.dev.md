@@ -1,8 +1,8 @@
-# 💰 banking.make.dev Bounties
+# 💰 Bounties Playground | banking.make.dev
 
 ## What is this about?
 
-We created a central repo as a community space for playing with programmable banking, and building/extending its API functionality. We hope that anyone interested in building useful financial tools can use this repo to increase functionality for personal and business use-cases.
+We created [a central repo](https://github.com/programmable-banking-community/banking.make) as a community space for playing with programmable banking, and building/extending its API functionality. We hope that **anyone interested in building useful financial tools can use this repo to increase functionality for personal and business use-cases**.
 
 ## What do I need to know?
 
