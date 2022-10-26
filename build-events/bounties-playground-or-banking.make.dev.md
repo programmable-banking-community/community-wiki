@@ -9,7 +9,7 @@ We created [a central repo](https://github.com/programmable-banking-community/ba
 ### The Bounties
 
 {% hint style="warning" %}
-✨**Bounty Season #1: 25 October to 14 November 2022** ✨
+✨**Bounty Season #1: 27 October to 14 November 2022** ✨
 {% endhint %}
 
 We have a list of bounties for functionality that we think will be useful to add to the current codebase.
