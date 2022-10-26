@@ -15,6 +15,7 @@
     * [2022 Hackathon | low-code/no-code | Submissions](build-events/q2-2022-hackathon-or-low-code-no-code/2022-hackathon-or-low-code-no-code-or-submissions.md)
   * [💰 \[CLOSED\] Spreadsheet Banking | Bounties](build-events/closed-spreadsheet-banking-or-bounties/README.md)
     * [👩💻 Spreadsheet Banking | Basic Functions](build-events/closed-spreadsheet-banking-or-bounties/spreadsheet-banking-or-basic-functions.md)
+  * [💰 banking.make.dev Bounties](build-events/banking.make.dev-bounties.md)
 * [🧭 What](what/README.md)
   * [Community Manifesto](community-manifesto.md)
   * [Open-source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
