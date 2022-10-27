@@ -73,3 +73,14 @@ We have a list of bounties for functionality that we think will be useful to add
 * There is a connector file in `public/Investec.swagger.json` that you can import into [Microsoft Power Automate](https://make.powerautomate.com) or any other low-code tool
 * `modules/power_automate.js` handles pubsub subscriptions for PowerAutomate events
 * `routes/investec/special.js` contains several routes specific to Power Automate
+
+## FAQs
+
+1. **Can >1 person work on/request to work on a bounty at the same time? How is the decision about who works on it made?**
+   1. Anyone can go after any bounty - it just depends on who commits first with all the criteria.
+2. **Is there any time frame for the bounties to be completed in?**
+   1. Yes, there is. There are Seasons - 3 weekends per bounty season.
+3. **What is the engagement model once someone has started working on a bounty?**
+   1. You can either work on their own and commit for approval as is, or they can join the Slack channel for support and book a "build session" with a community champion.
+4. **What if the person cannot complete the bounty?**
+   1. Then they don’t complete. We’ll make a call after each season to either roll over any unclaimed bounties and add new ones for the next seasons.
