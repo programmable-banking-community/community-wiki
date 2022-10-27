@@ -2,9 +2,7 @@
 
 ## What is this about?
 
-We created [a central repo](https://github.com/programmable-banking-community/banking.make) as a community space for playing with programmable banking and building/extending its API functionality. We hope that **anyone interested in building useful financial tools can use this repo to increase functionality for personal and business use-cases**.\
-\
-
+We created [a central repo](https://github.com/programmable-banking-community/banking.make) as a community space for playing with programmable banking and building/extending its API functionality. We hope that **anyone interested in building useful financial tools can use this repo to increase functionality for personal and business use-cases**.
 
 ## What do I need to know?
 
@@ -57,7 +55,7 @@ We have a list of bounties for functionality that we think will be useful to add
 * Configure the app's components to point to the domain your REPL is hosted at
   * Set the `DOMAIN` secret, the default is `banking.make.dev` - this is used in the root code compiler, among others
   * Update the connector file in `public/Investec.swagger.json` and replace `banking.make.dev`
-* `npm install` and `npm start` ('_I think, not sure - I just use Replit and it auto-boots_')
+* `npm install` and `npm start` ('_I think, not sure - I just use Replit and it auto-boots_ 🤷‍♂️')
 
 ### Current Features
 
