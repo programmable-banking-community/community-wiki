@@ -2,7 +2,9 @@
 
 ## What is this about?
 
-We created [a central repo](https://github.com/programmable-banking-community/banking.make) as a community space for playing with programmable banking, and building/extending its API functionality. We hope that **anyone interested in building useful financial tools can use this repo to increase functionality for personal and business use-cases**.
+We created [a central repo](https://github.com/programmable-banking-community/banking.make) as a community space for playing with programmable banking and building/extending its API functionality. We hope that **anyone interested in building useful financial tools can use this repo to increase functionality for personal and business use-cases**.\
+\
+
 
 ## What do I need to know?
 
@@ -10,7 +12,7 @@ We created [a central repo](https://github.com/programmable-banking-community/ba
 
 {% hint style="warning" %}
 ✨**Bounty Season #1:** ✨\
-**Starts: 27 October** \
+**Starts: 27 October 2022**\
 **Ends: 14 November 2022**&#x20;
 {% endhint %}
 
@@ -79,10 +81,10 @@ We have a list of bounties for functionality that we think will be useful to add
 ## FAQs
 
 1. **Can >1 person work on/request to work on a bounty at the same time? How is the decision about who works on it made?**
-   1. Anyone can go after any bounty - it just depends on who commits first with all the criteria.
+   1. Anyone can go after any bounty - it just depends on who commits first with all the correct criteria.
 2. **Is there any time frame for the bounties to be completed in?**
-   1. Yes, there is. There are Seasons - 3 weekends per bounty season.
+   1. Yes, there is. There are Bounty seasons - 3 weekends per bounty season.
 3. **What is the engagement model once someone has started working on a bounty?**
-   1. You can either work on their own and commit for approval as is, or they can join the Slack channel for support and book a "build session" with a community champion.
+   1. You can either work on your own and commit for approval as is, or they can [join the Slack channel](https://offerzen-community.slack.com/archives/C048GPNT49W) for support and to book a "build session" with a community champion.
 4. **What if the person cannot complete the bounty?**
    1. Then they don’t complete. We’ll make a call after each season to either roll over any unclaimed bounties and add new ones for the next seasons.
