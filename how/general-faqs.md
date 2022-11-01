@@ -28,3 +28,11 @@ You'll be able to create specific API keys for specific account profiles from th
 
 
 </details>
+
+<details>
+
+<summary>How do I create a new Investec API key?</summary>
+
+[![](https://cdn.loom.com/sessions/thumbnails/34fe8ffed19c4d498ac67fd1c0cf1a23-1667291201109-with-play.gif)](https://www.loom.com/share/34fe8ffed19c4d498ac67fd1c0cf1a23)
+
+</details>
