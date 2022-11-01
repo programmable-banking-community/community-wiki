@@ -20,18 +20,9 @@ This page is for all general community FAQs we might come across. Feel free to a
 
 <details>
 
-<summary>I have a few Investec account profiles under my single Investec login. How do I control API access to the other Profile accounts?</summary>
+<summary>How do I create a new or multiple Investec API key(s)?</summary>
 
-You'll be able to create specific API keys for specific account profiles from the Investec Online Portal's mega-menu --> External Connections.&#x20;
-
-![](<../.gitbook/assets/Create Investec API.gif>)\
-
-
-</details>
-
-<details>
-
-<summary>How do I create a new Investec API key?</summary>
+You'll be able to create specific API keys for specific account profiles from the Investec Online Portal's mega-menu --> Programmable Banking.&#x20;
 
 [![](https://cdn.loom.com/sessions/thumbnails/34fe8ffed19c4d498ac67fd1c0cf1a23-1667291201109-with-play.gif)](https://www.loom.com/share/34fe8ffed19c4d498ac67fd1c0cf1a23)
 
