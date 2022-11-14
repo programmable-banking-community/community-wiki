@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/MindJoy_Banner.png
-coverY: 458.7030716723549
+cover: ../.gitbook/assets/Frame 2 (1).png
+coverY: 4.495833333333334
 ---
 
 # 👩💻 Mindjoy | Helping Kids Code Challenge
