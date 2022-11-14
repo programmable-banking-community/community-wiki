@@ -10,12 +10,14 @@ We created [a central repo](https://github.com/programmable-banking-community/ba
 
 {% hint style="warning" %}
 ⏰ Each bounty season will run **over three weekends**. \
-💫 _**Season #1**_: Starts 27 October and ends 14 November 2022 🏁
+~~💫 _**Season #1**_: Starts 27 October and ends 14 November 2022 🏁~~\
+💫 _**Season #2**_: Starts 15 November and ends 5 December 2022 🏁
 {% endhint %}
 
 We have a list of bounties for functionality that we think will be useful to add to the current codebase.
 
 * 👉 Check out these [available bounties as a starting point](https://github.com/programmable-banking-community/banking.make/issues?q=is%3Aissue+is%3Aopen+label%3Abounty)!
+* 👉  If you have an idea for a new bounty; [let us know here ](https://forms.gle/RYGNmciYZ1HsAH1C9)(_it may get included for next season_ 😉)
 
 **What do I do when I find a bounty I like?**
 
