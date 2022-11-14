@@ -9,6 +9,7 @@
     * [💳 Card | Slack Intergration](readme/build-something-simple/card-or-slack-intergration.md)
   * [🚀 Join a Meetup](https://lu.ma/ipb-community)
 * [🧱 Build Events](build-events/README.md)
+  * [👩💻 Helping Kids Code Challenge](build-events/helping-kids-code-challenge.md)
   * [💰 Bounties Playground | banking.make.dev](build-events/bounties-playground-or-banking.make.dev.md)
   * [⚡ \[CLOSED\] EskomSePush Build Challenge](build-events/closed-eskomsepush-build-challenge/README.md)
     * [EskomSePush Build Challenge Submissions](build-events/closed-eskomsepush-build-challenge/eskomsepush-build-challenge-submissions.md)
