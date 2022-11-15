@@ -105,7 +105,7 @@ If you need help/advice while building, or want to find others to join you, ask 
 Our Community Champ, [Devin Pearson](https://za.linkedin.com/in/pearsondevin), will also be available to guide you. There are two ways you can reach out to Devin for support:
 
 * [ ] **AskMeAnything (AMA)** on [Slack](https://offerzen-community.slack.com/archives/C04APBL53D3) - Don’t be shy to ask Devin questions on the Slack channel. Your questions are useful to other participants.&#x20;
-* [ ] **Book a time slot** - You can book some one-on-one time with Devin -> **Calendly link coming soon!**
+* [ ] **Book a time slot** - You can book some one-on-one time with Devin [**here**](https://calendly.com/nick-offerzen/mindjoy-build-support)**.**
 
 ### What are the important dates I should know about?
 
