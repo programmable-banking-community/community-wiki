@@ -7,7 +7,7 @@ The community-driven Hackathons are a great way to play with Programmable Bankin
 ### Current Build Challenges
 
 * [Bounties Playground](bounties-playground-or-banking.make.dev.md) | banking.make.dev - Banking API tools&#x20;
-* [Helping Kids Code Challenge](mindjoy-or-helping-kids-code-challenge.md) | Something a kid can build in Python, using Replit.
+* [Helping Kids Code Challenge](mindjoy-or-helping-kids-code-build-challenge.md) | Something a kid can build in Python, using Replit.
 
 ### Passed Hackathon & Build Events submissions
 
