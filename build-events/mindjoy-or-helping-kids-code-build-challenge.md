@@ -13,13 +13,13 @@ One of the best ways to learn new and hard things like coding is to work on soft
 
 ****[**Project-based learning** ](https://www.offerzen.com/blog/luno-co-founder-carel-van-wyk-on-leveling-up-with-projects)is a great way to gain knowledge of new technical skills in greater depth and creates an opportunity for you to actively practice coding and keep your skills sharp.
 
-For our Helping Kids Cod Build Challenge we want you to create cool software projects that can be used to inspire the next generation of developers, creators and digital makers in SA.
+For our Helping Kids Code Build Challenge we want you to create cool software projects that can be used to inspire the next generation of developers, creators and digital makers in SA.
 
 So get ready to build that awesome project you wish you had as a 13-year-old!
 
 If you’re sold already, you can register to participate **** [**here**](https://8malmkzgvs8.typeform.com/to/grKy36U4)**.**
 
-## **A Message from Mindjoy founder,** [**Gabi Immelman**](https://za.linkedin.com/in/gabi-immelman-15a1165b)****
+## **A message from Mindjoy founder,** [**Gabi Immelman**](https://za.linkedin.com/in/gabi-immelman-15a1165b)****
 
 {% embed url="https://www.loom.com/share/8632cf479fcb4921a9f194f478014d77" %}
 
@@ -33,7 +33,7 @@ If you’re sold already, you can register to participate **** [**here**](https:
 
 ## What is the Helping Kids Code Build Challenge about?
 
-From 2023 Coding and Robotics will form part of the SA school curriculum. Through their engagement with schools, Mindjoy has learnt that educators are, however, unsure about how to introduce coding into their classrooms.
+From 2023, Coding and Robotics will form part of the SA school curriculum. Through their engagement with schools, Mindjoy has learnt that educators are, however, unsure about how to introduce coding into their classrooms.
 
 Mindjoy is all about creating great learning experiences that engage and challenge kids to learn real tech skills in a hands-on way. And they do this with [**Python**](https://www.python.org/) 🐍 and [**Replit**](https://replit.com/).
 
@@ -41,7 +41,7 @@ Mindjoy partners with software developers who have deep domain knowledge and exp
 
 **The challenge is to build a project that contributes to your learning journey and enables kids to have a fun learning experience too.**
 
-You can chat with us in the [dedicated Slack channel ](https://offerzen-community.slack.com/archives/C04APBL53D3)or email community-investec@offerzen.com with any questions.
+You can chat with us in the [dedicated Slack channel ](https://offerzen-community.slack.com/archives/C04APBL53D3)or email [community-investec@offerzen.com](mailto:community-investec@offerzen.com) with any questions.
 
 {% hint style="info" %}
 Stay updated on the **Helping Kids Code Challenge** by joining our [Slack channel](https://offerzen-community.slack.com/archives/C04APBL53D3)
@@ -51,7 +51,7 @@ Stay updated on the **Helping Kids Code Challenge** by joining our [Slack channe
 
 ### Who can participate and how do I register?
 
-We have opened this challenge up to the developer community as well as any parents whose kids are part of the Mindjoy community. You are welcome to invite your friends to participate.
+We have opened this challenge up to the developer community and you are welcome to invite your friends to participate.
 
 You can participate alone or as part of a team and you can be part of multiple teams if you want to.
 
@@ -67,15 +67,17 @@ If your python skills are a little rusty or you’ve never used it before, this 
 
 ### Do I need to use a specific environment for Mindjoy kids to learn?
 
-Yes, you will need to create your project in **Replit**. You can create a free account **** [**here.**](https://replit.com/)****
+Yes, you will need to create your project in **Replit**. You can create a free account **** [**here.** ](https://replit.com/)****
 
-Replit is a great place for kids (and grown-ups) to learn how to code.
+Replit is a great place for kids (and grown-ups) to learn how to code. They have recently launched [Replit Mobile](https://blog.replit.com/mobile-app) and are on a mission to make coding accessible to kids and adults in Africa.&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=HTx5WndrCBI" %}
 
-### Woah I don’t know anything about teaching kids to code. Do I need to create a step-by-step lesson for kids
+### Woah I don’t know anything about teaching kids to code. Do I need to create a step-by-step lesson for kids?
 
 **You just need to build the project and document it.** Mindjoy's superpower is taking awesome projects and breaking them into modules that kids of various experience levels can follow to create the project for themselves.
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-15 at 12.54.53.png" alt=""><figcaption></figcaption></figure>
 
 ### Are there any project ideas that I can use to build against?
 
@@ -85,6 +87,8 @@ Absolutely, we’ve got you covered. Mindjoy works with young people every day a
 
 Of course, you aren’t limited to building projects based on these ideas.
 
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-15 at 12.58.14.png" alt=""><figcaption></figcaption></figure>
+
 ### What must my submission include and where do I submit it?
 
 The closing date for your final solution is **Monday 28 November, 23:59 SAST.**
@@ -93,7 +97,7 @@ The closing date for your final solution is **Monday 28 November, 23:59 SAST.**
 
 Each submission must include:&#x20;
 
-* [ ] A link to your project, which uses Python and Replit, and is released under the MIT Licence
+* [ ] A link to your project, which uses Python and Replit, and is released under the MIT Licence (see below)**.**
 * [ ] Replit repo and documentation for setting up your solution.&#x20;
 * [ ] Two-minute video/ live demo describing the problem you tackled and how your project works to solve it&#x20;
 * [ ] A team/individual photo&#x20;
@@ -110,8 +114,8 @@ If you need help/advice while building, or want to find others to join you, ask 
 
 Our Community Champ, [Devin Pearson](https://za.linkedin.com/in/pearsondevin), will also be available to guide you. There are two ways you can reach out to Devin for support:
 
-* [ ] **AskMeAnything (AMA)** on [Slack](https://offerzen-community.slack.com/archives/C04APBL53D3) - Don’t be shy to ask Devin questions on the Slack channel. Your questions are useful to other participants.&#x20;
-* [ ] **Book a time slot** - You can book some one-on-one time with Devin [**here**](https://calendly.com/nick-offerzen/mindjoy-build-support)**.**
+* [ ] **AskMeAnything (AMA)** on [Slack](https://offerzen-community.slack.com/archives/C04APBL53D3) - Don’t be shy to ask Devin questions on the Slack channel. He is very nice and super wise. **** Your questions are useful to other participants.&#x20;
+* [ ] **Book a time slot** - You can book some one-on-one time with Devin [here](https://calendly.com/nick-offerzen/mindjoy-build-support).
 
 ### What are the important dates I should know about?
 
@@ -121,9 +125,9 @@ Our Community Champ, [Devin Pearson](https://za.linkedin.com/in/pearsondevin), w
 
 ### What are the prizes?&#x20;
 
-Everyone that submits a build will receive an awesome OfferZen hoodie!
+OfferZen hoodies are up for grabs for participants!
 
-
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-15 at 13.12.02.png" alt=""><figcaption></figcaption></figure>
 
 Your projects will also be used to create awesome learning experiences that help kids in SA to code.
 
@@ -151,7 +155,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <strong>
 </strong><strong>// End license text.</strong></code></pre>
 
-By submitting, you grant Make & Mindjoy permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels.Rules
+By submitting, you grant OfferZen & Mindjoy permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels.
+
+### Rules
 
 #### Disqualification
 
