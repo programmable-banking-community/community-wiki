@@ -19,6 +19,10 @@ So get ready to build that awesome project you wish you had as a 13-year-old!
 
 If you’re sold already, you can register to participate **** [**here**](https://8malmkzgvs8.typeform.com/to/grKy36U4)**.**
 
+## **A Message from Mindjoy founder,** [**Gabi Immelman**](https://za.linkedin.com/in/gabi-immelman-15a1165b)****
+
+{% embed url="https://www.loom.com/share/8632cf479fcb4921a9f194f478014d77" %}
+
 ## Important Dates
 
 {% hint style="info" %}
@@ -65,7 +69,9 @@ If your python skills are a little rusty or you’ve never used it before, this 
 
 Yes, you will need to create your project in **Replit**. You can create a free account **** [**here.**](https://replit.com/)****
 
-Replit is a great place for kids (and grownups) to learn how to code. We, therefore, ask that you please create and store your project in Replit.
+Replit is a great place for kids (and grown-ups) to learn how to code.
+
+{% embed url="https://www.youtube.com/watch?v=HTx5WndrCBI" %}
 
 ### Woah I don’t know anything about teaching kids to code. Do I need to create a step-by-step lesson for kids
 
@@ -116,6 +122,8 @@ Our Community Champ, [Devin Pearson](https://za.linkedin.com/in/pearsondevin), w
 ### What are the prizes?&#x20;
 
 Everyone that submits a build will receive an awesome OfferZen hoodie!
+
+
 
 Your projects will also be used to create awesome learning experiences that help kids in SA to code.
 
