@@ -3,19 +3,17 @@ cover: ../.gitbook/assets/Frame 2 (4).png
 coverY: 0
 ---
 
-# 👩💻 Mindjoy | Helping Kids Code Build Challenge
+# 👩💻 Mindjoy | Kid at Heart Build Challenge
 
 ## Welcome!
 
-We are excited to announce our **Helping Kids Code Build Challenge**, together with EdTech startup, [**Mindjoy**](https://www.mindjoy.com/)**.**&#x20;
+We are excited to announce our **Kid at** 💙 **Build Challenge**, together with EdTech startup, [**Mindjoy**](https://www.mindjoy.com/)**.**&#x20;
 
 One of the best ways to learn new and hard things like coding is to work on software projects that excite you, and believe it or not, this is true for grown-ups and kids alike.
 
 ****[**Project-based learning** ](https://www.offerzen.com/blog/luno-co-founder-carel-van-wyk-on-leveling-up-with-projects)is a great way to gain knowledge of new technical skills in greater depth and creates an opportunity for you to actively practice coding and keep your skills sharp.
 
-For our Helping Kids Code Build Challenge we want you to create cool software projects that can be used to inspire the next generation of developers, creators and digital makers in SA.
-
-So get ready to build that awesome project you wish you had as a 13-year-old!
+Channel your inner kid and build that awesome project you wish you had as a 13-year-old!
 
 If you’re sold already, you can register to participate **** [**here**](https://8malmkzgvs8.typeform.com/to/grKy36U4)**.**
 
@@ -26,25 +24,25 @@ If you’re sold already, you can register to participate **** [**here**](https:
 ## Important Dates
 
 {% hint style="info" %}
-![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Registration will open **Tuesday, 15th November** → [Register here](https://8malmkzgvs8.typeform.com/to/grKy36U4)\
+![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Registration open **Tuesday, 15th November** → [Register here](https://8malmkzgvs8.typeform.com/to/grKy36U4)\
 ![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Submissions close on **Monday 28 November, 23h59** -> **** [Submit your build here](https://8malmkzgvs8.typeform.com/to/oaYG8xpN)\
 ![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) **** Join us & Mindjoy for awesome build demos on **Wed 30 November, 18h30 ->** [Register to attend here](https://lu.ma/6w8v3upz)
 {% endhint %}
 
-## What is the Helping Kids Code Build Challenge about?
+## What is the Kid at Heart Build Challenge about?
 
 From 2023, Coding and Robotics will form part of the SA school curriculum. Through their engagement with schools, Mindjoy has learnt that educators are, however, unsure about how to introduce coding into their classrooms.
 
-Mindjoy is all about creating great learning experiences that engage and challenge kids to learn real tech skills in a hands-on way. And they do this with [**Python**](https://www.python.org/) 🐍 and [**Replit**](https://replit.com/).
+Software developers with deep domain knowledge and experience - _that’s you!_ - are well positioned to support kids' coding initiatives through building awesome software projects that can be broken down into engaging smaller modular projects for kids.
 
-Mindjoy partners with software developers who have deep domain knowledge and experience (working experts) - _that’s you!_ - to build awesome software projects that can be broken down into engaging smaller modular projects for kids.
+**This challenge is all about building a project that channels your inner kid, contributes to your learning journey and enables kids to have a fun learning experience too.**
 
-**The challenge is to build a project that contributes to your learning journey and enables kids to have a fun learning experience too.**
+We've teamed up with Mindjoy because they are all about creating great learning experiences that engage and challenge kids to learn real tech skills in a hands-on way.&#x20;
 
 You can chat with us in the [dedicated Slack channel ](https://offerzen-community.slack.com/archives/C04APBL53D3)or email [community-investec@offerzen.com](mailto:community-investec@offerzen.com) with any questions.
 
 {% hint style="info" %}
-Stay updated on the **Helping Kids Code Challenge** by joining our [Slack channel](https://offerzen-community.slack.com/archives/C04APBL53D3)
+Stay updated on the **Kid at Heart Build Challenge** by joining our [Slack channel](https://offerzen-community.slack.com/archives/C04APBL53D3)
 {% endhint %}
 
 ## FAQs
@@ -57,21 +55,21 @@ You can participate alone or as part of a team and you can be part of multiple t
 
 You can [**register to participate here.**](https://8malmkzgvs8.typeform.com/to/grKy36U4)****
 
-### Do I need to use a specific coding language for Mindjoy kids to learn?
-
-Yes, we ask that you please create your project using [**Python**](https://www.python.org/) 🐍. If you need to include **HTML** and **CSS** for the UI/UX of your project, that’s great too.
-
-**Why Python you might ask?** Python is a great choice for kids learning to code for the first time because it is easy to read, write and learn. This means that kids don’t need to go through strenuous learning before the fun begins. The syntax is also simple and it can be used to build complex programs.
-
-If your python skills are a little rusty or you’ve never used it before, this is the perfect opportunity to brush up or learn a new language.
-
-### Do I need to use a specific environment for Mindjoy kids to learn?
+### Do I need to use a specific environment for kids to learn?
 
 Yes, you will need to create your project in **Replit**. You can create a free account **** [**here.** ](https://replit.com/)****
+
+Replit have some really nice and [easy-to-read guides ](https://docs.replit.com/tutorials/overview)to get going quickly.
 
 Replit is a great place for kids (and grown-ups) to learn how to code. They have recently launched [Replit Mobile](https://blog.replit.com/mobile-app) and are on a mission to make coding accessible to kids and adults in Africa.&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=HTx5WndrCBI" %}
+
+### Do I need to use a specific coding language for my project?
+
+No, you can use any language supported by Replit.&#x20;
+
+If you are wondering what languages are good for kids, [Python](https://www.python.org/) 🐍 is a great choice because it is easy to read, write and learn. This means that kids don’t need to go through strenuous learning before the fun begins. The syntax is also simple and it can be used to build complex programs.
 
 ### Woah I don’t know anything about teaching kids to code. Do I need to create a step-by-step lesson for kids?
 
@@ -81,9 +79,7 @@ Replit is a great place for kids (and grown-ups) to learn how to code. They have
 
 ### Are there any project ideas that I can use to build against?
 
-Absolutely, we’ve got you covered. Mindjoy works with young people every day and knows what kinds of projects kids are interested in building.&#x20;
-
-**You can take a look at the project ideas** [**here**](https://docs.google.com/presentation/d/1iDqbNfnUAv\_jEBx4fBZUON-7t5w04opuIaxIlNfhUAc/present?slide=id.p)**.**
+Absolutely, we’ve got you covered. **You can take a look at the project ideas** [**here**](https://docs.google.com/presentation/d/1iDqbNfnUAv\_jEBx4fBZUON-7t5w04opuIaxIlNfhUAc/present?slide=id.p)**.**
 
 Of course, you aren’t limited to building projects based on these ideas.
 
@@ -97,15 +93,14 @@ The closing date for your final solution is **Monday 28 November, 23:59 SAST.**
 
 Each submission must include:&#x20;
 
-* [ ] A link to your project, which uses Python and Replit, and is released under the MIT Licence (see below)**.**
-* [ ] Replit repo and documentation for setting up your solution.&#x20;
+* [ ] A link to your project, on Replit, released under the MIT Licence (see below)**.**
+* [ ] Documentation for setting up your solution.&#x20;
 * [ ] Two-minute video/ live demo describing the problem you tackled and how your project works to solve it&#x20;
 * [ ] A team/individual photo&#x20;
 
 <!---->
 
 * **Your solution must:**&#x20;
-  * Use Python, HTML and CSS (no other languages)&#x20;
   * Use Replit for building and storing your code.
 
 ### Where can I find help?
@@ -119,7 +114,7 @@ Our Community Champ, [Devin Pearson](https://za.linkedin.com/in/pearsondevin), w
 
 ### What are the important dates I should know about?
 
-![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Registration opens on **Tuesday, 15th November** → [Register here](https://8malmkzgvs8.typeform.com/to/grKy36U4)\
+![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Registration opens **Tuesday, 15th November** → [Register here](https://8malmkzgvs8.typeform.com/to/grKy36U4)\
 ![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Submit your build before **Monday 28 November, 23h59** -> **** [Submit your build here](https://8malmkzgvs8.typeform.com/to/oaYG8xpN)\
 ![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png)Online demo event on **Wed 30 November, 18h30 ->** [Register to attend here](https://lu.ma/6w8v3upz)
 
@@ -128,8 +123,6 @@ Our Community Champ, [Devin Pearson](https://za.linkedin.com/in/pearsondevin), w
 OfferZen hoodies are up for grabs for participants!
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-15 at 13.12.02.png" alt=""><figcaption></figcaption></figure>
-
-Your projects will also be used to create awesome learning experiences that help kids in SA to code.
 
 ### What happens after I submit my build?
 
@@ -161,4 +154,4 @@ By submitting, you grant OfferZen & Mindjoy permission to use screenshots, code-
 
 #### Disqualification
 
-You may be disqualified and forfeit any prizes you may be eligible to receive if OfferZen or Mindjoy reasonably believes that you have not complied with or attempted to undermine the legitimate operation of the Helping Kids Code Challenge.
+You may be disqualified and forfeit any prizes you may be eligible to receive if OfferZen or Mindjoy reasonably believes that you have not complied with or attempted to undermine the legitimate operation of the Kid at Heart Build Challenge.
