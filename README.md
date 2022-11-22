@@ -36,7 +36,7 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for NB updates and community. 🚀
 * [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important. 🦓
 * [ ] [Build something simple](readme/build-something-simple/), and see the awesome things you can do (5 min). 🛠
-* [ ] Attend the next [meetup](https://lu.ma/ipb-community). 🙌
+* [ ] Attend the next [meetup](https://lu.ma/pb-community). 🙌
 
 <figure><img src=".gitbook/assets/beautusgumede1.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,14 +53,12 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 * 🕵️‍♂️ [General FAQs](how/general-faqs.md)
 * 😍 [Get active & earn swag](how/get-active-and-earn-swag.md)
 * 🧳 [Use Cases](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000)
-* 🤯 [Use Case Ideas](use-cases.md)
-* 🚀 [Passed Hackathon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
 * **🙋‍♂️** [Submit issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
 {% endtab %}
 
 {% tab title="📍  Where" %}
 * 😁 [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
-* 🎉 [Events/ Meetups](https://lu.ma/ipb-community)
+* 🎉 [Events/ Meetups](https://lu.ma/pb-community)
 * 🎥 [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
 * 🤙 [Contact Core team](mailto:community-investec@offerzen.com)
 {% endtab %}
@@ -68,6 +66,7 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 {% tab title="🧱 Build" %}
 * 🔨 [Build Something Simple](readme/build-something-simple/)
 * 💳 [Community Build & Hackathon Challenges](build-events/)
+* 👩‍🚀 [banking.make Playground Bounties](build-events/bounties-playground-or-banking.make.dev.md)
 * 💰 [Spreadsheet Banking Bounties](build-events/closed-spreadsheet-banking-or-bounties/)
 {% endtab %}
 {% endtabs %}
