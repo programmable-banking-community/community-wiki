@@ -14,7 +14,7 @@ We [meet once a month](https://lu.ma/ipb-community) and [build interesting thing
 
 ## ✨ About
 
-**The Programmable Banking Community** is a community of 700+ software devs on a mission.
+**The Programmable Banking Community** is a community of 770+ software devs on a mission.
 
 We want to make Programmable Banking a reality for South African developers and businesses: by building open-source tech with Investec Programmable Banking foundations. [Learn more](https://www.offerzen.com/community/investec/).
 
@@ -23,6 +23,8 @@ We want to make Programmable Banking a reality for South African developers and 
 1. Share ideas and code to help each other unlock the potential of Programmable Banking.
 2. Give the Investec Product Team honest and critical feedback on what we want to improve.
 3. Get the businesses where we work to build commercial value with [Programmable Business Banking](https://docs.google.com/presentation/d/e/2PACX-1vSzZVMj7pM7ERf9VC5k2igNjIpcEgPgNCcnvL1cJMMJV8riUypeejrXLMALiWPbFCXv2pe95thsIdvL/pub?start=false\&loop=false\&delayms=3000).
+
+<figure><img src=".gitbook/assets/peterthompson1.png" alt=""><figcaption></figcaption></figure>
 
 ## 🎯 Do this first
 
@@ -35,6 +37,8 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 * [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important. 🦓
 * [ ] [Build something simple](readme/build-something-simple/), and see the awesome things you can do (5 min). 🛠
 * [ ] Attend the next [meetup](https://lu.ma/ipb-community). 🙌
+
+<figure><img src=".gitbook/assets/beautusgumede1.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="🦄    What" %}
