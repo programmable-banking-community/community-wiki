@@ -7,6 +7,7 @@
   * [🎬 See where it all started](https://www.youtube.com/watch?v=PcU0aT5ckDM)
   * [🛠 Build something simple](readme/build-something-simple/README.md)
     * [💳 Card | Slack Intergration](readme/build-something-simple/card-or-slack-intergration.md)
+    * [🚗 Card | How to create a DIY petrol card](readme/build-something-simple/card-or-how-to-create-a-diy-petrol-card.md)
   * [🚀 Join a Meetup](https://lu.ma/pb-community)
 * [🧱 Build Events](build-events/README.md)
   * [👩💻 Mindjoy | Kid at Heart Build Challenge](build-events/mindjoy-or-kid-at-heart-build-challenge.md)
