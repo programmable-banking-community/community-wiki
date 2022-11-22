@@ -9,7 +9,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-We [meet once a month](https://lu.ma/ipb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎
+We [meet once a month](https://lu.ma/pb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎
 {% endhint %}
 
 ## ✨ About

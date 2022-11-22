@@ -7,7 +7,7 @@
   * [🎬 See where it all started](https://www.youtube.com/watch?v=PcU0aT5ckDM)
   * [🛠 Build something simple](readme/build-something-simple/README.md)
     * [💳 Card | Slack Intergration](readme/build-something-simple/card-or-slack-intergration.md)
-  * [🚀 Join a Meetup](https://lu.ma/ipb-community)
+  * [🚀 Join a Meetup](https://lu.ma/pb-community)
 * [🧱 Build Events](build-events/README.md)
   * [👩💻 Mindjoy | Kid at Heart Build Challenge](build-events/mindjoy-or-kid-at-heart-build-challenge.md)
   * [💰 Bounties Playground | banking.make.dev](build-events/bounties-playground-or-banking.make.dev.md)
