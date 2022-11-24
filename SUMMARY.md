@@ -10,7 +10,7 @@
     * [🚗 Card | How to create a DIY petrol card](readme/build-something-simple/card-or-how-to-create-a-diy-petrol-card.md)
   * [🚀 Join a Meetup](https://lu.ma/pb-community)
 * [🧱 Build Events](build-events/README.md)
-  * [👩💻 Mindjoy | Kid at Heart Build Challenge](build-events/mindjoy-or-kid-at-heart-build-challenge.md)
+  * [👩💻 \[CLOSED\] Mindjoy | Kid at Heart Build Challenge](build-events/closed-mindjoy-or-kid-at-heart-build-challenge.md)
   * [💰 Bounties Playground | banking.make.dev](build-events/bounties-playground-or-banking.make.dev.md)
   * [⚡ \[CLOSED\] EskomSePush Build Challenge](build-events/closed-eskomsepush-build-challenge/README.md)
     * [EskomSePush Build Challenge Submissions](build-events/closed-eskomsepush-build-challenge/eskomsepush-build-challenge-submissions.md)
