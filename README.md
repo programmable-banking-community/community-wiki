@@ -67,7 +67,6 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 * 🔨 [Build Something Simple](readme/build-something-simple/)
 * 💳 [Community Build & Hackathon Challenges](build-events/)
 * 👩‍🚀 [banking.make Playground Bounties](build-events/bounties-playground-or-banking.make.dev.md)
-* 💰 [Spreadsheet Banking Bounties](build-events/closed-spreadsheet-banking-or-bounties/)
 {% endtab %}
 {% endtabs %}
 

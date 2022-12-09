@@ -11,7 +11,8 @@ We created [a central repo](https://github.com/programmable-banking-community/ba
 {% hint style="warning" %}
 ⏰ Each bounty season will run **over three weekends**. \
 ~~💫 _**Season #1**_: Starts 27 October and ends 14 November 2022 🏁~~\
-💫 _**Season #2**_: Starts 15 November and ends 5 December 2022 🏁
+~~💫 _**Season #2**_: Starts 15 November and ends 5 December 2022 🏁~~\
+💫 _**Season #3**_: Starts Jan 2023 - TBC 🏁
 {% endhint %}
 
 We have a list of bounties for functionality that we think will be useful to add to the current codebase.
@@ -21,7 +22,7 @@ We have a list of bounties for functionality that we think will be useful to add
 
 **What do I do when I find a bounty I like?**
 
-* If you see one that you like,&#x20;
+* If you see one you like,&#x20;
   * comment that you want to claim it.&#x20;
   * The person that created the bounty will respond with a "**go-ahead 👍**".
 * You can [clone the GitHub repo](https://github.com/programmable-banking-community/banking.make) and work on your local machine.
@@ -45,7 +46,7 @@ We have a list of bounties for functionality that we think will be useful to add
 
 ### Other features
 
-**Feel free to extend this app with other programmable banking features you'd like.** We can't guarantee it'll be merged into the main branch, but if it provides real value, there's a good chance it will be. Please make sure your code is well documented and its reason for existing is explained well.
+**Feel free to extend this app with other programmable banking features you'd like.** We can't guarantee it'll be merged into the main branch, but if it provides real value, there's a good chance it will be. Please make sure your code is well documented, and its reason for existing is explained well.
 
 ### Issue tracking
 
@@ -57,7 +58,7 @@ We have a list of bounties for functionality that we think will be useful to add
 * Configure the app's components to point to the domain your REPL is hosted at
   * Set the `DOMAIN` secret, the default is `banking.make.dev` - this is used in the root code compiler, among others
   * Update the connector file in `public/Investec.swagger.json` and replace `banking.make.dev`
-* `npm install` and `npm start` ('_I think, not sure - I just use Replit and it auto-boots_ 🤷‍♂️')
+* `npm install` and `npm start` ('_I think, not sure - I just use Replit, and it auto-boots_ 🤷‍♂️')
 
 ### Current Features
 
