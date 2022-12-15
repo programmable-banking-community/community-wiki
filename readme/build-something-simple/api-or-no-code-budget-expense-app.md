@@ -15,9 +15,7 @@ This tutorial will show you how to set up the framework for a no-code/ low-code 
 
 1. Explore what  Programmable Banking means,
 2. Discover different ways to engage with your financial well-being,
-3. Design a low-code budget expense app [Spike](https://medium.com/studio-zero/spikes-pocs-prototypes-and-the-mvp-5cdffa1b7367)
-
-### Watch the whole build in realtime:
+3. Design a low-code budget expense app [Spike](https://medium.com/studio-zero/spikes-pocs-prototypes-and-the-mvp-5cdffa1b7367)Watch the whole build in realtime:
 
 {% embed url="https://www.loom.com/share/b1c73f42d5b041d599daa9a265f0eaf6" %}
 🌈 Pro Tip: Speed up the vid to get to the good bits.
@@ -32,9 +30,11 @@ This tutorial will show you how to set up the framework for a no-code/ low-code 
 
 ## The Job To Be Done:
 
+{% hint style="success" %}
 * Create a mobile app where I can log expenses and track current budgets.
 * Be able to identify which expenses are recurring.
 * I can easily connect it to my Investec account to see expenses at a glance.
+{% endhint %}
 
 ## 🌮 The super short version:
 
@@ -84,7 +84,7 @@ Plan out what screens you want to see and how your data would be structured.
   * Maybe a cool emoji for easier reference?
   * And a budget limit for that category&#x20;
   * We can add pretty pictures later.
-* In App Items, we can populate it with some dummy data for now.&#x20;
+* In _**App Items**_, we can populate it with some dummy data for now.&#x20;
   * Name&#x20;
   * Cost&#x20;
   * Category & Icon (:bulb: **Pro Tip**: _We can copy\&paste from the category sheet_)&#x20;
@@ -99,3 +99,40 @@ Plan out what screens you want to see and how your data would be structured.
 * Now that we have our data the way we want, we need a smart overview screen to bring everything together.
   * So let’s also 📽️ [create an overview dataset with fancy maths](https://www.loom.com/share/b1c73f42d5b041d599daa9a265f0eaf6?t=1017) like this.
 
+### Step 5: Lipstick on a pig
+
+* Awesome! Now that we have all our data the way we want it 📽️ [let’s start making the screens](https://www.loom.com/share/b1c73f42d5b041d599daa9a265f0eaf6?t=1369).
+  * Remove all the current sections there, and we’ll start to create our own.&#x20;
+* We planned on creating a couple of basic pages to start;
+
+<!---->
+
+* [ ] **An Expense screen** (_To see a running list of all expenses_)
+* [ ] **A Categories screen** (_To see what’s been spent in each category and what’s my budget_)
+* [ ] **An Overview screen** (_To see everything at a glance_)
+
+<!---->
+
+* We still have some time, so we’ll throw in;
+
+<!---->
+
+* [ ] **A list of expenses per user** (_So we can see who the big spenders in the household are_)
+* [ ] A **quick form to log expenses on the go** (_‘cause that’s the point of this app, right?_)
+
+<!---->
+
+* Awesome! Now that’s done. 📽️ [Let’s publish this](https://www.loom.com/share/b1c73f42d5b041d599daa9a265f0eaf6?t=2643)!
+
+### Step 6: The journey continues
+
+* You’ve created a really cool base with Google Sheets & Glide. :raised\_hands:
+* **Drop a screenshot/ link in #**[**02\_make-it-happen**](https://offerzen-community.slack.com/archives/C047HMLESSE)**. We would love to see it! How far can you take this?**
+
+{% hint style="info" %}
+**There are a million and one more things you can do next.**
+
+* Live data sync with your own Investec account via the Google sheet
+* Trigger transfer between accounts when budget limits are exceeded or below expected.
+* Use GPT-3/ other AI models to hyper-categorise your transactions.&#x20;
+{% endhint %}
