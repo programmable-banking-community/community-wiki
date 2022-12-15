@@ -5,17 +5,17 @@
 This tutorial will show you how to set up the framework for a no-code/ low-code mobile budget expense app that can leverage your Investec’s Programmable Banking transactions with [Google Sheets](https://www.google.com/sheets/about/) and [Glide](https://www.glideapps.com/).
 
 {% hint style="info" %}
-🤩 The idea of doing it as a no-code/low-code challenge in 90 mins is not to get all fancy and technical. But to realise that **creating something with real-world implications is fun** - who knows - it might spark a cool idea for later! _**It’s just for funsies**_.&#x20;
+**The idea of doing it as a no-code/low-code challenge in 90 mins is not to get all fancy and technical.** But to realise that **creating something with real-world implications is fun** - who knows - it might spark a cool idea for later! _**It’s just for funsies**_.&#x20;
 
 \
-**Share your progress/ final build** [**in Slack**](https://offerzen-community.slack.com/archives/C047HMLESSE) **- we would love to see how you’ve built on this further!**
+**Share your progress/ final build** [**in Slack**](https://offerzen-community.slack.com/archives/C047HMLESSE) **- we would love to see how you’ve built on this further!** 🤩&#x20;
 {% endhint %}
 
 ### By the end of this build tutorial, you should be able to:
 
 1. Explore what Programmable Banking means for you,
 2. Discover different ways to engage with your financial well-being,
-3. Design a low-code budget expense app [Spike](https://medium.com/studio-zero/spikes-pocs-prototypes-and-the-mvp-5cdffa1b7367)
+3. Design a low-code budget expense app [POC](https://medium.com/studio-zero/spikes-pocs-prototypes-and-the-mvp-5cdffa1b7367).
 
 ## :tv: Watch the whole build in realtime:
 
@@ -72,7 +72,7 @@ Plan out what screens you want to see and how your data would be structured.
 🐇 We can use the treasury management features in this sheet later when we add more features to our app - for now, we are just setting up the groundwork.
 {% endhint %}
 
-### Step 3: Build the (data) structure
+### Step 3: Build the (data) structures
 
 * We are building the framework for a budget expense app, so let’s start thinking about the type of data we would like to use.
 * Let’s start by creating two new sheets in our fancy new Workbook to use as a reference table in our app.
@@ -91,7 +91,7 @@ Plan out what screens you want to see and how your data would be structured.
   * Cost&#x20;
   * Category & Icon (:bulb:**Pro Tip**: _We can copy\&paste from the category sheet_)&#x20;
 
-### Step 4: Make the app data work
+### Step 4: Making the data work
 
 * Got to [Glide here](https://www.glideapps.com/)
 * Create a new mobile app :point\_down:
@@ -106,9 +106,9 @@ Plan out what screens you want to see and how your data would be structured.
 You can follow 📽️ t[his video to see how to add all the fancy reference tables](https://www.loom.com/share/b1c73f42d5b041d599daa9a265f0eaf6?t=317) and maths you’ll need to fully bring your app to life!
 {% endhint %}
 
-* Now that we have our data the way we want, we need a :projector: [smart overview screen with more maths](https://www.loom.com/share/b1c73f42d5b041d599daa9a265f0eaf6?t=1017) to bring everything together.
+* We need a :projector: [smart overview screen with more maths](https://www.loom.com/share/b1c73f42d5b041d599daa9a265f0eaf6?t=1017) to bring everything together. :stadium:
 
-### Step 5: Lipstick on a pig
+### Step 5: Making it pretty
 
 * Awesome! Now that we have all our data the way we want it 📽️ [let’s start making the screens](https://www.loom.com/share/b1c73f42d5b041d599daa9a265f0eaf6?t=1369).
   * Remove all the current sections there, and we’ll start to create our own.&#x20;
