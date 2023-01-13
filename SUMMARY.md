@@ -32,7 +32,7 @@
   * [Hackathon Builds](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#hackathon-build-submissions)
   * [Submit Product Issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
 * [📍 Where](where/README.md)
-  * [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
+  * [Slack Channel](https://offerzen-community.slack.com/archives/C04KFQA3YCQ)
   * [Events/ Meetups](https://lu.ma/ipb-community)
   * [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
   * [Categorised Slack Posts](https://meetwaves.com/library/programmable-banking)

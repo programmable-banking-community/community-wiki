@@ -9,7 +9,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-We [meet once a month](https://lu.ma/pb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/CUBJ511K8) 😎
+We [meet once a month](https://lu.ma/pb-community) and [build interesting things](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) - we also chat on [Slack](https://offerzen-community.slack.com/archives/C04KFQA3YCQ) 😎
 {% endhint %}
 
 ## ✨ About
@@ -33,7 +33,7 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 * [ ] [Apply to join the community](https://8malmkzgvs8.typeform.com/to/VlKgTtaV); if you haven't already joined 🦄
 * [ ] [Book an awesome Welcome call](https://calendly.com/nick-offerzen/community-welcome-chat), and we'll walk you through everything ❤️
 * [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C02NLURKKRT) and say Howzit!/ gm. 😎
-* [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/CUBJ511K8) for NB updates and community. 🚀
+* [ ] Join this [#slack-channel](https://offerzen-community.slack.com/archives/C04KFQA3YCQ) for NB updates and community. 🚀
 * [ ] Watch this [video](https://youtu.be/PcU0aT5ckDM) for context on why Programmable Banking is important. 🦓
 * [ ] [Build something simple](readme/build-something-simple/), and see the awesome things you can do (5 min). 🛠
 * [ ] Attend the next [meetup](https://lu.ma/pb-community). 🙌
@@ -57,7 +57,7 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 {% endtab %}
 
 {% tab title="📍  Where" %}
-* 😁 [Slack Channel](https://offerzen-community.slack.com/archives/CUBJ511K8)
+* 😁 [Slack Channel](https://offerzen-community.slack.com/archives/C04KFQA3YCQ)
 * 🎉 [Events/ Meetups](https://lu.ma/pb-community)
 * 🎥 [YouTube Channel](https://www.youtube.com/watch?v=PcU0aT5ckDM\&list=PLjTry3duaTAGJ6UOW5ISS\_ymV46-VqkPa)
 * :file\_cabinet: [Categorised Slack posts ](https://meetwaves.com/library/programmable-banking)(_must be a member of the Slack workspace!_)
@@ -71,4 +71,4 @@ You will encounter new ideas, inspiration and a treasure trove of helpful tools 
 {% endtab %}
 {% endtabs %}
 
-✨ Programmable Banking Community Wiki _— 2022 Made by Badass unicorns_ 🦄
+✨ Programmable Banking Community Wiki _— 2023 Made by Badass unicorns_ 🦄
