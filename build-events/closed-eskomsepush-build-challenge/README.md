@@ -137,7 +137,7 @@ We will be hosting two open sessions, which you are welcome to attend if you wan
 
 Everyone that submits a build will receive a pair of EskomSePush or OfferZen socks!
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (2) (1).png>)
 
 ### What happens after I submit my build?
 
@@ -159,7 +159,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <strong>
-</strong><strong>// End license text.</strong></code></pre>
+</strong><strong>// End license text.
+</strong></code></pre>
 
 By submitting, you grant OfferZen & EskomSePush permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels. OfferZen and EskomSePush do not make any claims over your IP.
 
