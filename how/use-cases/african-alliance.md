@@ -29,7 +29,3 @@ Using [Investec Programmable Banking](https://www.investec.com/en\_za/banking/te
 {% hint style="info" %}
 Read more about the African Alliance expense allocation and recon system [here](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs).
 {% endhint %}
-
-\
-\
-\

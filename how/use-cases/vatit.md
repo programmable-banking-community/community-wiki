@@ -24,15 +24,3 @@ VATIT implemented a SlackBot, based on the [OfferZen team spend project](offerze
 * The SlackBot has removed the need for the finance team to try to figure out who the spend belongs to.
 * Employees can categorise their own transactions immediately in the Slack channel.&#x20;
 * The solution has reduced the workload overall and VATIT has significantly reduced their 20 work day recon process. &#x20;
-
-\
-
-
-\
-\
-
-
-\
-\
-
-
