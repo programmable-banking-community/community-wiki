@@ -1,6 +1,6 @@
 # 🏔 Q1 2023 Bounty Challenge
 
-### What's it all about?
+## What's it all about?
 
 Are you ready for your next challenge? We are excited to announce a new community bounty challenge using Programmable Banking APIs and Cards!
 
@@ -8,7 +8,7 @@ Are you ready for your next challenge? We are excited to announce a new communit
 * Spark your creativity, collaborate and share with the community&#x20;
 * Showcase your skills and win rewards.
 
-### What do I need to know?
+## What do I need to know?
 
 The challenges are designed to be short and fun, something you can build on weekends, by yourself or working with friends (_give Nick a shout in the channel if you want a new buddy_ 🤩). There are **three different challenges in total, each running for two weekends**:
 
