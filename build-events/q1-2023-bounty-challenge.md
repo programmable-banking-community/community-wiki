@@ -10,7 +10,8 @@ Are you ready for your next challenge? We are excited to announce a new communit
 
 ## What do I need to know?
 
-The challenges are designed to be short and fun, something you can build on weekends, by yourself or working with friends (_give Nick a shout in the channel if you want a new buddy_ 🤩). There are **three different challenges in total, each running for two weekends**:
+The challenges are designed to be short and fun, something you can build on weekends, by yourself or working with friends (_give_ [_Nick_](https://offerzen-community.slack.com/archives/D01R7N2T67J) _a shout if you're looking for a new buddy_ :hugging:). \
+There are **three different challenges in total, each running for two weekends**:
 
 {% hint style="warning" %}
 * 👉 **Challenge 1: Linking Things** | <mark style="color:green;">Friday 24 Feb - Monday 6 March 2023</mark>
@@ -29,7 +30,8 @@ The challenges are open to developers of all skill levels and backgrounds. You c
 | **Building for a Social Good**  | _\[Details to be released the week of Challenge launch]_                                | _\[Details to be released the week of Challenge launch]_ |
 
 {% hint style="info" %}
-**All submissions must have the minimum** of documentation on what it is, how it works and how to install it and code demonstrating the build. _Some challenges might have additional requirements - so watch out for them_ :wink:
+**All submissions must have the minimum** of documentation on; what it is, how it works and how to install it. As well as a link to the code demonstrating the build. \
+_Some challenges might have additional requirements - so watch out for them_ :wink:
 {% endhint %}
 
 **A few example projects for each challenge to ponder** :thinking:****
