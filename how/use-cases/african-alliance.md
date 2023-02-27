@@ -6,7 +6,7 @@ description: Automating expense allocation and reconciliation with Programmable 
 
 [African Alliance](https://www.africanalliance.com/) is an investment banking group, providing investment banking services to businesses across the African continent. African Alliance employees frequently travel throughout Africa, incurring work expenses.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### The Problem: Manually managing employee expenses
 

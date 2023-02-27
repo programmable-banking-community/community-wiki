@@ -10,6 +10,13 @@
     * [🚗 Card | How to create a DIY petrol card](readme/build-something-simple/card-or-how-to-create-a-diy-petrol-card.md)
     * [🎯 API | No-code Budget Expense App](readme/build-something-simple/api-or-no-code-budget-expense-app.md)
   * [🚀 Join a Meetup](https://lu.ma/pb-community)
+
+## ⚒ Developer Tools
+
+* [Quick Start Guide](developer-tools/quick-start-guide.md)
+
+***
+
 * [🧱 Build Events](build-events/README.md)
   * [🏔 Q1 2023 Bounty Challenge](build-events/q1-2023-bounty-challenge.md)
   * [💰 Bounties Playground | banking.make.dev](build-events/bounties-playground-or-banking.make.dev.md)

@@ -137,7 +137,7 @@ We will be hosting two open sessions, which you are welcome to attend if you wan
 
 Everyone that submits a build will receive a pair of EskomSePush or OfferZen socks!
 
-![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (2) (2).png>)
 
 ### What happens after I submit my build?
 

@@ -6,7 +6,7 @@ description: Managing team spend and creating transparency on company expenses
 
 [OfferZen](https://www.offerzen.com/) is a job marketplace for software developers. They are a remote-first company, with employees across South Africa and Europe. Every team member has access to a shared team card to spend money and is given heuristics around how to spend, with the ultimate goal that everyone is empowered to do their job better.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### The Problem: Manually managing employee purchases and compiling spend data
 
