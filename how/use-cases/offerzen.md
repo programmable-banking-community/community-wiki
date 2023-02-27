@@ -1,5 +1,7 @@
 ---
-description: Managing team spend and creating transparency on company expenses
+description: >-
+  Managing team spend and creating transparency on company expenses with
+  Programmable Banking
 ---
 
 # OfferZen
@@ -32,3 +34,5 @@ The OfferZen team built **Roz** – a simple app that uses [Investec Programmabl
 {% hint style="info" %}
 Read more about how OfferZen uses Programmable Banking to manage team spend [here](https://www.offerzen.com/blog/enabling-the-finance-team-to-track-team-card-spend-at-offerzen).
 {% endhint %}
+
+{% file src="../../.gitbook/assets/Programmable Banking Use Case  OfferZen.pdf" %}

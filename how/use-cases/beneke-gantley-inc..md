@@ -1,5 +1,7 @@
 ---
-description: Transaction data automatically fed into LawPracticeZA software
+description: >-
+  Transaction data automatically fed into LawPracticeZA software with
+  Programmable Banking
 ---
 
 # Beneke Gantley Inc.
@@ -20,3 +22,5 @@ The process of downloading bank statements, formatting them, and then uploading 
 ### Winning with Programmable Banking&#x20;
 
 * The integration with Programmable Banking completely removed the need for the Beneke Gantley team to manually upload statements each week.&#x20;
+
+{% file src="../../.gitbook/assets/Programmable Banking Use Case  Beneke Gantley Inc.pdf" %}

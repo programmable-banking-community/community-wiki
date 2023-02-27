@@ -37,7 +37,7 @@
   * [General FAQs](how/general-faqs.md)
   * [Get active & earn swag](how/get-active-and-earn-swag.md)
   * [Use Cases](how/use-cases/README.md)
-    * [Onecart](how/use-cases/onecart.md)
+    * [OneCart](how/use-cases/onecart.md)
     * [African Alliance](how/use-cases/african-alliance.md)
     * [OfferZen](how/use-cases/offerzen.md)
     * [VATIT](how/use-cases/vatit.md)
