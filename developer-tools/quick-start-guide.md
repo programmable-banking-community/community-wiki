@@ -1,10 +1,10 @@
 # Quick Start Guide
 
-This guide will introduce you to Investec’s Programmable Banking API ecosystem.
+This guide will introduce you to **Investec’s Programmable Banking API** ecosystem.
 
 Soon you will be on your way to developing powerful solutions tailored to your personal and business needs with an approachable and easy-to-use API.
 
-There is a community-contributed [Postman Collection](https://www.postman.com/mymonero/workspace/investec-programmable-banking/collection/4766-86625994-2fca-4064-98b3-b47d61fb412a) that you can fork as you follow along in the guide. Let’s get started!
+There is a community-contributed [**Postman Collection**](https://www.postman.com/mymonero/workspace/investec-programmable-banking/collection/4766-86625994-2fca-4064-98b3-b47d61fb412a) that you can fork as you follow along in the guide. Let’s get started!
 
 In this quick start, you’ll learn:
 
@@ -19,7 +19,7 @@ In this quick start, you’ll learn:
 
 To start using the Investec API, you must first obtain credentials for programmatic access. These are used to authenticate your requests so you can transact securely against an Investec Private Bank Account.
 
-Pro Tip: If you do not have an Investec Private Bank Account, you can easily sign up online on the [Investec website.](https://www.investec.com/en\_za/banking/tech-professionals/programmable-banking.html)
+**Pro Tip:** If you do not have an Investec Private Bank Account, you can easily sign up online on the [Investec website.](https://www.investec.com/en\_za/banking/tech-professionals/programmable-banking.html)
 
 If you already have an Investec Private Bank Account, you must enroll your account for Programmable Banking functionality. Contact your Private Banker and request activation for Programmable Banking.&#x20;
 
@@ -217,6 +217,8 @@ As you will see, you have full programmatic control of the process and it does n
 
 </details>
 
-Congratulations on completing the quickstart!. If you need any assistance, you are always welcome to reach out to the Slack community.
+**Congratulations on completing the quick start!** If you need any assistance, you are always welcome to reach out to the Slack community.
 
-Share a screenshot of your 200 with us on Slack when you’re up and running!
+{% hint style="info" %}
+**Share a screenshot of your 200 with us on Slack when you’re up and running!**
+{% endhint %}
