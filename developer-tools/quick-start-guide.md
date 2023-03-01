@@ -23,8 +23,12 @@ To start using the Investec API, you must first obtain credentials for programma
 
 If you already have an Investec Private Bank Account, you must enroll your account for Programmable Banking functionality. Contact your Private Banker and request activation for Programmable Banking.&#x20;
 
-Now that you have an Investec Private Bank Account with Programmable Banking enabled, navigate to the Programmable Banking screen on Investec Online and retrieve your API credentials.\
+Now that you have an Investec Private Bank Account with Programmable Banking enabled, you can retrieve your API credentials online.
 
+You can find them in the _Tools -> Individuals Connections_ section of your Private Client banking:\
+![](<../.gitbook/assets/Keys screen v2.png>)
+
+You will also want to create an API key. Click the _Create new API key_ button and follow the instructions.
 
 </details>
 
@@ -101,11 +105,11 @@ Below is an example response. You want the value in the “accountId” field.
 
 A typical request to retrieve transactions will take the form:
 
-[http://api.investec.com/za/bb/v1/accounts/{accountId}/transactions?fromDate={fromDate}\&toDate={toDate}\&page=1](http://api.investec.com/za/bb/v1/accounts/%7BaccountId%7D/transactions?fromDate=%7BfromDate%7D\&toDate=%7BtoDate%7D\&page=1).
+http://api.investec.com/za/bb/v1/accounts/{accountId}/transactions?fromDate={fromDate}\&toDate={toDate}\&page=1.
 
 Where {accountId} is the account ID you have just obtained, whereas fromDate and toDate can be any [ISO 8601](https://en.wikipedia.org/wiki/ISO\_8601) formatted date \[Example of formatted date: 1999-09-09]].
 
-Let’s get transactions from the last month. Our request would be: [http://api.investec.com/za/bb/v1/accounts/1234-5678/transactions?fromDate=2023-02-22\&toDate=2023-01-22\&page=1](http://api.investec.com/za/bb/v1/accounts/1234-5678/transactions?fromDate=2023-02-22\&toDate=2023-01-22\&page=1).
+Let’s get transactions from the last month. Our request would be: http://api.investec.com/za/bb/v1/accounts/1234-5678/transactions?fromDate=2023-02-22\&toDate=2023-01-22\&page=1.
 
 You can add these parameters to the _Get Account Transactions_ Postman request, taking care to use the correct account ID.
 
@@ -161,7 +165,7 @@ Let’s explore how to make a payment to an existing beneficiary on your account
 
 Please note that you can only make programmatic payments to beneficiaries that have been paid at least once before with regular online banking from your account.
 
-As with accounts, every beneficiary on your banking profile also has a unique ID. You can retrieve the list of beneficiaries from the following endpoint: [https://openapi.investec.com/za/pb/v1/accounts/beneficiaries](https://openapi.investec.com/za/pb/v1/accounts/beneficiaries). Again, you use a bearer token for authentication as with all API requests to the Investec API, and a typical response has the following structure:&#x20;
+As with accounts, every beneficiary on your banking profile also has a unique ID. You can retrieve the list of beneficiaries from the following endpoint: https://openapi.investec.com/za/pb/v1/accounts/beneficiaries. Again, you use a bearer token for authentication as with all API requests to the Investec API, and a typical response has the following structure:&#x20;
 
 ```json
 {
@@ -194,7 +198,7 @@ As with accounts, every beneficiary on your banking profile also has a unique ID
 
 The [Postman Collection](https://www.postman.com/mymonero/workspace/investec-programmable-banking/collection/4766-86625994-2fca-4064-98b3-b47d61fb412a) has a request for this named Beneficiaries (in the Beneficiaries folder)
 
-Now that you have a beneficiary ID, let’s make a small payment to them. For that, we’ll be using [https://openapi.investec.com/za/pb/v1/accounts/{accountId}/paymultiple](https://openapi.investec.com/za/pb/v1/accounts/%7BaccountId%7D/paymultiple).
+Now that you have a beneficiary ID, let’s make a small payment to them. For that, we’ll be using https://openapi.investec.com/za/pb/v1/accounts/{accountId}/paymultiple.
 
 The endpoint receives an array list of payments, as it’s able to process multiple payments at one point. Payments are easily defined and have four key fields:
 
@@ -220,5 +224,5 @@ As you will see, you have full programmatic control of the process and it does n
 **Congratulations on completing the quick start!** If you need any assistance, you are always welcome to reach out to the Slack community.
 
 {% hint style="info" %}
-**Share a screenshot of your 200 with us on Slack when you’re up and running!**
+**Share a screenshot of your 200 with us** [**on Slack**](https://offerzen-community.slack.com/archives/C04KFQA3YCQ) **when you’re up and running!**
 {% endhint %}
