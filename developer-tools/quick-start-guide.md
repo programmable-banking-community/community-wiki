@@ -25,8 +25,9 @@ If you already have an Investec Private Bank Account, you must enroll your accou
 
 Now that you have an Investec Private Bank Account with Programmable Banking enabled, you can retrieve your API credentials online.
 
-You can find them in the _Tools -> Individuals Connections_ section of your Private Client banking:\
-![](<../.gitbook/assets/Keys screen v2.png>)
+You can find them in the _Tools -> Individuals Connections_ section of your Private Client banking:
+
+![](../.gitbook/assets/investec-bank-cred-gif-v2.gif)
 
 You will also want to create an API key. Click the _Create new API key_ button and follow the instructions.
 
