@@ -22,7 +22,7 @@ There are **three different challenges in total, each running for two weekends**
 The challenges are open to developers of all skill levels and backgrounds. You can participate as an individual or as a team.
 
 {% hint style="success" %}
-**Your final bounty builds can be** [**submitted here**](https://8malmkzgvs8.typeform.com/to/GJOLgj9c) **by the deadlines indicated below**.&#x20;
+**Your final bounty builds can be** [**submitted here**](https://8malmkzgvs8.typeform.com/to/GJOLgj9c) **by the deadlines indicated above**.&#x20;
 {% endhint %}
 
 ### What are the challenges?
