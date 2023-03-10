@@ -13,9 +13,9 @@ This tutorial is meant to help you achieve **2 things as quickly as possible** s
 
 ### Step 2: Open Investec Programmable Banking
 
-Log in to your online banking and select the programmable banking option.
+Log in to your online banking and select the programmable banking option, at the bottom of your Overview page.
 
-![](../../.gitbook/assets/tut1)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-10 at 15.46.42.png" alt="Programmable Banking tile on your Overview page"><figcaption></figcaption></figure>
 
 ### Step 3: Select the card you want to code
 
