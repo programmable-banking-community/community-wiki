@@ -14,6 +14,7 @@
 ## ⚒ Developer Tools
 
 * [Quick Start Guide](developer-tools/quick-start-guide.md)
+* [Community Apps](developer-tools/community-apps.md)
 
 ***
 
