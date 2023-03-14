@@ -53,10 +53,16 @@ You will want to set your credentials as variables in the collection for ease of
 
 If your keys are valid, the response will contain the token and an expiration when you send the request.
 
-Here’s an example response:
+Here’s an example response:&#x20;
 
-![](https://lh5.googleusercontent.com/yfYfML8kBUzBkBSg7u-R3jXQvNr62e\_8EWgKFrqYOkWuAo6vtWOWaVD\_L8gNFM-pz6Vq9kR2sZ8NXn0GLS2NwB7XM1TMC44SDqhDCN7Pbc9rqEFJg7sSFuqWcXHXBOUuqBgtrFbbPnrPjOf0A0GlVqM)\
-
+```json
+{
+  "access token": "qwertyuiop123456789",
+  "token_type": "Bearer",
+  "expires_in": "1799",
+  "scope": "accounts",
+ }
+```
 
 </details>
 
@@ -146,7 +152,7 @@ If you have added the correct account ID, you will get a response with structure
 
 That’s it!
 
-Now you know how to pull data from the Investec API. You can discover several other endpoints [in the API reference](https://developer.investec.com/za/api-products/view/5IQOOP9bftOUE5YBdyfQGX), they all authenticate in the same fashion..
+Now you know how to pull data from the Investec API. You can discover several other endpoints in the [API reference](https://developer.investec.com/za/api-products), they all authenticate in the same fashion..
 
 In the next step, we will explore how to push data to the Investec API and effect account changes.&#x20;
 
