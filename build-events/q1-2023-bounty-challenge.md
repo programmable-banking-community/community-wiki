@@ -15,7 +15,7 @@ There are **three different challenges in total, each running for two weekends**
 
 {% hint style="warning" %}
 * ✊ ~~**Challenge 1: Linking Things** | Friday 24 Feb - Monday 6 March 2023~~
-* 👉 **Challenge 2: Build Something Fun**  | <mark style="color:green;">Friday 10 March - Wednesday 22 March</mark> 2023
+* 👉 **Challenge 2: Build Something Simple**  | <mark style="color:green;">Friday 10 March - Wednesday 22 March</mark> 2023
 * ✊ **Challenge 3: Building for a Social Good** | Friday 24 March - Monday 3 April 2023&#x20;
 {% endhint %}
 
