@@ -13,7 +13,7 @@
 
 ## ⚒ Developer Tools
 
-* [Quick Start Guide](developer-tools/quick-start-guide.md)
+* [API Quick Start Guide](developer-tools/api-quick-start-guide.md)
 * [Sample Apps](developer-tools/sample-apps.md)
 
 ***

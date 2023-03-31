@@ -1,6 +1,6 @@
-# Quick Start Guide
+# API Quick Start Guide
 
-📖 This Quick Start Guide provide a step-by-step for getting started on the Investec Programmable Banking API and covers:
+📖 This API Quick Start Guide provide a step-by-step for getting started on the Investec Programmable Banking API and covers:
 
 * How to get your API keys.
 * How to test if your API keys are working.
