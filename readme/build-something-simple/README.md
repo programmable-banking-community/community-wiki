@@ -37,5 +37,5 @@ As with all things, this resource list is a work in progress. If you see somethi
 The concept of Programmable Banking is still relatively new. But before we can meaningfully engage in deeper conversations about the topic of Programmable Banking, it's helpful to know a little more, from how Programmable Banking is defined to its history and the rich opportunities we see to create tomorrow's banking.
 
 {% hint style="info" %}
-**If you are interested in diving into the topic more** - or found relevant learnings **** along your journey that would help others along the path - please **check out and add your contribution to the** [**Programmable Banking Starter Pack here**](https://docs.google.com/document/d/1L81Zj5H-BvaXwIVnYXJeKVHTC6TxLFlGfa9PGe4Vkbg/edit?usp=sharing)**!**
+**If you are interested in diving into the topic more** - or found relevant learnings along your journey that would help others along the path - please **check out and add your contribution to the** [**Programmable Banking Starter Pack here**](https://docs.google.com/document/d/1L81Zj5H-BvaXwIVnYXJeKVHTC6TxLFlGfa9PGe4Vkbg/edit?usp=sharing)**!**
 {% endhint %}

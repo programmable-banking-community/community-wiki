@@ -18,6 +18,6 @@ The community-driven Hackathons are a great way to play with Programmable Bankin
 * [2022 Q2 Hackathon submissions](q2-2022-hackathon-or-low-code-no-code/2022-hackathon-or-low-code-no-code-or-submissions.md) | Low-code/ No-Code Spreadsheet Banking
 * [EskomSePush submissions](closed-eskomsepush-build-challenge/eskomsepush-build-challenge-submissions.md) | API Build Challenge ⚡
 
-****
+
 
 ###

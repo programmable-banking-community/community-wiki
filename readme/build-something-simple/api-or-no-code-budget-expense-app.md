@@ -52,7 +52,7 @@ This tutorial will show you how to set up the framework for a no-code/ low-code 
 > 7. Glide will generate a URL for your app that you can use to access it from any device. You can also download the Glide app from the App Store or Google Play and use it to access your app on your mobile device.\
 >
 >
-> **Share your awesome build with the community in** [**#02\_make-it-happen**](https://offerzen-community.slack.com/archives/C047HMLESSE)**.** :sparkles:****
+> **Share your awesome build with the community in** [**#02\_make-it-happen**](https://offerzen-community.slack.com/archives/C047HMLESSE)**.** :sparkles:
 
 ## 🌈 The long version:
 
@@ -139,7 +139,7 @@ You can follow 📽️ t[his video to see how to add all the fancy reference tab
 * **Drop a screenshot/ link in #**[**02\_make-it-happen**](https://offerzen-community.slack.com/archives/C047HMLESSE)**. We would love to see it! How far can you take this?**
 
 {% hint style="info" %}
-****:sparkles: **There are a million and one more things you can do next.** :sparkles:****
+:sparkles: **There are a million and one more things you can do next.** :sparkles:
 
 * Live data sync with your own Investec account via the Google sheet
 * Trigger transfer between accounts when budget limits are exceeded or below expected.

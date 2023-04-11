@@ -8,7 +8,7 @@ coverY: 0
 {% hint style="info" %}
 ⏰ **Closed** Mon 17th Oct 2022 at 23h59&#x20;
 
-:trophy: **Check out the** [**live demos** ](https://www.youtube.com/watch?v=UR31R2l7UYc)****
+:trophy: **Check out the** [**live demos** ](https://www.youtube.com/watch?v=UR31R2l7UYc)
 {% endhint %}
 
 ### Welcome!
@@ -26,7 +26,7 @@ If you’re interested in building solutions to real South African problems, are
 {% hint style="info" %}
 🗓 **Important Dates:**&#x20;
 
-****
+
 
 **Registration closes** on Fri 14th Oct, 16h00 SAST → [Register here](https://forms.gle/A3CWtRhQr6T7Bdrv6).
 
@@ -127,17 +127,17 @@ We will be hosting two open sessions, which you are welcome to attend if you wan
 ### **What are the important dates I should know about?**
 
 * **Build challenge launch &** [**registration opens**](https://docs.google.com/forms/d/e/1FAIpQLScKnZ33wziwNFQHM9O31xo1O8fjDfcfgfBQD4J46rc00YZYPQ/viewform): Thursday, 6 October, 12h00
-* ****[**Open office hour**](https://lu.ma/4873rwol): Friday, 7 October, 12h00 - 13h00
-* ****[**Open office hour**](https://lu.ma/4873rwol): Wednesday, 12 October, 12h00 - 13h00
-* ****[**Registration closes**](https://docs.google.com/forms/d/e/1FAIpQLScKnZ33wziwNFQHM9O31xo1O8fjDfcfgfBQD4J46rc00YZYPQ/viewform): Friday, 14th October, 16h00
-* ****[**Submit your build here**](https://8malmkzgvs8.typeform.com/to/vz9Ep6ba) before: Monday 17th October, 23:59 SAST.
-* ****[**Online demo event**](https://lu.ma/mau5syw1): Wednesday, 19 October, 18h30 - 20h00
+* [**Open office hour**](https://lu.ma/4873rwol): Friday, 7 October, 12h00 - 13h00
+* [**Open office hour**](https://lu.ma/4873rwol): Wednesday, 12 October, 12h00 - 13h00
+* [**Registration closes**](https://docs.google.com/forms/d/e/1FAIpQLScKnZ33wziwNFQHM9O31xo1O8fjDfcfgfBQD4J46rc00YZYPQ/viewform): Friday, 14th October, 16h00
+* [**Submit your build here**](https://8malmkzgvs8.typeform.com/to/vz9Ep6ba) before: Monday 17th October, 23:59 SAST.
+* [**Online demo event**](https://lu.ma/mau5syw1): Wednesday, 19 October, 18h30 - 20h00
 
 ### What are the prizes?
 
 Everyone that submits a build will receive a pair of EskomSePush or OfferZen socks!
 
-![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (2) (2).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (2) (2) (1).png>)
 
 ### What happens after I submit my build?
 
@@ -164,7 +164,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 By submitting, you grant OfferZen & EskomSePush permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels. OfferZen and EskomSePush do not make any claims over your IP.
 
-### ****
+###
 
 ### Rules
 

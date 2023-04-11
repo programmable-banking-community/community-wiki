@@ -14,6 +14,7 @@
 ## ⚒ Developer Tools
 
 * [API Quick Start Guide](developer-tools/api-quick-start-guide.md)
+* [Card Quick Start Guide](developer-tools/card-quick-start-guide.md)
 * [Sample Apps](developer-tools/sample-apps.md)
 
 ***

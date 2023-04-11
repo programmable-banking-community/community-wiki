@@ -1,7 +1,7 @@
 # 2022 Hackathon | low-code/no-code | Submissions
 
 {% hint style="success" %}
-**Check out the** [**live demos**](https://youtu.be/ByacBXl9Muk?t=1068) **and** [**who won here**](https://youtu.be/ByacBXl9Muk?t=5540) **** :unicorn:****
+**Check out the** [**live demos**](https://youtu.be/ByacBXl9Muk?t=1068) **and** [**who won here**](https://youtu.be/ByacBXl9Muk?t=5540) :unicorn:
 {% endhint %}
 
 ### The kick-ass submissions:

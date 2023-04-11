@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Frame 2 (4).png
 coverY: 0
 ---
 
-# 👩💻 Mindjoy | Kid at Heart Build Challenge
+# 👩💻 \[CLOSED] Mindjoy | Kid at Heart Build Challenge
 
 ## Welcome!
 
@@ -11,13 +11,13 @@ We are excited to announce our **Kid at** 💙 **Build Challenge**, together wit
 
 One of the best ways to learn new and hard things like coding is to work on software projects that excite you, and believe it or not, this is true for grown-ups and kids alike.
 
-****[**Project-based learning** ](https://www.offerzen.com/blog/luno-co-founder-carel-van-wyk-on-leveling-up-with-projects)is a great way to gain knowledge of new technical skills in greater depth and creates an opportunity for you to actively practice coding and keep your skills sharp.
+[**Project-based learning** ](https://www.offerzen.com/blog/luno-co-founder-carel-van-wyk-on-leveling-up-with-projects)is a great way to gain knowledge of new technical skills in greater depth and creates an opportunity for you to actively practice coding and keep your skills sharp.
 
 Channel your inner kid and build that awesome project you wish you had as a 13-year-old!
 
-If you’re sold already, you can register to participate **** [**here**](https://8malmkzgvs8.typeform.com/to/grKy36U4)**.**
+If you’re sold already, you can register to participate [**here**](https://8malmkzgvs8.typeform.com/to/grKy36U4)**.**
 
-## **A message from Mindjoy founder,** [**Gabi Immelman**](https://za.linkedin.com/in/gabi-immelman-15a1165b)****
+## **A message from Mindjoy founder,** [**Gabi Immelman**](https://za.linkedin.com/in/gabi-immelman-15a1165b)
 
 {% embed url="https://www.loom.com/share/8632cf479fcb4921a9f194f478014d77" %}
 
@@ -25,8 +25,8 @@ If you’re sold already, you can register to participate **** [**here**](https:
 
 {% hint style="info" %}
 ![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Registration open **Tuesday, 15th November** → [Register here](https://8malmkzgvs8.typeform.com/to/grKy36U4)\
-![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Submissions close on **Monday 28 November, 23h59** -> **** [Submit your build here](https://8malmkzgvs8.typeform.com/to/oaYG8xpN)\
-![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) **** Join us & Mindjoy for awesome build demos on **Wed 30 November, 18h30 ->** [Register to attend here](https://lu.ma/6w8v3upz)
+![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Submissions close on **Monday 28 November, 23h59** -> [Submit your build here](https://8malmkzgvs8.typeform.com/to/oaYG8xpN)\
+![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Join us & Mindjoy for awesome build demos on **Wed 30 November, 18h30 ->** [Register to attend here](https://lu.ma/6w8v3upz)
 {% endhint %}
 
 ## What is the Kid at Heart Build Challenge about?
@@ -53,11 +53,11 @@ We have opened this challenge up to the developer community and you are welcome 
 
 You can participate alone or as part of a team and you can be part of multiple teams if you want to.
 
-You can [**register to participate here.**](https://8malmkzgvs8.typeform.com/to/grKy36U4)****
+You can [**register to participate here.**](https://8malmkzgvs8.typeform.com/to/grKy36U4)
 
 ### Do I need to use a specific environment for kids to learn?
 
-Yes, you will need to create your project in **Replit**. You can create a free account **** [**here.** ](https://replit.com/)****
+Yes, you will need to create your project in **Replit**. You can create a free account [**here.** ](https://replit.com/)
 
 Replit have some really nice and [easy-to-read guides ](https://docs.replit.com/tutorials/overview)to get going quickly.
 
@@ -109,13 +109,13 @@ If you need help/advice while building, or want to find others to join you, ask 
 
 Our Community Champ, [Devin Pearson](https://za.linkedin.com/in/pearsondevin), will also be available to guide you. There are two ways you can reach out to Devin for support:
 
-* [ ] **AskMeAnything (AMA)** on [Slack](https://offerzen-community.slack.com/archives/C04APBL53D3) - Don’t be shy to ask Devin questions on the Slack channel. He is very nice and super wise. **** Your questions are useful to other participants.&#x20;
+* [ ] **AskMeAnything (AMA)** on [Slack](https://offerzen-community.slack.com/archives/C04APBL53D3) - Don’t be shy to ask Devin questions on the Slack channel. He is very nice and super wise. Your questions are useful to other participants.&#x20;
 * [ ] **Book a time slot** - You can book some one-on-one time with Devin [here](https://calendly.com/nick-offerzen/mindjoy-build-support).
 
 ### What are the important dates I should know about?
 
 ![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Registration opens **Tuesday, 15th November** → [Register here](https://8malmkzgvs8.typeform.com/to/grKy36U4)\
-![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Submit your build before **Monday 28 November, 23h59** -> **** [Submit your build here](https://8malmkzgvs8.typeform.com/to/oaYG8xpN)\
+![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png) Submit your build before **Monday 28 November, 23h59** -> [Submit your build here](https://8malmkzgvs8.typeform.com/to/oaYG8xpN)\
 ![:point\_right:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449.png)Online demo event on **Wed 30 November, 18h30 ->** [Register to attend here](https://lu.ma/6w8v3upz)
 
 ### What are the prizes?&#x20;
@@ -146,7 +146,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <strong>
-</strong><strong>// End license text.</strong></code></pre>
+</strong><strong>// End license text.
+</strong></code></pre>
 
 By submitting, you grant OfferZen & Mindjoy permission to use screenshots, code-snippets and links to your project or content of your submission on our Twitter, blog, website, email updates, and in OfferZen slack channels.
 
