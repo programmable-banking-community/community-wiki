@@ -7,7 +7,7 @@
 * How to programmatically retrieve information from an Investec account.
 * How to programmatically initiate banking transactions.
 
-There is a community-contributed [**Postman Collection**](https://www.postman.com/mymonero/workspace/investec-programmable-banking/collection/4766-86625994-2fca-4064-98b3-b47d61fb412a) that we recommend you fork as you follow along in the guide. Let’s get started!
+There is a community-contributed [**Postman Collection**](https://www.postman.com/investec-open-api/workspace/programmable-banking/overview) that we recommend you fork as you follow along in the guide. Let’s get started!
 
 <details>
 
@@ -78,7 +78,7 @@ Every account on your bank account has a unique ID that you use when transacting
 
 Make an API call to https://openapi.investec.com/za/pb/v1/accounts. It does not take any special parameters and returns a JSON list of all your accounts and their IDs.
 
-Run the Get Accounts request in the [Postman collection](https://www.postman.com/mymonero/workspace/investec-programmable-banking/collection/4766-86625994-2fca-4064-98b3-b47d61fb412a), and remember to add the bearer token obtained earlier on as variable in your Postman environment.
+Run the Get Accounts request in the [Postman collection](https://www.postman.com/investec-open-api/workspace/programmable-banking/request/26868804-37aea713-c406-450b-a3e3-adca642caa6c), and remember to add the bearer token obtained earlier on as variable in your Postman environment.
 
 Below is an example response. You want the value in the “accountId” field.
 
@@ -199,7 +199,7 @@ As with accounts, every beneficiary on your banking profile also has a unique ID
 }
 ```
 
-The [Postman Collection](https://www.postman.com/mymonero/workspace/investec-programmable-banking/collection/4766-86625994-2fca-4064-98b3-b47d61fb412a) has a request for this named Beneficiaries (in the Beneficiaries folder)
+The [Postman Collection](https://www.postman.com/investec-open-api/workspace/programmable-banking/request/26868804-1bc46536-5cf4-4c41-8fe7-0f77ce9f0d90) has a request for this named Beneficiaries (in the Beneficiaries folder)
 
 Now that you have a beneficiary ID, let’s make a small payment to them. For that, we’ll be using https://openapi.investec.com/za/pb/v1/accounts/{accountId}/paymultiple.
 
@@ -218,7 +218,7 @@ The endpoint receives an array list of payments, as it’s able to process multi
 }
 ```
 
-The [Postman collection](https://www.postman.com/mymonero/workspace/investec-programmable-banking/collection/4766-86625994-2fca-4064-98b3-b47d61fb412a) has a Beneficiary Payment request you can use to try this out for yourself.
+The [Postman collection](https://www.postman.com/investec-open-api/workspace/programmable-banking/request/26868804-66e7b38a-86f7-49b2-9977-4b0ea2c696a6) has a Beneficiary Payment request you can use to try this out for yourself.
 
 As you will see, you have full programmatic control of the process and it does not require additional manual verification.
 

@@ -87,7 +87,7 @@ Once you are happy with your code and have tested it out, you may deploy your ch
 
 :credit\_card: **How to use Programmable Cards via the Card API**
 
-There is a community-contributed[ **Postman Collection**](https://www.postman.com/mymonero/workspace/investec-programmable-banking/collection/4766-86625994-2fca-4064-98b3-b47d61fb412a) that we recommend you fork as you follow along in the guide.
+There is a community-contributed[ **Postman Collection**](https://www.postman.com/investec-open-api/workspace/programmable-banking/overview) that we recommend you fork as you follow along in the guide.
 
 In order to use the API, please refer to the [**following guide**](https://offerzen.gitbook.io/programmable-banking-community-wiki/developer-tools/api-quick-start-guide) to get your API Keys and to familiarise yourself with the Authentication process.
 
