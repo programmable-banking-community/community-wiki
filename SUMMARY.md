@@ -40,6 +40,7 @@
 * [Get Involved](community/get-involved.md)
 * [Community Manifesto](community/community-manifesto.md)
 * [Blog posts](community/blog-posts.md)
+* [Developer Finance Guide](https://www.developersfinance.guide/)
 
 ## 💬 Feedback and Support
 
