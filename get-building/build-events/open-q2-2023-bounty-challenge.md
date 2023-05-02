@@ -14,25 +14,25 @@ The challenges are designed to be short and fun, something you can build on week
 There are **two different challenges in total, each open for one month.**
 
 {% hint style="warning" %}
-* :point\_right: **Code Snippet Challenge** | <mark style="color:green;">Tue 2 May -Sun 28 May 2023</mark>
-* ✊ **Full Project Build** | <mark style="color:orange;">Mon 29 May - Sun 25 June 2023</mark>
+* :point\_right: **Code Snippet Challenge** | <mark style="color:green;">Tue 2 May -Mon 29 May 2023 23h59 SAST</mark>
+* ✊ **Full Project Build** | <mark style="color:orange;">Mon 29 May - Mon 26 June 2023 23h59 SAST</mark>
 {% endhint %}
 
 The challenges are open to developers of all skill levels and backgrounds. You can participate as an individual or as a team.
 
 {% hint style="success" %}
-**Your final bounty challenges can be** [**submitted here**](https://8malmkzgvs8.typeform.com/to/GJOLgj9c) **anytime before the deadlines indicated above - and we'll ship off your swag!**&#x20;
+**Your final bounty challenges can be** [**submitted here**](https://8malmkzgvs8.typeform.com/to/wobyAEBu) **anytime before the deadlines indicated above - and we'll ship off your swag!**&#x20;
 {% endhint %}
 
 ### What are the challenges?
 
 | Challenge              | Description                                                                                                                         | Things to consider                                                                                                                                         |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code Snippet**       | Create and share a code snippet that showcases the capabilities of the Programmable Banking Card.                                   | Level of innovation and creativity in the use of the Programmable Banking Card.                                                                            |
+| **Code Snippet**       | Create and share a simple code snippet that showcases the capabilities of the Programmable Banking Card.                            | Level of innovation and creativity in the use of the Programmable Banking Card.                                                                            |
 | **Full Project Build** | Create and share a full project build that uses the Programmable Banking Card to create a new payment experience or business model. | <p></p><p>Level of innovation and creativity in the use of the Programmable Banking Card.</p><p></p><p>Level of impact and feasibility of the project.</p> |
 
 {% hint style="info" %}
-[**All submissions**](https://8malmkzgvs8.typeform.com/to/GJOLgj9c) **must have the minimum** of documentation on; what it is, how it works and how to install it. As well as a link to the code demonstrating the build. \
+[**All submissions**](https://8malmkzgvs8.typeform.com/to/wobyAEBu) **must have the minimum** of documentation on; what it is, how it works and how to install it. As well as a link to the code demonstrating the build. \
 _Some challenges might have additional requirements - so watch out for them_ :wink:
 {% endhint %}
 
@@ -44,7 +44,7 @@ _Some challenges might have additional requirements - so watch out for them_ :wi
 | **Full Project Build** | <p>Create a new payment experience that uses the Programmable Banking Card to facilitate transactions in a new and innovative way. <br><br><strong>Example</strong>: <a href="https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#built-with-investec-programmable-card">Card Guard</a></p> |
 
 {% hint style="info" %}
-💡 **Note**: Participants must use the can choose to use the Programmable Banking Card, but also include the Programmable Banking API in some fashion in their [submissions](https://8malmkzgvs8.typeform.com/to/GJOLgj9c) for each challenge.
+💡 **Note**: Participants <mark style="color:red;">**must use the Programmable Banking Card**</mark>, but can also include the Programmable Banking API in some fashion if they wish in their [submissions](https://8malmkzgvs8.typeform.com/to/wobyAEBu) for each challenge.
 {% endhint %}
 
 ### What do I get - a part from some serious community :heart\_decoration::heart\_decoration::heart\_decoration:, of course?
@@ -63,7 +63,7 @@ _Some challenges might have additional requirements - so watch out for them_ :wi
 😜 **Don’t worry, having issues is good!** We are actually more interested in things that don’t work than things that do. 🤫&#x20;
 {% endhint %}
 
-3️⃣Submit your final builds for each challenge by its due date via [this submission form](https://8malmkzgvs8.typeform.com/to/GJOLgj9c).
+3️⃣Submit your final builds for each challenge by its due date via [this submission form](https://8malmkzgvs8.typeform.com/to/wobyAEBu).
 
 ### Where do I get support?
 
@@ -71,7 +71,7 @@ _Some challenges might have additional requirements - so watch out for them_ :wi
 * We'll also explain the details of the bounty challenges and the criteria for winning rewards in that channel.
 
 {% hint style="info" %}
-💡 **ProTip:** If you learn something interesting while building, be sure to add it in a ./knowledge file to your [build submissions](https://8malmkzgvs8.typeform.com/to/GJOLgj9c), so everyone can benefit!
+💡 **ProTip:** If you learn something interesting while building, be sure to add it in a ./knowledge file to your [build submissions](https://8malmkzgvs8.typeform.com/to/wobyAEBu), so everyone can benefit!
 {% endhint %}
 
 ### What are the submission criteria?
@@ -79,7 +79,7 @@ _Some challenges might have additional requirements - so watch out for them_ :wi
 Great question!
 
 * We recommend using [GitHub](https://github.com/) to share your code with the community.&#x20;
-* You can create a public repository and share the link with us via [this submission form](https://8malmkzgvs8.typeform.com/to/GJOLgj9c).
+* You can create a public repository and share the link with us via [this submission form](https://8malmkzgvs8.typeform.com/to/wobyAEBu).
 * This will give us easy access to your project, and it will allow other members of the community to review and comment on your work. 🥳
 
 We will also be providing more detailed instructions on how to submit your projects closer to the submission deadline.
