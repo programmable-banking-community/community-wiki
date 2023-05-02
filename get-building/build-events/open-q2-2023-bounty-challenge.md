@@ -8,6 +8,10 @@ Are you ready for your next challenge? We are excited to announce a new communit
 * Spark your creativity, collaborate and share with the community.
 * Showcase your skills and win rewards.
 
+{% hint style="info" %}
+**Check out the** [**Card Quick Start Guide**](../../get-started/card-quick-start-guide.md)**, to get up and running quickly.** ☄️
+{% endhint %}
+
 ## What do I need to know?
 
 The challenges are designed to be short and fun, something you can build on weekends, by yourself or working with friends (_give_ [_Nick_](https://offerzen-community.slack.com/archives/D01R7N2T67J) _a shout if you're looking for a new buddy_ :hugging:). \
