@@ -13,11 +13,18 @@
 
 ## ⚒ Get Building
 
+* [Community Libraries & Tools](get-building/community-libraries-and-tools.md)
+* [Open-Source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
 * [Build Tutorials & Templates](get-building/build-something-simple/README.md)
   * [💳 Card | Slack Intergration](get-building/build-something-simple/card-or-slack-intergration.md)
   * [🚗 Card | How to create a DIY petrol card](get-building/build-something-simple/card-or-how-to-create-a-diy-petrol-card.md)
   * [🎯 API | No-code Budget Expense App](get-building/build-something-simple/api-or-no-code-budget-expense-app.md)
-* [Open-Source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
+* [Use Cases](get-building/use-cases/README.md)
+  * [OneCart](get-building/use-cases/onecart.md)
+  * [African Alliance](get-building/use-cases/african-alliance.md)
+  * [OfferZen](get-building/use-cases/offerzen.md)
+  * [VATIT](get-building/use-cases/vatit.md)
+  * [Beneke Gantley Inc.](get-building/use-cases/beneke-gantley-inc..md)
 * [Build Challenges](get-building/build-events/README.md)
   * [💳 \[OPEN\] Q2 2023 Bounty Challenge](get-building/build-events/open-q2-2023-bounty-challenge/README.md)
     * [🗺 Q2 2023 Bounty Challenge: The Ultimate Fun and Engaging Checklist for Bounty Hunters 🚀🏆](get-building/build-events/open-q2-2023-bounty-challenge/q2-2023-bounty-challenge-the-ultimate-fun-and-engaging-checklist-for-bounty-hunters.md)
@@ -30,12 +37,6 @@
     * [2022 Hackathon | low-code/no-code | Submissions](get-building/build-events/q2-2022-hackathon-or-low-code-no-code/2022-hackathon-or-low-code-no-code-or-submissions.md)
   * [💰 \[CLOSED\] Spreadsheet Banking | Bounties](get-building/build-events/closed-spreadsheet-banking-or-bounties/README.md)
     * [👩💻 Spreadsheet Banking | Basic Functions](get-building/build-events/closed-spreadsheet-banking-or-bounties/spreadsheet-banking-or-basic-functions.md)
-* [Use Cases](get-building/use-cases/README.md)
-  * [OneCart](get-building/use-cases/onecart.md)
-  * [African Alliance](get-building/use-cases/african-alliance.md)
-  * [OfferZen](get-building/use-cases/offerzen.md)
-  * [VATIT](get-building/use-cases/vatit.md)
-  * [Beneke Gantley Inc.](get-building/use-cases/beneke-gantley-inc..md)
 
 ## 🙌 Community&#x20;
 
