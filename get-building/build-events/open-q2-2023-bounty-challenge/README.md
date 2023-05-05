@@ -30,10 +30,10 @@ The challenges are open to developers of all skill levels and backgrounds. You c
 
 ### What are the challenges?
 
-| Challenge              | Description                                                                                                                         | Things to consider                                                                                                                                         |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code Snippet**       | Create and share a simple code snippet that showcases the capabilities of the Programmable Banking Card.                            | Level of innovation and creativity in the use of the Programmable Banking Card.                                                                            |
-| **Full Project Build** | Create and share a full project build that uses the Programmable Banking Card to create a new payment experience or business model. | <p></p><p>Level of innovation and creativity in the use of the Programmable Banking Card.</p><p></p><p>Level of impact and feasibility of the project.</p> |
+| Challenge              | Description                                                                                                                                                                                                                                                                                                                                       | Things to consider                                                                                                                                         |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Code Snippet**       | Create and share a simple code snippet that showcases the capabilities of the Programmable Banking Card.                                                                                                                                                                                                                                          | Level of innovation and creativity in the use of the Programmable Banking Card.                                                                            |
+| **Full Project Build** | <p>Create and share a full project build that uses the Programmable Banking Card to create a new payment experience or business model. <br><br>💡 Identify a <a href="./#a-few-possible-real-life-use-cases-for-programmable-banking-cards.">real-life problem</a> you'd like to solve using the Programmable Banking Card's control features</p> | <p></p><p>Level of innovation and creativity in the use of the Programmable Banking Card.</p><p></p><p>Level of impact and feasibility of the project.</p> |
 
 {% hint style="info" %}
 [**All submissions**](https://8malmkzgvs8.typeform.com/to/wobyAEBu) **must have the minimum** of documentation on; what it is, how it works and how to install it. As well as a link to the code demonstrating the build. \
@@ -89,6 +89,14 @@ Great question!
 We will also be providing more detailed instructions on how to submit your projects closer to the submission deadline.
 
 We hope this helps! If you have any more questions or concerns, please don't hesitate to reach out on our [community Slack channel](https://offerzen-community.slack.com/archives/C048GPNT49W).
+
+## A few possible real-life use cases for Programmable Banking cards.
+
+1. **Security Alerts:** Create a solution that sends an alert to your mobile device or email whenever there's unusual activity, like large purchases, or foreign transactions. This could be a great way to enhance the security of your card and catch any fraudulent activity quickly.
+2. **Budget Management:** You could build a feature that helps manage your budget by setting spending limits on specific categories (like dining out, online shopping, etc.). The card could be programmed to decline transactions once you've hit your budget for that category, helping you stay within your financial goals.
+3. **Parental Controls:** Parents could control their children's spending by setting limits or approving certain types of purchases. For example, allowing only educational or necessary expenses, limiting spend on entertainment, or setting a daily or weekly spending limit.
+4. **Business Expense Management:** For those using their card for business expenses, creating a solution to automatically tag and categorise purchases for easy expense reporting could be a real-time-saver. For example, all purchases at office supply stores could be automatically tagged as "office supplies" for easy sorting and reporting later.
+5. **Sustainable Spending:** Create a solution that helps you align your spending with your values. For example, the card could decline transactions from businesses that don't align with your chosen sustainability criteria, or alert you when you're making a purchase at a business that exceeds your carbon footprint limit.
 
 ## FAQs:
 
