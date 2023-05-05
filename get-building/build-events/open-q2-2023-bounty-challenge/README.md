@@ -9,7 +9,7 @@ Are you ready for your next challenge? We are excited to announce a new communit
 * Showcase your skills and win rewards.
 
 {% hint style="info" %}
-**Check out the** [**Card Quick Start Guide**](../../get-started/card-quick-start-guide.md)**, to get up and running quickly.** ☄️
+**Check out the** [**Card Quick Start Guide**](../../../get-started/card-quick-start-guide.md)**, to get up and running quickly.** ☄️
 {% endhint %}
 
 ## What do I need to know?
@@ -44,7 +44,7 @@ _Some challenges might have additional requirements - so watch out for them_ :wi
 
 | Challenge              | Build Examples                                                                                                                                                                                                                                                                                                             |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code Snippet**       | <p>Create a code snippet that allows the Programmable Banking Card to be used as a form of authentication or verification for online transactions.</p><p></p><p><strong>Example</strong>: <a href="../build-something-simple/card-or-how-to-create-a-diy-petrol-card.md">DIY Petrol Card</a></p>                           |
+| **Code Snippet**       | <p>Create a code snippet that allows the Programmable Banking Card to be used as a form of authentication or verification for online transactions.</p><p></p><p><strong>Example</strong>: <a href="../../build-something-simple/card-or-how-to-create-a-diy-petrol-card.md">DIY Petrol Card</a></p>                        |
 | **Full Project Build** | <p>Create a new payment experience that uses the Programmable Banking Card to facilitate transactions in a new and innovative way. <br><br><strong>Example</strong>: <a href="https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#built-with-investec-programmable-card">Card Guard</a></p> |
 
 {% hint style="info" %}
@@ -53,13 +53,13 @@ _Some challenges might have additional requirements - so watch out for them_ :wi
 
 ### What do I get - a part from some serious community :heart\_decoration::heart\_decoration::heart\_decoration:, of course?
 
-<figure><img src="../../.gitbook/assets/swag pics.png" alt=""><figcaption><p><strong>If you meet the submission requirements</strong>, you'll be <strong>eligible to receive one of our awesome swag items</strong>. <br>So make sure to submit your entry and claim your prize! 🤩</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/swag pics.png" alt=""><figcaption><p><strong>If you meet the submission requirements</strong>, you'll be <strong>eligible to receive one of our awesome swag items</strong>. <br>So make sure to submit your entry and claim your prize! 🤩</p></figcaption></figure>
 
 ### How do I get started?
 
 1️⃣ To get started, simply let us know you’re in for the bounty challenge on our [Bounties Slack Channel](https://offerzen-community.slack.com/archives/C048GPNT49W) with an “**I’m In!**”.&#x20;
 
-<figure><img src="../../.gitbook/assets/im_in.gif" alt=""><figcaption><p>Just type this in the Bounties chanel and you'll be in like MacGruber. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/im_in.gif" alt=""><figcaption><p>Just type this in the Bounties chanel and you'll be in like MacGruber. </p></figcaption></figure>
 
 2️⃣ If you have any questions, need any build support or are just looking to have build buddies to chat with - ping us in the [Bounties Slack channel](https://offerzen-community.slack.com/archives/C048GPNT49W) and an awesome champ will be happy to jump in.
 
