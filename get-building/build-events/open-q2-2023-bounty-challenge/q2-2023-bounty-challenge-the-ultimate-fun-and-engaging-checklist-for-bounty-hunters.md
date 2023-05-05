@@ -1,8 +1,8 @@
 # 🗺 Q2 2023 Bounty Challenge: The Ultimate Fun and Engaging Checklist for Bounty Hunters 🚀🏆
 
-Hey, Bounty Hunters! The [Q2 2023 Bounty Challenge](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-building/build-events/open-q2-2023-bounty-challenge) has begun, and we've got not one, but TWO amazing challenges for you to tackle! To help you navigate this epic journey, we've created a super fun and engaging checklist that you can follow. You'll find suggested timelines and tips to make the most of your experience. Ready to embark on this thrilling adventure? Let's dive in! 🎉
+Hey, Bounty Hunters! The [Q2 2023 Bounty Challenge](q2-2023-bounty-challenge-the-ultimate-fun-and-engaging-checklist-for-bounty-hunters.md) has begun, and we've got not one, but TWO amazing challenges for you to tackle! To help you navigate this epic journey, we've created a super fun and engaging checklist that you can follow. You'll find suggested timelines and tips to make the most of your experience. Ready to embark on this thrilling adventure? Let's dive in! 🎉
 
-## 🎯 Challenge #1: The Great API Integration Hunt (May 2023)
+## 🎯 [Challenge #1](./#what-are-the-challenges): The Great API Integration Hunt (May 2023)
 
 #### Week 1: (8 - 12 May)
 
@@ -28,11 +28,11 @@ Hey, Bounty Hunters! The [Q2 2023 Bounty Challenge](https://offerzen.gitbook.io/
 * [ ] **Step 9:** `[Optional]` Create a 2min demo video showcasing your amazing work. 🎥
 * [ ] **Step 10:** Submit your project and celebrate your achievement! 🎉
 
-## 🎯 Challenge #2: The Full Project Build Challenge (June 2023)
+## 🎯 [Challenge #2](./#what-are-the-challenges): The Full Project Build Challenge (June 2023)
 
 #### Week 1: (29 May - 2 June)
 
-* [ ] **Step 1:** Identify a real-life problem you'd like to solve using the Programmable Banking Card's control features.
+* [ ] **Step 1:** [Identify a real-life problem](./#a-few-possible-real-life-use-cases-for-programmable-banking-cards.) you'd like to solve using the Programmable Banking Card's control features.
 
 {% hint style="info" %}
 **Pro Tip:** Check out the [Card](../../../get-started/card-quick-start-guide.md) & [API](../../../get-started/api-quick-start-guide.md) Quick Start Guides as well as community-shared[ Replit for basic webhooks](https://replit.com/@devinpearson1/Investec-Card-Webhook?v=2), for the programmable card.
@@ -59,6 +59,6 @@ Good luck, and most importantly, have a blast! 🎊
 
 Don't forget to [submit your awesome builds before the deadlines](https://8malmkzgvs8.typeform.com/to/wobyAEBu)!
 
-If you meet the submission requirements, you'll be eligible to [receive one of our awesome swag items](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-building/build-events/open-q2-2023-bounty-challenge#what-do-i-get-a-part-from-some-serious-community-of-course). So make sure to submit your entry and claim your prize! 🤩
+If you meet the submission requirements, you'll be eligible to [receive one of our awesome swag items](./#what-do-i-get-a-part-from-some-serious-community-of-course). So make sure to submit your entry and claim your prize! 🤩
 
 <figure><img src="../../../.gitbook/assets/high_five_community.gif" alt=""><figcaption></figcaption></figure>
