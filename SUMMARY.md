@@ -6,7 +6,7 @@
 
 ## ⚒ Get Started
 
-* [Developer Docs](https://developer.investec.com/za/api-products)
+* [Investec Developer Docs](https://developer.investec.com/za/api-products)
 * [API Quick Start Guide](get-started/api-quick-start-guide.md)
 * [Card Quick Start Guide](get-started/card-quick-start-guide.md)
 * [Sample Apps](get-started/sample-apps.md)

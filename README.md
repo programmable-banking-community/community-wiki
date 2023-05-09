@@ -5,11 +5,11 @@ coverY: -124
 
 # Programmable Banking Community
 
-## :raised\_hands: **Welcome to the** **Programmable Banking Community Wiki**
+## :raised\_hands: **Welcome to the** [**Programmable Banking**](https://www.investec.com/en\_za/banking/tech-professionals/programmable-banking.html) **Community Wiki**
 
 :book: **This is a public repo and source of truth for all Programmable Banking Community resources.**&#x20;
 
-The Programmable Banking Community is a space for anyone interested in building out fintech solutions, sharing ideas, and connecting with other like-minded developers.
+The [**Programmable Banking Community**](https://developer.investec.com/za/community) is a space for anyone interested in building out fintech solutions, sharing ideas, and connecting with other like-minded developers.&#x20;
 
 If you have a passion for technology and are interested in building on the banking experience this is the place for you.
 
@@ -17,9 +17,11 @@ If you have a passion for technology and are interested in building on the banki
 **Join the Programmable Banking Community by signing up** [**here**](https://8malmkzgvs8.typeform.com/to/VlKgTtaV?typeform-source=app.gitbook.com) ✍️
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=PcU0aT5ckDM" %}
+
 ## :tools: Building with Programmable Banking&#x20;
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><ul><li><a href="https://developer.investec.com/za/api-products">Developer Docs</a></li><li><a href="get-started/api-quick-start-guide.md">API QuickStart Guide</a></li><li><a href="broken-reference">Card Quick Start Guide</a></li><li><a href="get-started/sample-apps.md">Sample Apps</a></li></ul></td><td></td><td></td><td><a href=".gitbook/assets/Get Started.jpg">Get Started.jpg</a></td></tr><tr><td><ul><li><a href="get-building/build-something-simple/">Build Tutorials</a></li><li><a href="get-building/build-events/">Build Challenges</a></li><li><a href="https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects">Community Code &#x26; Libraries</a></li><li><a href="get-building/use-cases/">Use Cases</a></li></ul></td><td>🔧 <strong>Get Building</strong> </td><td> </td><td><a href=".gitbook/assets/Get Building (1).jpg">Get Building (1).jpg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><ul><li><a href="https://developer.investec.com/za/api-products">Investec Developer Docs</a></li><li><a href="get-started/api-quick-start-guide.md">API QuickStart Guide</a></li><li><a href="broken-reference">Card Quick Start Guide</a></li><li><a href="get-started/sample-apps.md">Sample Apps</a></li></ul></td><td></td><td></td><td><a href=".gitbook/assets/Get Started.jpg">Get Started.jpg</a></td></tr><tr><td><ul><li><a href="get-building/community-libraries-and-tools.md">Community Libraries and Tools</a></li><li><a href="get-building/build-something-simple/">Build Tutorials</a></li><li><a href="get-building/build-events/">Build Challenges</a></li><li><a href="get-building/use-cases/">Use Cases</a></li></ul></td><td>🔧 <strong>Get Building</strong> </td><td> </td><td><a href=".gitbook/assets/Get Building (1).jpg">Get Building (1).jpg</a></td></tr></tbody></table>
 
 ## :speech\_balloon: Feedback & Support&#x20;
 
