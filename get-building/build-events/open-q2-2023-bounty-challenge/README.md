@@ -9,7 +9,7 @@ Are you ready for your next challenge? We are excited to announce a new communit
 * Showcase your skills and win rewards.
 
 {% hint style="info" %}
-**Check out the** [**Card Quick Start Guide**](../../../get-started/card-quick-start-guide.md)**, to get up and running quickly.** ☄️
+**Check out the** [**Card Quick Start Guide**](../../../get-started/card-quick-start-guide/)**, to get up and running quickly.** ☄️
 {% endhint %}
 
 ## What do I need to know?

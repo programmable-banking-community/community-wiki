@@ -9,7 +9,7 @@ Hey, Bounty Hunters! The [Q2 2023 Bounty Challenge](q2-2023-bounty-challenge-the
 * [ ] **Step 1:** Choose your favourite API that you've always wanted to integrate with the Programmable Banking Card.
 
 {% hint style="success" %}
-**Pro Tip:** Check out the [Card](../../../get-started/card-quick-start-guide.md) & [API](../../../get-started/api-quick-start-guide.md) Quick Start Guides as well as community-shared[ Replit for basic webhooks](https://replit.com/@devinpearson1/Investec-Card-Webhook?v=2), for the programmable card.
+**Pro Tip:** Check out the [Card](../../../get-started/card-quick-start-guide/) & [API](../../../get-started/api-quick-start-guide/) Quick Start Guides as well as community-shared[ Replit for basic webhooks](https://replit.com/@devinpearson1/Investec-Card-Webhook?v=2), for the programmable card.
 {% endhint %}
 
 * [ ] **Step 2:** Brainstorm your creative ideas and plan your project.
@@ -35,11 +35,11 @@ Hey, Bounty Hunters! The [Q2 2023 Bounty Challenge](q2-2023-bounty-challenge-the
 * [ ] **Step 1:** [Identify a real-life problem](./#a-few-possible-real-life-use-cases-for-programmable-banking-cards.) you'd like to solve using the Programmable Banking Card's control features.
 
 {% hint style="info" %}
-**Pro Tip:** Check out the [Card](../../../get-started/card-quick-start-guide.md) & [API](../../../get-started/api-quick-start-guide.md) Quick Start Guides as well as community-shared[ Replit for basic webhooks](https://replit.com/@devinpearson1/Investec-Card-Webhook?v=2), for the programmable card.
+**Pro Tip:** Check out the [Card](../../../get-started/card-quick-start-guide/) & [API](../../../get-started/api-quick-start-guide/) Quick Start Guides as well as community-shared[ Replit for basic webhooks](https://replit.com/@devinpearson1/Investec-Card-Webhook?v=2), for the programmable card.
 {% endhint %}
 
 * [ ] **Step 2:** Sketch out your solution and outline your project goals.
-* [ ] **Step 3:** Set up your development environment and familiarise yourself with the [card control API](../../../get-started/card-quick-start-guide.md).
+* [ ] **Step 3:** Set up your development environment and familiarise yourself with the [card control API](../../../get-started/card-quick-start-guide/).
 
 #### Week 2: (5 - 9 June)
 

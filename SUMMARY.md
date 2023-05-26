@@ -7,8 +7,16 @@
 ## ⚒ Get Started
 
 * [Investec Developer Docs](https://developer.investec.com/za/api-products)
-* [API Quick Start Guide](get-started/api-quick-start-guide.md)
-* [Card Quick Start Guide](get-started/card-quick-start-guide.md)
+* [API Quick Start Guide](get-started/api-quick-start-guide/README.md)
+  * [🔑 How to get your API keys](get-started/api-quick-start-guide/how-to-get-your-api-keys.md)
+  * [👤 How to authenticate](get-started/api-quick-start-guide/how-to-authenticate.md)
+  * [🏦 How to get your transaction history](get-started/api-quick-start-guide/how-to-get-your-transaction-history.md)
+  * [💸 How to make a payment](get-started/api-quick-start-guide/how-to-make-a-payment.md)
+* [Card Quick Start Guide](get-started/card-quick-start-guide/README.md)
+  * [🙌 How to activate your card for Programmable Banking](get-started/card-quick-start-guide/how-to-activate-your-card-for-programmable-banking.md)
+  * [🖥️ How to add code to your card](get-started/card-quick-start-guide/how-to-add-code-to-your-card.md)
+  * [💰 How to simulate a transaction](get-started/card-quick-start-guide/how-to-simulate-a-transaction.md)
+  * [💳 How to use the Cards API](get-started/card-quick-start-guide/how-to-use-the-cards-api.md)
 * [Sample Apps](get-started/sample-apps.md)
 
 ## ⚒ Get Building
