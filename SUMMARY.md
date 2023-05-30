@@ -22,6 +22,7 @@
 ## ⚒ Get Building
 
 * [Community Libraries & Tools](get-building/community-libraries-and-tools.md)
+* [Community GitHub](https://github.com/programmable-banking-community)
 * [Open-Source Projects](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects)
 * [Build Tutorials & Templates](get-building/build-something-simple/README.md)
   * [💳 Card | Slack Intergration](get-building/build-something-simple/card-or-slack-intergration.md)
