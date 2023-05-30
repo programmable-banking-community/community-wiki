@@ -55,6 +55,6 @@
 
 ## 💬 Feedback and Support
 
+* [Community FAQs](feedback-and-support/community-faqs.md)
 * [Feature Requests](https://programmable-banking-community.canny.io)
 * [Submit Product Issues](https://gitlab.com/offerzen-community/investec-programmable-banking/issues-and-ideas)
-* [General FAQs](feedback-and-support/general-faqs.md)
