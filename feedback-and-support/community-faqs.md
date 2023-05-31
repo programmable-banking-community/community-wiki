@@ -48,7 +48,7 @@ Check out [How to get your transaction history](../get-started/api-quick-start-g
 
 You can use the "Get Accounts" endpoint (GET /za/pb/v1/accounts) to obtain a list of accounts associated with a profile. This endpoint requires the authorisation bearer token.
 
-Check out [How to get your transaction history](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/api-quick-start-guide/how-to-get-your-transaction-history) for more details.
+Check out [How to get your transaction history](../get-started/api-quick-start-guide/how-to-get-your-transaction-history.md) for more details.
 
 </details>
 
@@ -58,7 +58,7 @@ Check out [How to get your transaction history](https://offerzen.gitbook.io/prog
 
 You can use the "Get Account Balance" endpoint (GET /za/pb/v1/accounts/{accountId}/balance) to retrieve the balance of a specific account. Replace {accountId} with the actual account ID.
 
-Check out [How to get your transaction history](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/api-quick-start-guide/how-to-get-your-transaction-history) for more details.
+Check out [How to get your transaction history](../get-started/api-quick-start-guide/how-to-get-your-transaction-history.md) for more details.
 
 </details>
 
@@ -68,7 +68,7 @@ Check out [How to get your transaction history](https://offerzen.gitbook.io/prog
 
 You can use the "Get Account Transactions" endpoint (GET /za/pb/v1/accounts/{accountId}/transactions) to fetch transactions for a specific account. You can provide optional query parameters such as _fromDate_, _toDate_, and _transactionType_ to filter the transactions.
 
-Check out [How to get your transaction history](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/api-quick-start-guide/how-to-get-your-transaction-history) for more details.
+Check out [How to get your transaction history](../get-started/api-quick-start-guide/how-to-get-your-transaction-history.md) for more details.
 
 </details>
 
@@ -141,7 +141,7 @@ Once you have created a beneficiary, make at least one payment to that beneficia
 
 The payment limit via the API is currently R20 000.00. You must have made a payment to the beneficiary via [Investec Online](https://login.secure.investec.com/wpaas/usrroot-wpaas/login/form) before making a payment to a beneficiary via the API.
 
-Check out [How to make a payment](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/api-quick-start-guide/how-to-make-a-payment) for more details.&#x20;
+Check out [How to make a payment](../get-started/api-quick-start-guide/how-to-make-a-payment.md) for more details.
 
 </details>
 
@@ -153,7 +153,7 @@ Check out [How to make a payment](https://offerzen.gitbook.io/programmable-banki
 
 Login to the [Investec Online Portal ](https://login.secure.investec.com/wpaas/usrroot-wpaas/login/form)and navigate to Programmable Banking. Navigate to the desired card on your profile and ensure that you have enabled it for Programmable Banking by toggling the button below the card. Click on the card to open up the Online IDE.
 
-Check out [How to activate your card for Programmable Banking](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/card-quick-start-guide/how-to-activate-your-card-for-programmable-banking) for more details.
+Check out [How to activate your card for Programmable Banking](../get-started/card-quick-start-guide/how-to-activate-your-card-for-programmable-banking.md) for more details.&#x20;
 
 </details>
 
@@ -163,7 +163,7 @@ Check out [How to activate your card for Programmable Banking](https://offerzen.
 
 You can use the beforeTransaction method in the main.js file to intercept the authorization object before it is approved by Investec. Within this method, you can apply logic to either approve or decline the transaction based on the authorization data or external data sources.
 
-Check out H[ow to add code to your card](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/card-quick-start-guide/how-to-add-code-to-your-card) for more details.
+Check out [How to add code to your card](../get-started/card-quick-start-guide/how-to-add-code-to-your-card.md) for more details.&#x20;
 
 </details>
 
@@ -173,7 +173,7 @@ Check out H[ow to add code to your card](https://offerzen.gitbook.io/programmabl
 
 Yes, you can apply conditional logic within the beforeTransaction method to approve or decline a transaction based on specific criteria. For example, you can check the transaction amount, beneficiary details, or other factors to determine the appropriate action.
 
-Check out H[ow to add code to your card](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/card-quick-start-guide/how-to-add-code-to-your-card) for more details.
+Check out [How to add code to your card](../get-started/card-quick-start-guide/how-to-add-code-to-your-card.md) for more details.
 
 </details>
 
@@ -207,7 +207,7 @@ Environment variables can be defined and saved in the env.json file. These varia
 
 You can differentiate between simulated transactions and production transactions by checking the transaction reference. In the afterTransaction method, you can compare transaction.reference with a specific value (e.g., "simulation") to identify simulated transactions.
 
-Check out [How to simulate a transaction](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/card-quick-start-guide/how-to-simulate-a-transaction) for more details.
+Check out [How to simulate a transaction ](../get-started/card-quick-start-guide/how-to-simulate-a-transaction.md)for more details.&#x20;
 
 </details>
 
