@@ -8,7 +8,7 @@ We collated a list of some of the most common questions community members are as
 
 If you have a question that isn't covered by these FAQs, post it on the [Slack channel](https://offerzen-community.slack.com/archives/C048HKU4P0X) 💬
 
-And if you find the solution to an error or a bug, write is down, post in the [Slack channel](https://offerzen-community.slack.com/archives/C048HKU4P0X) or record a quick video. Chances are other developers are having the same issue, and you might save them a lot of time 💜
+And if you find the solution to an error or a bug, write it down, post it in the [Slack channel](https://offerzen-community.slack.com/archives/C048HKU4P0X) or record a quick video. Chances are other developers are having the same issue, and you might save them a lot of time 💜
 
 ## 🖥️ Investec API FAQs
 
@@ -18,7 +18,7 @@ And if you find the solution to an error or a bug, write is down, post in the [S
 
 You can create API keys for your account by logging into the [Investec Online Portal](https://login.secure.investec.com/wpaas/usrroot-wpaas/login/form). Navigate to "Tools" -->  “Programmable Banking” to access your API credentials and create API key(s).&#x20;
 
-Check out [How to Get your API Keys](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/api-quick-start-guide/how-to-get-your-api-keys) for more details.
+Check out [How to Get your API key](../get-started/api-quick-start-guide/how-to-get-your-api-keys.md) for more details.&#x20;
 
 </details>
 
@@ -28,7 +28,7 @@ Check out [How to Get your API Keys](https://offerzen.gitbook.io/programmable-ba
 
 The authentication process involves obtaining an access token using the OAuth 2.0 Authorisation Framework. You'll need to make a request to the authentication endpoint with your client credentials to receive the access token.&#x20;
 
-Check out [How to authenticate](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/api-quick-start-guide/how-to-authenticate) for more details.
+Check out [How to authenticate](../get-started/api-quick-start-guide/how-to-authenticate.md) for more details.&#x20;
 
 </details>
 
@@ -38,7 +38,7 @@ Check out [How to authenticate](https://offerzen.gitbook.io/programmable-banking
 
 The API provides several endpoints, such as "Get Accounts," "Get Account Balance," and "Get Account Transactions," which allow you to retrieve account details, balances, and transaction information. These endpoints support HTTP methods like GET and POST.
 
-Check out [How to get your transaction history](https://offerzen.gitbook.io/programmable-banking-community-wiki/get-started/api-quick-start-guide/how-to-get-your-transaction-history) for more details.
+Check out [How to get your transaction history](../get-started/api-quick-start-guide/how-to-get-your-transaction-history.md) for more details.&#x20;
 
 </details>
 
