@@ -6,6 +6,8 @@ There are plenty of ways to be active in the community. Here are just a few exam
 
 ![Examples of how to be active in the community](<../.gitbook/assets/\[External] Programmable Banking Meetup 27 Jan 2022.png>)
 
+<figure><img src="../.gitbook/assets/how_to_cocreate_in_community.png" alt="How to co-create in the community"><figcaption><p>How to co-create in the community</p></figcaption></figure>
+
 ### What roles are there in the community?
 
 We view the community like ~~a marketing funnel~~ orbits in a solar system 💫. The more Gravity X Love you have for the community, the closer to the core you get. i.e. 4 = Pluto & 1 = the sun, if we are talking orbits of celestial bodies.
