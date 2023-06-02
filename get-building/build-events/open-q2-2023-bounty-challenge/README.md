@@ -19,7 +19,7 @@ There are **two different challenges in total, each open for one month.**
 
 {% hint style="warning" %}
 * :point\_right: **Code Snippet Challenge** | <mark style="color:green;">Tue 2 May -Mon 29 May 2023 23h59 SAST</mark>
-* ✊ **Full Project Build** | <mark style="color:orange;">Mon 29 May - Mon 26 June 2023 23h59 SAST</mark>
+* ✊ **Full Project Build** | <mark style="color:orange;">Mon 5 June - Mon 26 June 2023 23h59 SAST</mark>
 {% endhint %}
 
 The challenges are open to developers of all skill levels and backgrounds. You can participate as an individual or as a team.
