@@ -18,8 +18,8 @@ The challenges are designed to be short and fun, something you can build on week
 There are **two different challenges in total, each open for one month.**
 
 {% hint style="warning" %}
-* :point\_right: **Code Snippet Challenge** | <mark style="color:green;">Tue 2 May -Mon 29 May 2023 23h59 SAST</mark>
-* ✊ **Full Project Build** | <mark style="color:orange;">Mon 5 June - Mon 26 June 2023 23h59 SAST</mark>
+* ✊ ~~**Code Snippet Challenge** | <mark style="color:red;">Tue 2 May -Mon 29 May 2023 23h59 SAST</mark>~~
+* :point\_right: **Code Snippet Showdown** | <mark style="color:green;">Mon 5 June - Mon 26 June 2023 23h59 SAST</mark>
 {% endhint %}
 
 The challenges are open to developers of all skill levels and backgrounds. You can participate as an individual or as a team.
@@ -28,12 +28,9 @@ The challenges are open to developers of all skill levels and backgrounds. You c
 **Your final bounty challenges can be** [**submitted here**](https://8malmkzgvs8.typeform.com/to/wobyAEBu) **anytime before the deadlines indicated above - and we'll ship off your swag!**&#x20;
 {% endhint %}
 
-### What are the challenges?
+### What is the challenge?
 
-| Challenge              | Description                                                                                                                                                                                                                                                                                                                                       | Things to consider                                                                                                                                         |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code Snippet**       | Create and share a simple code snippet that showcases the capabilities of the Programmable Banking Card.                                                                                                                                                                                                                                          | Level of innovation and creativity in the use of the Programmable Banking Card.                                                                            |
-| **Full Project Build** | <p>Create and share a full project build that uses the Programmable Banking Card to create a new payment experience or business model. <br><br>💡 Identify a <a href="./#a-few-possible-real-life-use-cases-for-programmable-banking-cards.">real-life problem</a> you'd like to solve using the Programmable Banking Card's control features</p> | <p></p><p>Level of innovation and creativity in the use of the Programmable Banking Card.</p><p></p><p>Level of impact and feasibility of the project.</p> |
+<table><thead><tr><th width="159">Challenge</th><th width="315">Description</th><th>Things to consider</th></tr></thead><tbody><tr><td><strong>Code Snippet</strong></td><td>Create and share a simple code snippet that showcases the capabilities of the Programmable Banking Card.<br><br>💡 Identify a <a href="./#a-few-possible-real-life-use-cases-for-programmable-banking-cards.">real-life problem</a> you'd like to solve using the Programmable Banking Card's control features</td><td>Level of innovation and creativity in the use of the Programmable Banking Card.</td></tr><tr><td><strong>Code Snippet Showdown</strong></td><td>A quest for the most ingenious and creative card code snippets. Create unique, efficient, and innovative code snippets that can enhance the functionality of the card.<br><br>💡 Choose a Challenge Card: Select one or more Challenge Cards that spark your interest.</td><td>Focus on crafting simple but powerful code snippets that demonstrate the capabilities of the Programmable Banking Card. Show us how you can make everyday tasks easier, automate processes, or create delightful interactions with just a few lines of code.</td></tr></tbody></table>
 
 {% hint style="info" %}
 [**All submissions**](https://8malmkzgvs8.typeform.com/to/wobyAEBu) **must have the minimum** of documentation on; what it is, how it works and how to install it. As well as a link to the code demonstrating the build. \
@@ -42,10 +39,10 @@ _Some challenges might have additional requirements - so watch out for them_ :wi
 
 **A few example projects for each challenge to ponder** :thinking:
 
-| Challenge              | Build Examples                                                                                                                                                                                                                                                                                                             |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code Snippet**       | <p>Create a code snippet that allows the Programmable Banking Card to be used as a form of authentication or verification for online transactions.</p><p></p><p><strong>Example</strong>: <a href="../../build-something-simple/card-or-how-to-create-a-diy-petrol-card.md">DIY Petrol Card</a></p>                        |
-| **Full Project Build** | <p>Create a new payment experience that uses the Programmable Banking Card to facilitate transactions in a new and innovative way. <br><br><strong>Example</strong>: <a href="https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#built-with-investec-programmable-card">Card Guard</a></p> |
+| Challenge           | Build Examples                                                                                                                                                                                                                                                                                                                               |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Code Snippet**    | <p>Create a code snippet that allows the Programmable Banking Card to be used as a form of authentication or verification for online transactions.</p><p></p><p><strong>Example</strong>: <a href="../../build-something-simple/card-or-how-to-create-a-diy-petrol-card.md">DIY Petrol Card</a></p>                                          |
+| **Challenge Cards** | To make this challenge even more engaging, we're introducing "Challenge Cards" - a set of predefined tasks and scenarios that you can choose from to create your code snippets. These Challenge Cards will provide specific use cases or functionalities you can explore, allowing you to demonstrate your skills in a fun and targeted way. |
 
 {% hint style="info" %}
 💡 **Note**: Participants <mark style="color:red;">**must use the Programmable Banking Card**</mark>, but can also include the Programmable Banking API in some fashion if they wish in their [submissions](https://8malmkzgvs8.typeform.com/to/wobyAEBu) for each challenge.
