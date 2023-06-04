@@ -32,7 +32,7 @@ Hey, Bounty Hunters! The [Q2 2023 Bounty Challenge](checklist-for-bounty-hunters
 
 #### Week 1: (29 May - 2 June)
 
-* [ ] **Step 1:** [Identify a real-life problem](./#a-few-possible-real-life-use-cases-for-programmable-banking-cards.) or pickup a [Challenge Card](../bounty-challenge-2-code-snippet-showdown.md) you'd like to solve using the Programmable Banking Card's control features.
+* [ ] **Step 1:** [Identify a real-life problem](./#a-few-possible-real-life-use-cases-for-programmable-banking-cards.) or pickup a [Challenge Card](bounty-challenge-2-code-snippet-showdown.md) you'd like to solve using the Programmable Banking Card's control features.
 
 {% hint style="info" %}
 **Pro Tip:** Check out the [Card](../../../get-started/card-quick-start-guide/) & [API](../../../get-started/api-quick-start-guide/) Quick Start Guides as well as community-shared[ Replit for basic webhooks](https://replit.com/@devinpearson1/Investec-Card-Webhook?v=2), for the programmable card.

@@ -37,7 +37,7 @@
 * [Build Challenges](get-building/build-events/README.md)
   * [💳 \[OPEN\] Q2 2023 Bounty Challenge](get-building/build-events/open-q2-2023-bounty-challenge/README.md)
     * [🗺 Checklist for Bounty Hunters 🏆](get-building/build-events/open-q2-2023-bounty-challenge/checklist-for-bounty-hunters.md)
-  * [🚀 Bounty Challenge #2: Code Snippet Showdown 🚀](get-building/build-events/bounty-challenge-2-code-snippet-showdown.md)
+    * [🚀 Bounty Challenge #2: Code Snippet Showdown 🚀](get-building/build-events/open-q2-2023-bounty-challenge/bounty-challenge-2-code-snippet-showdown.md)
   * [💰 \[OPEN\] Bounties Playground | banking.make.dev](get-building/build-events/open-bounties-playground-or-banking.make.dev.md)
   * [🏔 \[CLOSED\] Q1 2023 Bounty Challenge](get-building/build-events/closed-q1-2023-bounty-challenge.md)
   * [👩💻 \[CLOSED\] Mindjoy | Kid at Heart Build Challenge](get-building/build-events/closed-mindjoy-or-kid-at-heart-build-challenge.md)
