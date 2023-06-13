@@ -19,10 +19,7 @@ description: >-
 
 ## Tools
 
-| DESCRIPTION                                    | PROJECT                                                                                                      | AUTHOUR                                          |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
-| <p><strong>Mock API simulator</strong><br></p> | [programmablebanking-sim](https://github.com/devinpearson/programmable-banking-sim)                          | [Devin Pearson](https://github.com/devinpearson) |
-| **Postman Collection**                         | [investec-api-collection](https://www.postman.com/investec-open-api/workspace/programmable-banking/overview) | [Devin Pearson](https://github.com/devinpearson) |
+<table><thead><tr><th width="266.3333333333333">DESCRIPTION</th><th>PROJECT</th><th>AUTHOUR</th></tr></thead><tbody><tr><td><strong>Mock API simulator</strong><br></td><td><a href="https://github.com/devinpearson/programmable-banking-sim">programmablebanking-sim</a></td><td><a href="https://github.com/devinpearson">Devin Pearson</a></td></tr><tr><td><strong>Postman Collection</strong></td><td><a href="https://www.postman.com/investec-open-api/workspace/programmable-banking/overview">investec-api-collection</a></td><td><a href="https://github.com/devinpearson">Devin Pearson</a></td></tr><tr><td><strong>Authentication component</strong></td><td><a href="https://www.npmjs.com/package/investec-auth-library">investec-auth-library</a></td><td><a href="https://github.com/dominicsanto">Dom Santo</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 Keen to create and maintain a library for others in the community to use?&#x20;
