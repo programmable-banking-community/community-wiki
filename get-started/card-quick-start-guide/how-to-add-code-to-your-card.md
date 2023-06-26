@@ -19,7 +19,7 @@ Once you have enabled your card for Programmable Banking, select the desired car
 The file which you will be working on the most is the `main.js` file that is open in the screenshot above. To test out adding code to your card, you can paste the following code snippet into the `main.js` file as shown below. The code snippet declines card purchases that are made in bakeries (using a specified merchant code) and that are over R50 (or 5000 cents). You can add the code snippet to the `main.js` file and it won’t have any effect on your card until you click “deploy code to card”.
 
 {% hint style="info" %}
-**Pro-Tip:** When referring to amounts in the code it is the cent value of the transaction. R55 equals 5050 cents.
+**Pro-Tip:** When referring to amounts in the code it is the cent value of the transaction. R55 equals 5500 cents.
 {% endhint %}
 
 ````javascript
