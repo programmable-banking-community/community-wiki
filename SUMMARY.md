@@ -40,15 +40,15 @@
     * [🚀 Bounty Challenge #2: Code Snippet Showdown 🚀](get-building/build-events/open-q2-2023-bounty-challenge/bounty-challenge-2-code-snippet-showdown.md)
   * [💰 \[OPEN\] Bounties Playground | banking.make.dev](get-building/build-events/open-bounties-playground-or-banking.make.dev.md)
   * [🏔 \[CLOSED\] Q1 2023 Bounty Challenge](get-building/build-events/closed-q1-2023-bounty-challenge.md)
-  * [👩💻 \[CLOSED\] Mindjoy | Kid at Heart Build Challenge](get-building/build-events/closed-mindjoy-or-kid-at-heart-build-challenge.md)
+  * [👩💻 👩💻 \[CLOSED\] Mindjoy | Kid at Heart Build Challenge](get-building/build-events/closed-mindjoy-or-kid-at-heart-build-challenge.md)
   * [⚡ \[CLOSED\] EskomSePush Build Challenge](get-building/build-events/closed-eskomsepush-build-challenge/README.md)
     * [EskomSePush Build Challenge Submissions](get-building/build-events/closed-eskomsepush-build-challenge/eskomsepush-build-challenge-submissions.md)
   * [💳 \[CLOSED\] 2022 Hackathon | low-code/no-code](get-building/build-events/q2-2022-hackathon-or-low-code-no-code/README.md)
     * [2022 Hackathon | low-code/no-code | Submissions](get-building/build-events/q2-2022-hackathon-or-low-code-no-code/2022-hackathon-or-low-code-no-code-or-submissions.md)
   * [💰 \[CLOSED\] Spreadsheet Banking | Bounties](get-building/build-events/closed-spreadsheet-banking-or-bounties/README.md)
-    * [👩💻 Spreadsheet Banking | Basic Functions](get-building/build-events/closed-spreadsheet-banking-or-bounties/spreadsheet-banking-or-basic-functions.md)
+    * [👩💻 👩💻 Spreadsheet Banking | Basic Functions](get-building/build-events/closed-spreadsheet-banking-or-bounties/spreadsheet-banking-or-basic-functions.md)
 
-## 🙌 Community&#x20;
+## 🙌 Community
 
 * [Get Involved](community/get-involved.md)
 * [Community Manifesto](community/community-manifesto.md)
