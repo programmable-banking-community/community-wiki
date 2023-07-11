@@ -35,7 +35,7 @@
   * [VATIT](get-building/use-cases/vatit.md)
   * [Beneke Gantley Inc.](get-building/use-cases/beneke-gantley-inc..md)
 * [Build Challenges](get-building/build-events/README.md)
-  * [💳 \[OPEN\] Q2 2023 Bounty Challenge](get-building/build-events/open-q2-2023-bounty-challenge/README.md)
+  * [💳 \[CLOSED\] Q2 2023 Bounty Challenge](get-building/build-events/open-q2-2023-bounty-challenge/README.md)
     * [🗺 Checklist for Bounty Hunters 🏆](get-building/build-events/open-q2-2023-bounty-challenge/checklist-for-bounty-hunters.md)
     * [🚀 Bounty Challenge #2: Code Snippet Showdown 🚀](get-building/build-events/open-q2-2023-bounty-challenge/bounty-challenge-2-code-snippet-showdown.md)
   * [💰 \[OPEN\] Bounties Playground | banking.make.dev](get-building/build-events/open-bounties-playground-or-banking.make.dev.md)
@@ -54,6 +54,7 @@
 * [Community Manifesto](community/community-manifesto.md)
 * [Blog posts](community/blog-posts.md)
 * [Developer Finance Guide](https://www.developersfinance.guide/)
+* [Community Integration Pros](community/community-integration-pros.md)
 
 ## 💬 Feedback and Support
 

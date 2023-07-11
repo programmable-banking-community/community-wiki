@@ -1,4 +1,4 @@
-# 💳 \[OPEN] Q2 2023 Bounty Challenge
+# 💳 \[CLOSED] Q2 2023 Bounty Challenge
 
 ## What's it all about?
 
@@ -19,10 +19,14 @@ There are **two different challenges in total, each open for one month.**
 
 {% hint style="warning" %}
 * ✊ ~~**Code Snippet Challenge** | <mark style="color:red;">Tue 2 May -Mon 29 May 2023 23h59 SAST</mark>~~
-* :point\_right: **Code Snippet Showdown** | <mark style="color:green;">Mon 5 June - Mon 26 June 2023 23h59 SAST</mark>
+* ✊ ~~**Code Snippet Showdown** | <mark style="color:red;">Mon 5 June - Mon 26 June 2023 23h59 SAST</mark>~~
 {% endhint %}
 
 The challenges are open to developers of all skill levels and backgrounds. You can participate as an individual or as a team.
+
+## View Winning Submissions Here
+
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vQxTbrqEj9vUgw3Gqeor3VGtN-FUMTX_MwvY2J5BUuFAM8ammRsSNfm9_tLMluL2cKPprStUPn-H9YH/pub?delayms=3000&loop=false&start=false" %}
 
 {% hint style="success" %}
 **Your final bounty challenges can be** [**submitted here**](https://8malmkzgvs8.typeform.com/to/wobyAEBu) **anytime before the deadlines indicated above - and we'll ship off your swag!**&#x20;
