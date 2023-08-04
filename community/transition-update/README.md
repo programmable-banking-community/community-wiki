@@ -24,7 +24,7 @@ Hi there, folks! We've got some big news about our Programmable Banking Communit
 
 The journey of our Programmable Banking community is a tale of collaboration and innovation. Born from a [partnership between Investec and OfferZen/Make](https://www.offerzen.com/blog/building-a-programmable-bank-account-for-developers-part-2), we set out to empower developers to create their own banking experiences. Together, we've grown into a thriving ecosystem of developers, innovators, and tech enthusiasts.
 
-<figure><img src="../../.gitbook/assets/community-screenshot (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/community-screenshot (1).png" alt=""><figcaption><p>Some awesome humans from the community!</p></figcaption></figure>
 
 **Now, we're poised to start** [**the next chapter**](https://www.offerzen.com/blog/programmable-banking-part-3). We're transitioning from the Make (OfferZen) Slack workspace to our own dedicated Programmable Banking Slack workspace. **We're taking ownership of the community and aiming to shape its future into a self-sustaining entity**. We can't wait to see where this journey takes us!
 
@@ -40,11 +40,11 @@ Our top priority is ensuring this transition is as smooth as possible for all me
 
 ## The Plan
 
-<figure><img src="../../.gitbook/assets/[EXTERNAL] V2 Proposed Community Migration Timeline.jpg" alt=""><figcaption><p><a href="../../get-building/build-events/q2-2022-hackathon-or-low-code-no-code/">Source image here</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[EXTERNAL] V2 Proposed Community Migration Timeline.jpg" alt=""><figcaption><p>[<a href="https://drive.google.com/file/d/1Tv52j604X6hDCLfTYRuGIzycCLS_n1XF/view?usp=sharing">Source image here</a>]</p></figcaption></figure>
 
-We've thought long and hard about this move. It's not just about changing where we hang out online, but also about what this means for our community. Here's a snapshot of what to expect:
+**We've thought long and hard about this move**. It's not just about changing where we hang out online, but also about what this means for our community. Here's a snapshot of what to expect:
 
-* **Step 1:** We're launching our dedicated Programmable Banking Slack workspace in August. You'll receive an invitation to join us there. ([Slack migration guide here](https://docs.google.com/document/d/1sGZtsOOagZ2q6d7zf7lD4MjM9nguBGlPyyjnOCCCC2A/edit?usp=sharing))
+* **Step 1:** We're launching our dedicated Programmable Banking Slack workspace in August. You'll receive an invitation to join us there. ([Slack migration guide here](quick-slack-guide.md))
 * **Step 2:** We'll host a series of virtual office hours. This is your chance to learn more about the transition, ask questions, and share your thoughts.
 * **Step 3**: Gradually, we'll start migrating activities and discussions from the current Slack workspace to the new Programmable Banking Slack workspace. We'll ensure all key resources and information are transferred too.
 * **Step 4:** Finally, once everyone's settled in the new workspace, we'll retire the old Slack channels. **But don’t worry, no one will be removed from the Offerzen Workspace**. Instead, all the engaging Programmable Banking discussions will be happening in a dedicated Workspace.
