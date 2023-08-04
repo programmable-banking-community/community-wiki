@@ -55,6 +55,9 @@
 * [Blog posts](community/blog-posts.md)
 * [Developer Finance Guide](https://www.developersfinance.guide/)
 * [Community Integration Pros](community/community-integration-pros.md)
+* [🔄 Transition Update](community/transition-update/README.md)
+  * [Quick Slack Guide](community/transition-update/quick-slack-guide.md)
+  * [The Transition FAQ](community/transition-update/the-transition-faq.md)
 
 ## 💬 Feedback and Support
 
