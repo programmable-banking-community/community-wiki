@@ -22,7 +22,7 @@ description: Community FAQs for the transition process
 
 ### Q: Will there be any major changes to the community?
 
-**A**: While the operations and day-to-day management will transition to Investecare, the things you love about the community will stay the same. We are still dedicated to fostering a supportive and collaborative environment for our members.
+**A**: While the operations and day-to-day management will transition to Investec, the things you love about the community will stay the same. We are still dedicated to fostering a supportive and collaborative environment for our members.
 
 ### Q: Will the community rules and guidelines change?
 
