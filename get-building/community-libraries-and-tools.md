@@ -14,6 +14,7 @@ description: >-
 | GraphQL       | [investec.graphql](https://github.com/naartjie/investec.graphql)                             | [Marcin Jekot](https://github.com/naartjie)                                                                          |
 | PHP           | [investec-sdk-php](https://github.com/nikspyratos/investec-sdk-php)                          | [Nik Spyratos](https://github.com/nikspyratos)                                                                       |
 | Python        | [ipb-python-wrapper](https://github.com/GoosenA/ipb-python-wrapper)                          | [Anri Goosen](https://github.com/GoosenA)                                                                            |
+| Phython       | [investec-api-python](https://github.com/tailucas/investec-api-python)                       | [Tai Lucas](https://github.com/tailucas)                                                                             |
 | Ruby on Rails | [investec-open-api](https://github.com/programmable-banking-community/investec\_open\_api)   | [Markus Kuhn](https://github.com/MarkusKuhn), [Jethro Flanagan](https://github.com/jethroflanagan) & community team  |
 | TypeScript    | [investecAPI npm module](https://github.com/FrikkieSnyman/investec-api)                      | [Frikkie Snyman ](https://github.com/FrikkieSnyman)                                                                  |
 
